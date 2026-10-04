@@ -1,0 +1,42 @@
+MSG_EX_ILLUST_01,Кроно
+MSG_EX_ILLUST_02,Марл
+MSG_EX_ILLUST_03,Лукка
+MSG_EX_ILLUST_04,Робо
+MSG_EX_ILLUST_05,Фрог
+MSG_EX_ILLUST_06,Эйла
+MSG_EX_ILLUST_07,Магус
+MSG_EX_ILLUST_08,Лёд и пламя
+MSG_EX_ILLUST_09,Появление Эйлы
+MSG_EX_ILLUST_10,Эйла и дактиль
+MSG_EX_ILLUST_11,Лети, вождь!
+MSG_EX_ILLUST_12,Эпоха
+MSG_EX_ILLUST_13,Улыбка принцессы
+MSG_EX_ILLUST_14,В пасть тьмы
+MSG_EX_ILLUST_15,Крылья времени
+MSG_EX_ILLUST_16,Свадьба
+MSG_EX_ILLUST_17,Эскиз Кроно
+MSG_EX_ILLUST_18,Эскиз Марл
+MSG_EX_ILLUST_19,Эскиз Лукки
+MSG_EX_ILLUST_20,Эскиз Робо
+MSG_EX_ILLUST_21,Эскиз Фрога
+MSG_EX_ILLUST_22,Эскиз Эйлы
+MSG_EX_ILLUST_23,Эскиз Магуса
+MSG_EX_ILLUST_24,Битва в подземелье
+MSG_EX_ILLUST_25,Комбо-атака
+MSG_EX_ILLUST_26,Лицом к лицу с Владыкой демонов
+MSG_EX_ILLUST_27,Всадники на дактилях
+MSG_EX_ILLUST_28,Эпоха, вперёд!
+MSG_EX_ILLUST_29,Привал в лесу
+MSG_EX_ILLUST_30,Под звёздным небом
+MSG_EX_MOVIE_01,Отражения
+MSG_EX_MOVIE_02,Чему суждено случиться
+MSG_EX_MOVIE_03,Беда приходит
+MSG_EX_MOVIE_04,Сломанный Робо
+MSG_EX_MOVIE_05,Могучая Эйла
+MSG_EX_MOVIE_06,Масамунэ обнажён
+MSG_EX_MOVIE_07,Перед Владыкой демонов
+MSG_EX_MOVIE_08,Полёт дактилей
+MSG_EX_MOVIE_09,Первый полёт Эпохи
+MSG_EX_MOVIE_10,Пророчество сбылось
+MSG_EX_ILLUST_31,Защита города
+MSG_EX_ILLUST_32,Мой дом

@@ -1,0 +1,145 @@
+MSG_FIELD_GENDAI_01,Дом <NAME_CRO>
+MSG_FIELD_GENDAI_02,Дом <NAME_LUC>
+MSG_FIELD_GENDAI_03,Трактир Трюса
+MSG_FIELD_GENDAI_04,Площадь Линэ
+MSG_FIELD_GENDAI_05,Паромная станция
+MSG_FIELD_GENDAI_06,Прибрежный водоворот
+MSG_FIELD_GENDAI_07,Лес Гардии
+MSG_FIELD_GENDAI_08,Замок Гардии
+MSG_FIELD_GENDAI_09,Тюремные башни
+MSG_FIELD_GENDAI_10,Мост Зенан
+MSG_FIELD_GENDAI_11,Святилище Фионы
+MSG_FIELD_GENDAI_12,Трактир Порре
+MSG_FIELD_GENDAI_13,Улиточный привал
+MSG_FIELD_GENDAI_14,Лесные руины
+MSG_FIELD_GENDAI_15,Трактир Медины
+MSG_FIELD_GENDAI_16,Площадь Медины
+MSG_FIELD_GENDAI_17,Хижина Мельхиора
+MSG_FIELD_GENDAI_18,Пещера Хекран
+MSG_FIELD_GENDAI_19,Трактир Хораса
+MSG_FIELD_GENDAI_20,Северные руины
+MSG_FIELD_GENDAI_21,Могила героя
+MSG_FIELD_GENDAI_22,Западный мыс
+MSG_FIELD_GENDAI_23,Рынок
+MSG_FIELD_GENDAI_24,Усадьба мэра
+MSG_FIELD_GENDAI_25,Дом старейшины
+MSG_FIELD_GENDAI_26,Жилой дом
+MSG_FIELD_GENDAI_27,Святилище Солнца
+MSG_FIELD_GENDAI_28,Чёрное Знамение
+MSG_FIELD_CHUSEI_01,Трактир Трюса
+MSG_FIELD_CHUSEI_02,Каньон Трюс
+MSG_FIELD_CHUSEI_03,Лес Гардии
+MSG_FIELD_CHUSEI_04,Замок Гардии
+MSG_FIELD_CHUSEI_05,Собор Манолии
+MSG_FIELD_CHUSEI_06,Мост Зенан
+MSG_FIELD_CHUSEI_07,Трактир Дорино
+MSG_FIELD_CHUSEI_08,Вилла Фионы
+MSG_FIELD_CHUSEI_09,Песчаная впадина
+MSG_FIELD_CHUSEI_10,Горы Денадоро
+MSG_FIELD_CHUSEI_11,Волшебная пещера
+MSG_FIELD_CHUSEI_12,Проклятый лес
+MSG_FIELD_CHUSEI_13,Трактир Порре
+MSG_FIELD_CHUSEI_14,Дом Таты
+MSG_FIELD_CHUSEI_15,Таверна
+MSG_FIELD_CHUSEI_16,Трактир Хораса
+MSG_FIELD_CHUSEI_17,Коготь Гиганта
+MSG_FIELD_CHUSEI_18,Замок Владыки демонов
+MSG_FIELD_CHUSEI_19,Форт Оззи
+MSG_FIELD_CHUSEI_20,Святилище Солнца
+MSG_FIELD_CHUSEI_21,Чёрное Знамение
+MSG_FIELD_MIRAI_01,Купол Транн
+MSG_FIELD_MIRAI_02,Купол Бангор
+MSG_FIELD_MIRAI_03,Сектор 16
+MSG_FIELD_MIRAI_04,Купол Аррис
+MSG_FIELD_MIRAI_05,Купол Аррис:\нижние ярусы
+MSG_FIELD_MIRAI_06,Сектор 32
+MSG_FIELD_MIRAI_07,Заброшенная фабрика
+MSG_FIELD_MIRAI_08,Купол Прото
+MSG_FIELD_MIRAI_09,Купол Гено
+MSG_FIELD_MIRAI_10,Старая канализация
+MSG_FIELD_MIRAI_11,Купол Хранителя
+MSG_FIELD_MIRAI_12,Пик Смерти
+MSG_FIELD_MIRAI_13,Храм Солнца
+MSG_FIELD_MIRAI_14,Святилище Солнца
+MSG_FIELD_MIRAI_15,Чёрное Знамение
+MSG_FIELD_GENSHI_01,Таинственные горы
+MSG_FIELD_GENSHI_02,Хижина вождя
+MSG_FIELD_GENSHI_03,Хижина Иоки
+MSG_FIELD_GENSHI_04,Площадь собраний
+MSG_FIELD_GENSHI_05,Руины Ларубы
+MSG_FIELD_GENSHI_06,Гнездо дактилей
+MSG_FIELD_GENSHI_07,Охотничьи угодья
+MSG_FIELD_GENSHI_08,Лесной лабиринт
+MSG_FIELD_GENSHI_09,Логово рептитов
+MSG_FIELD_GENSHI_10,Логово Тиранно
+MSG_FIELD_GENSHI_11,Руины логова Тиранно
+MSG_FIELD_GENSHI_12,Святилище Солнца
+MSG_FIELD_KODAI_01,Пещерка
+MSG_FIELD_KODAI_02,Пещера Терра
+MSG_FIELD_KODAI_03,Небесный путь
+MSG_FIELD_KODAI_04,Сухопутный мост
+MSG_FIELD_KODAI_05,Логово Грязевика
+MSG_FIELD_KODAI_06,Гора Скорби
+MSG_FIELD_KODAI_07,Энхаса
+MSG_FIELD_KODAI_08,Каджар
+MSG_FIELD_KODAI_09,«Чёрная птица»
+MSG_FIELD_KODAI_10,Дворец Зиал
+MSG_FIELD_KODAI_11,Океанский дворец
+MSG_FIELD_KODAI_12,Деревня выживших
+MSG_FIELD_KODAI_13,Общинный дом
+MSG_FIELD_KODAI_14,Северный мыс
+MSG_FIELD_KODAI_15,Святилище Солнца
+MSG_FIELD_KODAI_16,Чёрное Знамение
+MSG_FIELD_OTHER_01,Конец Времён
+MSG_FIELD_OTHER_02,? ? ?
+MSG_FIELD_MENU_01,Трюс
+MSG_FIELD_MENU_02,Медина
+MSG_FIELD_MENU_03,Порре
+MSG_FIELD_MENU_04,Хорас
+MSG_FIELD_MENU_05,Лес Фионы
+MSG_FIELD_MENU_06,Трюс
+MSG_FIELD_MENU_07,Дорино
+MSG_FIELD_MENU_08,Порре
+MSG_FIELD_MENU_09,Хорас
+MSG_FIELD_MENU_10,Иока
+MSG_FIELD_MENU_11,Алгетти
+MSG_FIELD_MENU_12,Забытое святилище
+MSG_FIELD_MENU_13,Пространственный вихрь
+MSG_FIELD_MENU_14,Затмение времён
+MSG_FIELD_MENU_15,Арена веков
+MSG_FIELD_MENU_16,Забытое святилище:\Доисторическая эпоха
+MSG_FIELD_MENU_17,Забытое святилище:\Средневековье
+MSG_FIELD_MENU_18,Пространственный вихрь:\Древность
+MSG_FIELD_MENU_19,Пространственный вихрь:\Настоящее
+MSG_FIELD_MENU_20,Пространственный вихрь:\Будущее
+MSG_FIELD_MENU_21,Дом в Дорино
+MSG_FIELD_MENU_22,Дом старейшины Порре
+MSG_FIELD_MENU_23,Рынок Трюса
+MSG_FIELD_MENU_24,Усадьба мэра Трюса
+MSG_FIELD_MENU_25,Усадьба мэра Порре
+MSG_FIELD_MENU_26,Рынок Медины
+MSG_FIELD_MENU_27,Дом старейшины Медины
+MSG_FIELD_MENU_28,Деревня
+MSG_FIELD_MENU_29,Тысячелетний лес
+MSG_FIELD_MENU_30,Великое Южное\болото
+MSG_FIELD_MENU_31,Южная поляна
+MSG_FIELD_MENU_32,Извилистый проход
+MSG_FIELD_MENU_33,Тёмная пещера
+MSG_FIELD_MENU_34,Первобытная крепость
+MSG_FIELD_MENU_35,Изумрудная гора
+MSG_FIELD_MENU_36,Великий мост
+MSG_FIELD_MENU_37,Башня Древних
+MSG_FIELD_MENU_38,Межпространственная\щель
+MSG_FIELD_MENU_39,Страт
+MSG_FIELD_MENU_40,Священные водопады
+MSG_FIELD_MENU_41,Древняя твердыня
+MSG_FIELD_MENU_42,Чудная деревня
+MSG_FIELD_MENU_43,Безымянная пещера
+MSG_FIELD_MENU_44,Ледяные утёсы
+MSG_FIELD_MENU_45,Вулкан
+MSG_FIELD_MENU_46,Лаборатория\исследования времени
+MSG_FIELD_MENU_47,Сумеречный грот
+MSG_FIELD_MENU_48,Бездна
+MSG_FIELD_MENU_49,Замок из сна
+MSG_FIELD_MENU_50,Площадь Линэ\из сна
+MSG_FIELD_MENU_51,Дом из сна

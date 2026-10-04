@@ -1,0 +1,26 @@
+MSG_EV_TITLE_01,Ярмарка тысячелетия
+MSG_EV_TITLE_02,Возвращение королевы
+MSG_EV_TITLE_03,Пропавшая принцесса
+MSG_EV_TITLE_04,Возвращение домой
+MSG_EV_TITLE_05,Суд
+MSG_EV_TITLE_06,По ту сторону руин
+MSG_EV_TITLE_07,Заброшенная фабрика
+MSG_EV_TITLE_08,Конец Времён
+MSG_EV_TITLE_09,Демонское племя
+MSG_EV_TITLE_10,Явление Героя
+MSG_EV_TITLE_11,Тата и лягушка
+MSG_EV_TITLE_12,Редкий красный камень
+MSG_EV_TITLE_13,Следы! Догнать!
+MSG_EV_TITLE_14,Масамунэ
+MSG_EV_TITLE_15,Замок Владыки демонов
+MSG_EV_TITLE_16,Вперёд, в прошлое
+MSG_EV_TITLE_17,Неестественный отбор
+MSG_EV_TITLE_18,Волшебное королевство
+MSG_EV_TITLE_19,Сломать печать
+MSG_EV_TITLE_20,Мудрец с Горы Скорби
+MSG_EV_TITLE_21,То, что за гранью
+MSG_EV_TITLE_22,Зов Лавоса
+MSG_EV_TITLE_23,Новый король
+MSG_EV_TITLE_24,Яйцо времени
+MSG_EV_TITLE_25,Роковой час
+MSG_EV_TITLE_26,Конец сна

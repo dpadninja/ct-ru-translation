@@ -1,0 +1,96 @@
+MSG_GAME_START_01,Новая игра
+MSG_GAME_START_02,Загрузить
+MSG_GAME_START_03,Новая игра +
+MSG_GAME_START_06,Продолжить
+MSG_GAME_START_07,(C) 1995, 2018 SQUARE ENIX CO., LTD. Все права защищены.\Иллюстрации: (C) 1995 BIRD STUDIO / SHUEISHA\Сюжет и сценарий: (C) 1995, 2008 ARMOR PROJECT / SQUARE ENIX
+MSG_GAME_START_04,Арена
+MSG_GAME_START_05,Дополнительно
+MSG_SAVE_LOAD_01,Назад
+MSG_SAVE_LOAD_02,Принять
+MSG_SAVE_LOAD_03,Сохранить
+MSG_SAVE_LOAD_04,Загрузить
+MSG_SAVE_LOAD_05,Файл 1
+MSG_SAVE_LOAD_06,Файл 2
+MSG_SAVE_LOAD_07,Файл 3
+MSG_SAVE_LOAD_08,Данные повреждены.
+MSG_SAVE_LOAD_09,<S10><S10><S1>Сохранение №
+MSG_SAVE_LOAD_10,Пусто
+MSG_SAVE_LOAD_11,Да
+MSG_SAVE_LOAD_12,Нет
+MSG_SAVE_LOAD_13,Выберите файл.
+MSG_SAVE_LOAD_14,Сохранить в этот файл?
+MSG_SAVE_LOAD_15,Перезаписать сохранение?
+MSG_SAVE_LOAD_16,Сохранение...
+MSG_SAVE_LOAD_17,Сохранение системных данных...
+MSG_SAVE_LOAD_18,Игра сохранена.
+MSG_SAVE_LOAD_19,Не удалось сохранить игру.
+MSG_SAVE_LOAD_20,Выберите файл для загрузки.
+MSG_SAVE_LOAD_21,Загрузить этот файл?
+MSG_SAVE_LOAD_22,Загрузка...
+MSG_SAVE_LOAD_23,Загрузка завершена.
+MSG_SAVE_LOAD_24,Не удалось загрузить файл.
+MSG_SAVE_LOAD_25,Загрузка данных...
+MSG_SAVE_LOAD_26,Данные в этом файле повреждены.\Перезаписать их?
+MSG_SAVE_LOAD_27,Сохранить данные о прохождении?
+MSG_SAVE_LOAD_28,Вернуться на титульный экран?
+MSG_SAVE_LOAD_29,Не удалось сохранить закладку.
+MSG_SAVE_LOAD_30,Не удалось продолжить игру.
+MSG_SAVE_LOAD_31,Здесь можно сохранить игру.
+MSG_SAVE_LOAD_32,Поставить закладку и выйти из игры?
+MSG_SAVE_LOAD_33,Сохранение...
+MSG_SAVE_LOAD_34,Закладка сохранена. Чтобы продолжить\с этого места, выберите «Продолжить».
+MSG_SAVE_LOAD_35,На титульный экран
+MSG_SAVE_LOAD_36,Продолжить игру с закладки.
+MSG_SAVE_LOAD_37,Продолжить игру с закладки?
+MSG_SAVE_LOAD_38,Загрузка закладки...
+MSG_SAVE_LOAD_47,На титульном экране теперь доступны\разделы «Арена» и «Дополнительно»!
+MSG_SAVE_LOAD_39,Перезаписать закладку?
+MSG_NEWGAME_01,Настройки игры
+MSG_NEWGAME_02,Режим боя
+MSG_NEWGAME_03,АКТИВНЫЙ
+MSG_NEWGAME_04,ОЖИДАНИЕ
+MSG_NEWGAME_05,\Время в бою течёт непрерывно —\сражения идут в быстром темпе.\
+MSG_NEWGAME_06,Время замирает, пока вы выбираете\предмет или технику в окне,\так что можно спокойно\продумать тактику боя.
+MSG_NEWGAME_07,По умолчанию
+MSG_NEWGAME_08,Принять
+MSG_NEWGAME_09,Эти настройки можно изменить позже.
+MSG_NEWGAME_10,Нажмите любую кнопку
+MSG_NEWGAME_11,*Не больше 5 символов.
+MSG_NEWGAME_12,Нажмите любую кнопку
+MSG_GAMECLEAR_01,Игра пройдена!
+MSG_GAMECLEAR_02,Пройдено раз:
+MSG_GAMECLEAR_03,
+MSG_GAMECLEAR_04,Концовка №
+MSG_GAMECLEAR_05,Сохранить данные о прохождении?
+MSG_GAMECLEAR_06,Перезаписать сохранение?
+MSG_GAMECLEAR_07,Вернуться на титульный экран?
+MSG_GAMECLEAR_08,Сохранение...
+MSG_GAMECLEAR_09,Игра сохранена.
+MSG_GAMECLEAR_10,
+MSG_GAMECLEAR_11,Теперь можно отправиться в Пространственный вихрь!
+MSG_GAMECLEAR_12,
+MSG_GAMECLEAR_13,
+MSG_GAMECLEAR_14,Получен Искатель снов!
+MSG_GAMECLEAR_15,
+MSG_GAMECLEAR_16,В разделе «Дополнительно» появился новый пункт:
+MSG_GAMECLEAR_17,
+MSG_SKIP_MOVIE_01,Принять
+MSG_SKIP_MOVIE_02,Пропустить сцену?
+MSG_LINEUP_03,
+MSG_LINEUP_04,
+MSG_LINEUP_05,
+MSG_LINEUP_06,
+MSG_LINEUP_07,
+MSG_LINEUP_08,
+MSG_LINEUP_09,
+MSG_LINEUP_10,
+MSG_LINEUP_11,
+MSG_LINEUP_12,
+MSG_LINEUP_13,
+MSG_LINEUP_14,
+MSG_LINEUP_15,
+MSG_LINEUP_16,
+MSG_LINEUP_17,
+MSG_LINEUP_18,
+MSG_LINEUP_19,
+MSG_LINEUP_20,

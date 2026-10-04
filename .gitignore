@@ -1,0 +1,7 @@
+.idea/
+.venv/
+.claude
+__pycache__/
+original/
+build/
+TASKS.md

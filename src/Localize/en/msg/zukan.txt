@@ -1,0 +1,25 @@
+MSG_ZUKAN_01,Бестиарий
+MSG_ZUKAN_02,HP
+MSG_ZUKAN_03,Защита
+MSG_ZUKAN_04,Маг. защита
+MSG_ZUKAN_05,Опыт
+MSG_ZUKAN_06,TP
+MSG_ZUKAN_07,G
+MSG_ZUKAN_08,Добыча:
+MSG_ZUKAN_09,Очарование:
+MSG_ZUKAN_10,Стихии:
+MSG_ZUKAN_11,Слабость
+MSG_ZUKAN_12,Поглощение
+MSG_ZUKAN_13,Невосприимч.
+MSG_ZUKAN_14,Локации:
+MSG_ZUKAN_15,Техники:
+MSG_ZUKAN_16,Свойства
+MSG_ZUKAN_17,Обнаружено:
+MSG_ZUKAN_18, 
+MSG_ZUKAN_19,%
+MSG_ZUKAN_20,Сменить форму
+MSG_ZUKAN_21,Сменить тип
+MSG_ZUKAN_22,---
+MSG_ZUKAN_23,№ 
+MSG_ZUKAN_24,Стихии
+MSG_ZUKAN_25,Техники

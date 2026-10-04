@@ -1,0 +1,69 @@
+MSG_EXTRA_BGM_01,Предчувствие
+MSG_EXTRA_BGM_02,Chrono Trigger
+MSG_EXTRA_BGM_03,Утреннее сияние
+MSG_EXTRA_BGM_04,Тихие дни
+MSG_EXTRA_BGM_05,Зелёные воспоминания
+MSG_EXTRA_BGM_06,Ярмарка тысячелетия в Гардии
+MSG_EXTRA_BGM_07,Песня Гато
+MSG_EXTRA_BGM_08,Странные происшествия
+MSG_EXTRA_BGM_09,Зов ветра
+MSG_EXTRA_BGM_10,Спокойной ночи
+MSG_EXTRA_BGM_11,Тайна леса
+MSG_EXTRA_BGM_12,Битва
+MSG_EXTRA_BGM_13,Замок Гардии — гордость и слава
+MSG_EXTRA_BGM_14,А?!
+MSG_EXTRA_BGM_15,Собор
+MSG_EXTRA_BGM_16,Молитва путника
+MSG_EXTRA_BGM_17,Свет тишины
+MSG_EXTRA_BGM_18,Битва с боссом 1
+MSG_EXTRA_BGM_19,Тема Фрога
+MSG_EXTRA_BGM_20,Фанфары 1
+MSG_EXTRA_BGM_21,Суд
+MSG_EXTRA_BGM_22,Скрытая правда
+MSG_EXTRA_BGM_23,Критический момент
+MSG_EXTRA_BGM_24,Пустынный мир
+MSG_EXTRA_BGM_25,Тайна прошлого
+MSG_EXTRA_BGM_26,Сектор 16
+MSG_EXTRA_BGM_27,Те, кто утратил волю к жизни
+MSG_EXTRA_BGM_28,Тема Лавоса
+MSG_EXTRA_BGM_29,Последний день мира
+MSG_EXTRA_BGM_30,Джонни из банды роботов
+MSG_EXTRA_BGM_31,Погоня на байках
+MSG_EXTRA_BGM_32,Тема Робо
+MSG_EXTRA_BGM_33,Заброшенный завод
+MSG_EXTRA_BGM_34,Битва 2
+MSG_EXTRA_BGM_35,Фанфары 2
+MSG_EXTRA_BGM_36,В Конце Времён
+MSG_EXTRA_BGM_37,Весёлый старина Спеккио
+MSG_EXTRA_BGM_38,Фанфары 3
+MSG_EXTRA_BGM_39,Крадучись по канализации
+MSG_EXTRA_BGM_40,Битва с боссом 2
+MSG_EXTRA_BGM_41,Первобытная гора
+MSG_EXTRA_BGM_42,Тема Эйлы
+MSG_EXTRA_BGM_43,Ритмы земли, ветра и неба
+MSG_EXTRA_BGM_44,Гори, бобонга, гори!
+MSG_EXTRA_BGM_45,Замок Владыки демонов
+MSG_EXTRA_BGM_46,Мотивы безумия
+MSG_EXTRA_BGM_47,Схватка с Магусом
+MSG_EXTRA_BGM_48,Поющая гора
+MSG_EXTRA_BGM_49,Логово Тиранно
+MSG_EXTRA_BGM_50,Глубины ночи
+MSG_EXTRA_BGM_51,Коридор времени
+MSG_EXTRA_BGM_52,Дворец Зиал
+MSG_EXTRA_BGM_53,Тема Шалы
+MSG_EXTRA_BGM_54,Запечатанная дверь
+MSG_EXTRA_BGM_55,Океанский дворец
+MSG_EXTRA_BGM_56,Кроно и Марл — далёкое обещание
+MSG_EXTRA_BGM_57,Эпоха — крылья времени
+MSG_EXTRA_BGM_58,Чёрное Знамение
+MSG_EXTRA_BGM_59,Решимость
+MSG_EXTRA_BGM_60,Мировая революция
+MSG_EXTRA_BGM_61,Финальная битва
+MSG_EXTRA_BGM_62,Фестиваль звёзд
+MSG_EXTRA_BGM_63,Эпилог — дорогим друзьям
+MSG_EXTRA_BGM_64,Окраины времени
+MSG_EXTRA_BGM_65,Тук-тук-тук, это... Мицуда
+MSG_EXTRA_BGM_66,Один солнечный день нашей встречи
+MSG_EXTRA_BGM_67,Опадающие лепестки
+MSG_EXTRA_BGM_68,Встреча с судьбой
+MSG_EXTRA_BGM_69,Время отдыха — после битвы

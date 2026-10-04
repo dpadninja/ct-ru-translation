@@ -1,0 +1,17 @@
+Атака
+Техника
+Предмет
+Комбо
+ 
+-
+<NAME_CRO>
+<NAME_MAR>
+<NAME_LUC>
+<NAME_ROB>
+<NAME_FRO>
+<NAME_AYL>
+<NAME_MAG>
+Парная техника
+Тройн. техника
+/
+ПРОМАХ!

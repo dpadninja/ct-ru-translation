@@ -1,0 +1,101 @@
+MSG_WIRELESS_01,Таблица результатов
+MSG_WIRELESS_02,В
+MSG_WIRELESS_03,П
+MSG_WIRELESS_04,Принять вызов
+MSG_WIRELESS_05,Бросить вызов
+MSG_WIRELESS_06,Посмотреть предметы.
+MSG_WIRELESS_07,Ожидание соперника.
+MSG_WIRELESS_08,Соперник найден.
+MSG_WIRELESS_09,Выберите предмет для ставки.
+MSG_WIRELESS_10,Поставить этот предмет?
+MSG_WIRELESS_11,Подождите...
+MSG_WIRELESS_12,Ошибка связи.
+MSG_WIRELESS_13, получено!
+MSG_WIRELESS_14,<STR>: <NAME_MON> выбывает из боя.
+MSG_WIRELESS_15,Вернуться в загоны.
+MSG_WIRELESS_16,Принять вызов соперника.
+MSG_WIRELESS_17,Бросить открытый вызов.
+MSG_WIRELESS_18,Посмотреть текущие предметы.
+MSG_WIRELESS_19,Чей вызов принять?
+MSG_WIRELESS_20,Получен приз:
+MSG_WIRELESS_21,Потеряно:
+MSG_WIRELESS_22,Арена веков
+MSG_WIRELESS_23,Победы
+MSG_WIRELESS_24,HP
+MSG_WIRELESS_25,Атака
+MSG_WIRELESS_26,Защита
+MSG_WIRELESS_27,Сила
+MSG_WIRELESS_28,Точность
+MSG_WIRELESS_29,Скорость
+MSG_WIRELESS_30,Магия
+MSG_WIRELESS_31,Уклонение
+MSG_WIRELESS_32,Выносливость
+MSG_WIRELESS_33,Маг. защита
+MSG_WIRELESS_34,Предмет
+MSG_WIRELESS_35,Тренировать
+MSG_WIRELESS_36,Переключить вид
+MSG_WIRELESS_37,Отпустить
+MSG_WIRELESS_38,Выберите предмет и эпоху\для тренировки.
+MSG_WIRELESS_39,Будущее
+MSG_WIRELESS_40,Настоящее
+MSG_WIRELESS_41,Средневековье
+MSG_WIRELESS_42,Древность
+MSG_WIRELESS_43,Доисторическая эпоха
+MSG_WIRELESS_44,Отпущенный монстр не вернётся.\Точно отпустить его?
+MSG_WIRELESS_45,Да.
+MSG_WIRELESS_46,Нет.
+MSG_WIRELESS_47,Магазин
+MSG_WIRELESS_48,Купить
+MSG_WIRELESS_49,Продать
+MSG_WIRELESS_50,Надеть
+MSG_WIRELESS_51,Деньги:
+MSG_WIRELESS_52,Цена:
+MSG_WIRELESS_53,Ничего нет.
+MSG_WIRELESS_54,Нечего продавать.
+MSG_WIRELESS_55,Нечего продавать.
+MSG_WIRELESS_56,Нечего продавать.
+MSG_WIRELESS_57,Нечего продавать.
+MSG_WIRELESS_58,G
+MSG_WIRELESS_59,Доверие
+MSG_WIRELESS_60,???
+MSG_WIRELESS_61,Техники:
+MSG_WIRELESS_62,Предмет:
+MSG_WIRELESS_63,Малыш
+MSG_WIRELESS_64,Новичок
+MSG_WIRELESS_65,Ветеран
+MSG_WIRELESS_66,Мастер
+MSG_WIRELESS_67,
+MSG_WIRELESS_68,На тренировке.
+MSG_WIRELESS_69,Тренировка окончена.\Характеристики изменились!
+MSG_WIRELESS_70,Тренировка окончена.\Освоена новая техника!
+MSG_WIRELESS_71,Тренировка окончена.\Новая стихия: <ICON_FIRE>!
+MSG_WIRELESS_72,Тренировка окончена.\Новая стихия: <ICON_WATER>!
+MSG_WIRELESS_73,Тренировка окончена.\Новая стихия: <ICON_LIGHT>!
+MSG_WIRELESS_74,Тренировка окончена.\Новая стихия: <ICON_SHADOW>!
+MSG_WIRELESS_75,Тренировка окончена.\Класс изменился!
+MSG_WIRELESS_76,Тренировка окончена.\Получено: <NAME_ITM>!
+MSG_WIRELESS_77,В прошлом бою победа.\Выглядит довольным.
+MSG_WIRELESS_78,В прошлом бою поражение.\Выглядит понурым.
+MSG_WIRELESS_79,У вас нет монстра.
+MSG_WIRELESS_80, 
+MSG_WIRELESS_81, →
+MSG_WIRELESS_82,Отправить монстра на тренировку.
+MSG_WIRELESS_83,Переключить характеристики и техники.
+MSG_WIRELESS_84,Отпустить монстра на волю.
+MSG_WIRELESS_85,Ошибка связи.
+MSG_WIRELESS_86,Арена готовится к бою.
+MSG_WIRELESS_87,Поздравляем!
+MSG_WIRELESS_88,В другой раз повезёт!
+MSG_WIRELESS_ITEM_01,Повышает макс. HP.
+MSG_WIRELESS_ITEM_02,Учит техникам огня, может сменить стихию.
+MSG_WIRELESS_ITEM_03,Учит техникам воды, может сменить стихию.
+MSG_WIRELESS_ITEM_04,Учит техникам тьмы, может сменить стихию.
+MSG_WIRELESS_ITEM_05,Учит техникам света, может сменить стихию.
+MSG_WIRELESS_ITEM_06,Усиливает атаку.
+MSG_WIRELESS_ITEM_07,Усиливает защиту.
+MSG_WIRELESS_ITEM_08,Повышает шанс смены класса.
+MSG_WIRELESS_PERIOD_01,Тренировка меткости и выносливости.
+MSG_WIRELESS_PERIOD_02,Тренировка макс. HP.
+MSG_WIRELESS_PERIOD_03,Тренировка силы.
+MSG_WIRELESS_PERIOD_04,Тренировка техник.
+MSG_WIRELESS_PERIOD_05,Тренировка скорости.

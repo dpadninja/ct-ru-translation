@@ -1,0 +1,123 @@
+MSG_WIRELESS_ATACK_01,Натиск
+MSG_WIRELESS_ATACK_02,Таран
+MSG_WIRELESS_ATACK_03,Удар
+MSG_WIRELESS_ATACK_04,Царапина
+MSG_WIRELESS_ATACK_05,Таран
+MSG_WIRELESS_ATACK_06,Атака с вращением
+MSG_WIRELESS_ATACK_07,Удар кулаком
+MSG_WIRELESS_ATACK_08,Вихревой клинок
+MSG_WIRELESS_ATACK_09,Таран
+MSG_WIRELESS_ATACK_10,Тычок
+MSG_WIRELESS_ATACK_11,Коса
+MSG_WIRELESS_ATACK_12,Серия пинков
+MSG_WIRELESS_ATACK_13,Удар головой
+MSG_WIRELESS_ATACK_14,Удар хвостом
+MSG_WIRELESS_ATACK_15,Пинок в прыжке
+MSG_WIRELESS_ATACK_16,Удар
+MSG_WIRELESS_ATACK_17,Собат
+MSG_WIRELESS_ATACK_18,Укус
+MSG_WIRELESS_ATACK_19,Робо-удар
+MSG_WIRELESS_ATACK_20,Натиск
+MSG_WIRELESS_ATACK_21,Молот
+MSG_WIRELESS_ATACK_22,Пощёчина
+MSG_WIRELESS_ATACK_23,Ярость
+MSG_WIRELESS_TECH_L_01,Громовой взрыв
+MSG_WIRELESS_TECH_L_02,Зов молнии
+MSG_WIRELESS_TECH_L_03,Удар грома
+MSG_WIRELESS_TECH_L_04,Гром Наги
+MSG_WIRELESS_TECH_L_05,Гром Горгоны
+MSG_WIRELESS_TECH_L_06,Гром Медузы
+MSG_WIRELESS_TECH_L_07,Молния Злодилло
+MSG_WIRELESS_TECH_L_08,Молния Раундилло
+MSG_WIRELESS_TECH_L_09,Кулак света
+MSG_WIRELESS_TECH_L_10,Громовой сюрикен
+MSG_WIRELESS_TECH_L_11,Пулемёт
+MSG_WIRELESS_TECH_L_12,Копьё молний
+MSG_WIRELESS_TECH_L_13,Небесный дождь
+MSG_WIRELESS_TECH_L_14,Искровая бомба
+MSG_WIRELESS_TECH_L_15,Святой натиск
+MSG_WIRELESS_TECH_L_16,Небесный суд
+MSG_WIRELESS_TECH_L_17,Громовой выстрел
+MSG_WIRELESS_TECH_L_18,Шаровая молния
+MSG_WIRELESS_TECH_L_19,Световой чакрам
+MSG_WIRELESS_TECH_L_20,Электрический укус
+MSG_WIRELESS_TECH_L_21,Святой таран
+MSG_WIRELESS_TECH_L_22,Электрические шипы
+MSG_WIRELESS_TECH_L_23,Молот Тора
+MSG_WIRELESS_TECH_L_24,Молния II
+MSG_WIRELESS_TECH_L_25,Грозовой шторм
+MSG_WIRELESS_TECH_S_01,Тёмный взрыв
+MSG_WIRELESS_TECH_S_02,Зов затмения
+MSG_WIRELESS_TECH_S_03,Тёмный удар
+MSG_WIRELESS_TECH_S_04,Тень Наги
+MSG_WIRELESS_TECH_S_05,Тень Горгоны
+MSG_WIRELESS_TECH_S_06,Тень Медузы
+MSG_WIRELESS_TECH_S_07,Тьма Злодилло
+MSG_WIRELESS_TECH_S_08,Тьма Раундилло
+MSG_WIRELESS_TECH_S_09,Кулак тьмы
+MSG_WIRELESS_TECH_S_10,Теневой сюрикен
+MSG_WIRELESS_TECH_S_11,Шквал пуль
+MSG_WIRELESS_TECH_S_12,Копьё бездны
+MSG_WIRELESS_TECH_S_13,Лиловый дождь
+MSG_WIRELESS_TECH_S_14,Теневая бомба
+MSG_WIRELESS_TECH_S_15,Адский натиск
+MSG_WIRELESS_TECH_S_16,Стигийские шипы
+MSG_WIRELESS_TECH_S_17,Теневой выстрел
+MSG_WIRELESS_TECH_S_18,Умбра
+MSG_WIRELESS_TECH_S_19,Чёрный чакрам
+MSG_WIRELESS_TECH_S_20,Адский укус
+MSG_WIRELESS_TECH_S_21,Адский таран
+MSG_WIRELESS_TECH_S_22,Теневые шипы
+MSG_WIRELESS_TECH_S_23,Молот циклопа
+MSG_WIRELESS_TECH_S_24,Адский гейзер
+MSG_WIRELESS_TECH_S_25,Врата ада
+MSG_WIRELESS_TECH_F_01,Огненный взрыв
+MSG_WIRELESS_TECH_F_02,Зов инферно
+MSG_WIRELESS_TECH_F_03,Огненный удар
+MSG_WIRELESS_TECH_F_04,Пламя Наги
+MSG_WIRELESS_TECH_F_05,Пламя Горгоны
+MSG_WIRELESS_TECH_F_06,Пламя Медузы
+MSG_WIRELESS_TECH_F_07,Огонь Злодилло
+MSG_WIRELESS_TECH_F_08,Огонь Раундилло
+MSG_WIRELESS_TECH_F_09,Кулак пламени
+MSG_WIRELESS_TECH_F_10,Пылающий сюрикен
+MSG_WIRELESS_TECH_F_11,Напалм
+MSG_WIRELESS_TECH_F_12,Пылающее копьё
+MSG_WIRELESS_TECH_F_13,Лавовый дождь
+MSG_WIRELESS_TECH_F_14,Горящая сфера
+MSG_WIRELESS_TECH_F_15,Пылающий натиск
+MSG_WIRELESS_TECH_F_16,Огненное дыхание
+MSG_WIRELESS_TECH_F_17,Огненный выстрел
+MSG_WIRELESS_TECH_F_18,Магический огонь
+MSG_WIRELESS_TECH_F_19,Красный чакрам
+MSG_WIRELESS_TECH_F_20,Опаляющий укус
+MSG_WIRELESS_TECH_F_21,Пылающий таран
+MSG_WIRELESS_TECH_F_22,Огненные шипы
+MSG_WIRELESS_TECH_F_23,Молот Вулкана
+MSG_WIRELESS_TECH_F_24,Огонь II
+MSG_WIRELESS_TECH_F_25,Пожар
+MSG_WIRELESS_TECH_W_01,Водяной взрыв
+MSG_WIRELESS_TECH_W_02,Зов прилива
+MSG_WIRELESS_TECH_W_03,Водяной удар
+MSG_WIRELESS_TECH_W_04,Лёд Наги
+MSG_WIRELESS_TECH_W_05,Лёд Горгоны
+MSG_WIRELESS_TECH_W_06,Лёд Медузы
+MSG_WIRELESS_TECH_W_07,Вода Злодилло
+MSG_WIRELESS_TECH_W_08,Вода Раундилло
+MSG_WIRELESS_TECH_W_09,Кулак воды
+MSG_WIRELESS_TECH_W_10,Сюрикен прилива
+MSG_WIRELESS_TECH_W_11,Гидробомба
+MSG_WIRELESS_TECH_W_12,Копьё ливня
+MSG_WIRELESS_TECH_W_13,Ледяной дождь
+MSG_WIRELESS_TECH_W_14,Ледяная граната
+MSG_WIRELESS_TECH_W_15,Натиск потопа
+MSG_WIRELESS_TECH_W_16,Ледяной шип
+MSG_WIRELESS_TECH_W_17,Водяной выстрел
+MSG_WIRELESS_TECH_W_18,Ледяная сфера
+MSG_WIRELESS_TECH_W_19,Синий чакрам
+MSG_WIRELESS_TECH_W_20,Солёный укус
+MSG_WIRELESS_TECH_W_21,Таран потопа
+MSG_WIRELESS_TECH_W_22,Ледяные шипы
+MSG_WIRELESS_TECH_W_23,Водяной молот
+MSG_WIRELESS_TECH_W_24,Вода II
+MSG_WIRELESS_TECH_W_25,Град

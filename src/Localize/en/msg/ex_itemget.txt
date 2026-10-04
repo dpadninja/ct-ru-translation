@@ -1,0 +1,337 @@
+MSG_EX_ITEMGET_WEAPON_000,
+MSG_EX_ITEMGET_WEAPON_001,Начальное снаряжение:\   <NAME_CRO>
+MSG_EX_ITEMGET_WEAPON_002,Магазины:\   Площадь Линэ и др.
+MSG_EX_ITEMGET_WEAPON_003,Магазины:\   Трюс и др.\Сундук:\   Собор Манолии
+MSG_EX_ITEMGET_WEAPON_004,Магазин:\   Площадь Линэ\Сундуки:\   Тюремные башни\   Сектор 16
+MSG_EX_ITEMGET_WEAPON_005,Магазины:\   Трюс и др.
+MSG_EX_ITEMGET_WEAPON_006,Обмен:\   Хижина в Иоке
+MSG_EX_ITEMGET_WEAPON_007,
+MSG_EX_ITEMGET_WEAPON_008,Обмен:\   Хижина в Иоке\Очарование:\   Мегазавр
+MSG_EX_ITEMGET_WEAPON_009,Магазины:\   Алгетти и др.
+MSG_EX_ITEMGET_WEAPON_010,Магазин:\   Каджар\Очарование:\   Птица-бомбардир
+MSG_EX_ITEMGET_WEAPON_011,Магазин:\   Деревня выживших\Сундук:\   Океанский дворец
+MSG_EX_ITEMGET_WEAPON_012,Сундук:\   Пик Смерти
+MSG_EX_ITEMGET_WEAPON_013,Запечатанный сундук:\   Северные руины
+MSG_EX_ITEMGET_WEAPON_014,Запечатанный сундук:\   Северные руины\   (после улучшения)
+MSG_EX_ITEMGET_WEAPON_015,Сундуки:\   Старая канализация\   Заброшенная фабрика
+MSG_EX_ITEMGET_WEAPON_016,Событие:\   Победа над Слэшем
+MSG_EX_ITEMGET_WEAPON_017,Начальное снаряжение:\   <NAME_MAR>
+MSG_EX_ITEMGET_WEAPON_018,Магазины:\   Трюс и др.
+MSG_EX_ITEMGET_WEAPON_019,Сундук:\   Сектор 16
+MSG_EX_ITEMGET_WEAPON_020,Магазины:\   Трюс и др.\Сундук:\   Заброшенная фабрика
+MSG_EX_ITEMGET_WEAPON_021,Обмен:\   Хижина в Иоке
+MSG_EX_ITEMGET_WEAPON_022,Обмен:\   Хижина в Иоке\Очарование:\   Раффлезия
+MSG_EX_ITEMGET_WEAPON_023,Магазин:\   Алгетти
+MSG_EX_ITEMGET_WEAPON_024,Магазин:\   Деревня выживших\Сундук:\   Океанский дворец
+MSG_EX_ITEMGET_WEAPON_025,Запечатанный сундук:\   Северные руины\   (после улучшения)
+MSG_EX_ITEMGET_WEAPON_026,Запечатанный сундук:\   Северные руины
+MSG_EX_ITEMGET_WEAPON_027,
+MSG_EX_ITEMGET_WEAPON_028,
+MSG_EX_ITEMGET_WEAPON_029,
+MSG_EX_ITEMGET_WEAPON_030,
+MSG_EX_ITEMGET_WEAPON_031,Начальное снаряжение:\   <NAME_LUC>
+MSG_EX_ITEMGET_WEAPON_032,Магазины:\   Трюс и др.
+MSG_EX_ITEMGET_WEAPON_033,Магазины:\   Купол Транн и др.
+MSG_EX_ITEMGET_WEAPON_034,
+MSG_EX_ITEMGET_WEAPON_035,Магазины:\   Трюс и др.\Сундук:\   Заброшенная фабрика
+MSG_EX_ITEMGET_WEAPON_036,Обмен:\   Хижина в Иоке
+MSG_EX_ITEMGET_WEAPON_037,Обмен:\   Хижина в Иоке\Очарование:\   Эцитовый долгоносик
+MSG_EX_ITEMGET_WEAPON_038,Магазин:\   Алгетти
+MSG_EX_ITEMGET_WEAPON_039,Магазин:\   Деревня выживших\Сундук:\   Океанский дворец
+MSG_EX_ITEMGET_WEAPON_040,Событие:\   Дом <NAME_LUC>
+MSG_EX_ITEMGET_WEAPON_041,
+MSG_EX_ITEMGET_WEAPON_042,
+MSG_EX_ITEMGET_WEAPON_043,
+MSG_EX_ITEMGET_WEAPON_044,
+MSG_EX_ITEMGET_WEAPON_045,
+MSG_EX_ITEMGET_WEAPON_046,Начальное снаряжение:\   <NAME_ROB>
+MSG_EX_ITEMGET_WEAPON_047,Магазины:\   Хижина Мельхиора и др.\Сундук:\   Заброшенная фабрика
+MSG_EX_ITEMGET_WEAPON_048,Обмен:\   Хижина в Иоке
+MSG_EX_ITEMGET_WEAPON_049,Обмен:\   Хижина в Иоке
+MSG_EX_ITEMGET_WEAPON_050,Сундук:\   Замок Владыки демонов
+MSG_EX_ITEMGET_WEAPON_051,Обмен:\   Хижина в Иоке\Очарование:\   Рептит
+MSG_EX_ITEMGET_WEAPON_052,Магазин:\   Алгетти
+MSG_EX_ITEMGET_WEAPON_053,Магазин:\   Каджар\Очарование:\   Горгулья
+MSG_EX_ITEMGET_WEAPON_054,Магазин:\   Деревня выживших\Сундук:\   Океанский дворец
+MSG_EX_ITEMGET_WEAPON_055,Сундук:\   Пик Смерти
+MSG_EX_ITEMGET_WEAPON_056,Событие:\   Купол Гено
+MSG_EX_ITEMGET_WEAPON_057,Событие:\   Купол Гено
+MSG_EX_ITEMGET_WEAPON_058,
+MSG_EX_ITEMGET_WEAPON_059,Начальное снаряжение:\   <NAME_FRO>
+MSG_EX_ITEMGET_WEAPON_060,Сундук:\   Собор Манолии
+MSG_EX_ITEMGET_WEAPON_061,Событие:\   Волшебная пещера
+MSG_EX_ITEMGET_WEAPON_062,Магазин:\   Алгетти
+MSG_EX_ITEMGET_WEAPON_063,Сундук:\   Океанский дворец\Магазин:\   Каджар
+MSG_EX_ITEMGET_WEAPON_064,Магазин:\   Деревня выживших\Сундук:\   Океанский дворец
+MSG_EX_ITEMGET_WEAPON_065,Сундук:\   Пик Смерти
+MSG_EX_ITEMGET_WEAPON_066,Событие:\   Северные руины
+MSG_EX_ITEMGET_WEAPON_067,Сундук:\   Океанский дворец
+MSG_EX_ITEMGET_WEAPON_068,<NAME_AYL>:\   УР 1–23
+MSG_EX_ITEMGET_WEAPON_069,<NAME_AYL>:\   УР 24–47
+MSG_EX_ITEMGET_WEAPON_070,<NAME_AYL>:\   УР 48–71
+MSG_EX_ITEMGET_WEAPON_071,<NAME_AYL>:\   УР 72–95
+MSG_EX_ITEMGET_WEAPON_072,<NAME_AYL>:\   УР 96+
+MSG_EX_ITEMGET_WEAPON_073,
+MSG_EX_ITEMGET_WEAPON_074,
+MSG_EX_ITEMGET_WEAPON_075,Начальное снаряжение:\   <NAME_MAG>
+MSG_EX_ITEMGET_WEAPON_076,Магазин:\   Деревня выживших
+MSG_EX_ITEMGET_WEAPON_077,Сундук:\   Пик Смерти
+MSG_EX_ITEMGET_WEAPON_078,Сундук:\   Форт Оззи
+MSG_EX_ITEMGET_WEAPON_079,Очарование:\   Ню
+MSG_EX_ITEMGET_WEAPON_080,Событие:\   Горы Денадоро
+MSG_EX_ITEMGET_WEAPON_081,Событие:\   Проклятый лес
+MSG_EX_ITEMGET_WEAPON_082,Событие:\   Хижина Мельхиора
+MSG_EX_ITEMGET_WEAPON_083,Событие:\   Лесные руины
+MSG_EX_ITEMGET_WEAPON_084,Очарование:\   Супер Слэш
+MSG_EX_ITEMGET_WEAPON_085,Событие:\   Замок Гардии\   (Настоящее)
+MSG_EX_ITEMGET_WEAPON_086,Dummy
+MSG_EX_ITEMGET_WEAPON_087,Dummy
+MSG_EX_ITEMGET_WEAPON_088,Dummy
+MSG_EX_ITEMGET_WEAPON_089,Dummy
+MSG_EX_ITEMGET_WEAPON_090,Событие:\   Забытое святилище
+MSG_EX_ITEMGET_WEAPON_091,Сундук:\   Забытое святилище
+MSG_EX_ITEMGET_WEAPON_092,Сундук:\   Забытое святилище
+MSG_EX_ITEMGET_WEAPON_093,Сундук:\   Забытое святилище
+MSG_EX_ITEMGET_WEAPON_094,Событие:\   Забытое святилище
+MSG_EX_ITEMGET_WEAPON_095,Событие:\   Забытое святилище
+MSG_EX_ITEMGET_WEAPON_096,Награда за прохождение:\   Затмение времён
+MSG_EX_ITEMGET_WEAPON_097,Сундук:\   Пространственный вихрь
+MSG_EX_ITEMGET_WEAPON_098,Сундук:\   Пространственный вихрь
+MSG_EX_ITEMGET_WEAPON_099,Сундук:\   Пространственный вихрь
+MSG_EX_ITEMGET_WEAPON_100,Сундук:\   Пространственный вихрь
+MSG_EX_ITEMGET_WEAPON_101,Dummy
+MSG_EX_ITEMGET_WEAPON_102,Dummy
+MSG_EX_ITEMGET_WEAPON_103,Dummy
+MSG_EX_ITEMGET_WEAPON_104,Dummy
+MSG_EX_ITEMGET_WEAPON_105,Dummy
+MSG_EX_ITEMGET_WEAPON_106,Dummy
+MSG_EX_ITEMGET_WEAPON_107,Dummy
+MSG_EX_ITEMGET_WEAPON_108,Dummy
+MSG_EX_ITEMGET_WEAPON_109,Dummy
+MSG_EX_ITEMGET_WEAPON_110,Dummy
+MSG_EX_ITEMGET_ARMOR_000,
+MSG_EX_ITEMGET_ARMOR_001,Начальное снаряжение:\   <NAME_CRO>\   <NAME_MAR>
+MSG_EX_ITEMGET_ARMOR_002,Начальное снаряжение:\   <NAME_LUC>\Магазины:\   Трюс и др.
+MSG_EX_ITEMGET_ARMOR_003,Начальное снаряжение:\   <NAME_FRO>\Магазины:\   Порре и др.\Сундуки:\   Тюремные башни и др.
+MSG_EX_ITEMGET_ARMOR_004,Магазин:\   Трюс\Сундук:\   Собор Манолии
+MSG_EX_ITEMGET_ARMOR_005,Магазины:\   Купол Транн и др.
+MSG_EX_ITEMGET_ARMOR_006,Начальное снаряжение:\   <NAME_ROB>\Магазины:\   Трюс и др.\Сундук:\   Заброшенная фабрика
+MSG_EX_ITEMGET_ARMOR_007,Магазины:\   Порре и др.\Сундук:\   Горы Денадоро
+MSG_EX_ITEMGET_ARMOR_008,Начальное снаряжение:\   <NAME_AYL>\Обмен:\   Хижина в Иоке\Сундук:\   Логово рептитов
+MSG_EX_ITEMGET_ARMOR_009,Сундук:\   Замок Владыки демонов
+MSG_EX_ITEMGET_ARMOR_010,Сундук:\   Замок Владыки демонов
+MSG_EX_ITEMGET_ARMOR_011,Сундуки:\   Гнездо дактилей и др.
+MSG_EX_ITEMGET_ARMOR_012,Магазины:\   Медина и др.\Запечатанный сундук:\   Купол Аррис
+MSG_EX_ITEMGET_ARMOR_013,Магазины:\   Алгетти и др.
+MSG_EX_ITEMGET_ARMOR_014,Магазин:\   Каджар\Сундук:\   Гора Скорби
+MSG_EX_ITEMGET_ARMOR_015,Магазин:\   Деревня выживших\Сундуки:\   Океанский дворец и др.
+MSG_EX_ITEMGET_ARMOR_016,Сундуки:\   Чёрное Знамение и др.
+MSG_EX_ITEMGET_ARMOR_017,Сундук:\   Чёрное Знамение и др.\Запечатанный сундук:\   Северные руины\Событие:\   Забытое святилище\Очарование:\   Клыкастый зверь
+MSG_EX_ITEMGET_ARMOR_018,Событие:\   Замок Гардии\   (Настоящее)\Очарование:\   Королева Зиал (правая рука)
+MSG_EX_ITEMGET_ARMOR_019,Запечатанный сундук:\   Северные руины\   (после улучшения)
+MSG_EX_ITEMGET_ARMOR_020,Обмен:\   Хижина в Иоке
+MSG_EX_ITEMGET_ARMOR_021,Начальное снаряжение:\   <NAME_MAG>
+MSG_EX_ITEMGET_ARMOR_022,Сундук:\   Форт Оззи
+MSG_EX_ITEMGET_ARMOR_023,Запечатанный сундук:\   Усадьба мэра\   (после улучшения)\Очарование:\   Якра XIII
+MSG_EX_ITEMGET_ARMOR_024,Запечатанный сундук:\   Усадьба мэра\   (после улучшения)\Очарование:\   Сын Солнца
+MSG_EX_ITEMGET_ARMOR_025,Запечатанный сундук:\   Трактир Трюса\   (после улучшения)\Очарование:\   Мать-Мозг
+MSG_EX_ITEMGET_ARMOR_026,Запечатанный сундук:\   Замок Гардии\   (Настоящее,\   после улучшения)\Очарование:\   Ржавый Тиранно
+MSG_EX_ITEMGET_ARMOR_027,Запечатанные сундуки:\   Дом старейшины Порре\   Усадьба мэра
+MSG_EX_ITEMGET_ARMOR_028,Запечатанные сундуки:\   Дом старейшины Порре\   Усадьба мэра
+MSG_EX_ITEMGET_ARMOR_029,Запечатанный сундук:\   Трактир Трюса
+MSG_EX_ITEMGET_ARMOR_030,Запечатанный сундук:\   Замок Гардии
+MSG_EX_ITEMGET_ARMOR_031,Событие:\   Дом <NAME_LUC>
+MSG_EX_ITEMGET_ARMOR_032,Событие:\   Дом <NAME_LUC>
+MSG_EX_ITEMGET_ARMOR_033,Магазин:\   Забытое святилище\Сундук:\   Забытое святилище
+MSG_EX_ITEMGET_ARMOR_034,Магазин:\   Забытое святилище\Сундук:\   Забытое святилище
+MSG_EX_ITEMGET_ARMOR_035,Событие:\   Забытое святилище
+MSG_EX_ITEMGET_ARMOR_036,Сундук:\   Пространственный вихрь
+MSG_EX_ITEMGET_ARMOR_037,Сундук:\   Пространственный вихрь
+MSG_EX_ITEMGET_ARMOR_038,Событие:\   Забытое святилище
+MSG_EX_ITEMGET_ARMOR_039,Сундук:\   Пространственный вихрь
+MSG_EX_ITEMGET_ARMOR_040,Dummy
+MSG_EX_ITEMGET_ARMOR_041,Dummy
+MSG_EX_ITEMGET_ARMOR_042,Dummy
+MSG_EX_ITEMGET_ARMOR_043,Dummy
+MSG_EX_ITEMGET_ARMOR_044,Dummy
+MSG_EX_ITEMGET_ARMOR_045,Dummy
+MSG_EX_ITEMGET_ARMOR_046,Dummy
+MSG_EX_ITEMGET_ARMOR_047,Dummy
+MSG_EX_ITEMGET_ARMOR_048,Dummy
+MSG_EX_ITEMGET_ARMOR_049,Dummy
+MSG_EX_ITEMGET_HELMET_000,
+MSG_EX_ITEMGET_HELMET_001,Начальное снаряжение:\   <NAME_CRO>\   <NAME_MAR>\   <NAME_LUC>
+MSG_EX_ITEMGET_HELMET_002,Начальное снаряжение:\   <NAME_FRO>\Магазины:\   Площадь Линэ и др.
+MSG_EX_ITEMGET_HELMET_003,Магазины:\   Купол Транн и др.
+MSG_EX_ITEMGET_HELMET_004,Магазин:\   Порре
+MSG_EX_ITEMGET_HELMET_005,Событие:\   Мост Зенан\   (Средневековье)\Сундук:\   Горы Денадоро
+MSG_EX_ITEMGET_HELMET_006,Начальное снаряжение:\   <NAME_AYL>\Обмен:\   Хижина в Иоке\Сундук:\   Логово рептитов
+MSG_EX_ITEMGET_HELMET_007,Сундук:\   Логово Тиранно
+MSG_EX_ITEMGET_HELMET_008,Магазины:\   Алгетти и др.
+MSG_EX_ITEMGET_HELMET_009,Магазин:\   Каджар\Сундук:\   Гора Скорби
+MSG_EX_ITEMGET_HELMET_010,Магазин:\   Деревня выживших\Сундук:\   Океанский дворец и др.
+MSG_EX_ITEMGET_HELMET_011,Событие:\   Замок Гардии\   (Настоящее)\Очарование:\   Королева Зиал (левая рука)
+MSG_EX_ITEMGET_HELMET_012,Начальное снаряжение:\   <NAME_MAG>
+MSG_EX_ITEMGET_HELMET_013,Сундук:\   Пик Смерти
+MSG_EX_ITEMGET_HELMET_014,Сундук:\   Форт Оззи
+MSG_EX_ITEMGET_HELMET_015,Событие:\   Лесные руины\Очарование:\   Старший отпрыск Лавоса\   (панцирь)
+MSG_EX_ITEMGET_HELMET_016,Событие:\   Дом <NAME_LUC>
+MSG_EX_ITEMGET_HELMET_017,Магазин:\   Святилище Фионы\Сундук:\   Форт Оззи и др.
+MSG_EX_ITEMGET_HELMET_018,Магазин:\   Святилище Фионы\Сундук:\   Песчаная впадина и др.
+MSG_EX_ITEMGET_HELMET_019,Магазин:\   Святилище Фионы\Сундук:\   Гора Скорби
+MSG_EX_ITEMGET_HELMET_020,Магазин:\   Святилище Фионы\Сундуки:\   Чёрное Знамение и др.\Очарование:\   Мегамутант\   (низ)
+MSG_EX_ITEMGET_HELMET_021,Очарование:\   Великий Оззи
+MSG_EX_ITEMGET_HELMET_022,Сундук:\   Чёрное Знамение\Очарование:\   Старший отпрыск Лавоса\   (пасть)
+MSG_EX_ITEMGET_HELMET_023,Сундук:\   Забытое святилище\Очарование:\   Грязевик
+MSG_EX_ITEMGET_HELMET_024,Сундук:\   Забытое святилище\Очарование:\   Синий грязевик
+MSG_EX_ITEMGET_HELMET_025,Магазин:\   Забытое святилище\Сундук:\   Забытое святилище
+MSG_EX_ITEMGET_HELMET_026,Магазин:\   Забытое святилище\Сундук:\   Забытое святилище
+MSG_EX_ITEMGET_HELMET_027,Сундук:\   Пространственный вихрь
+MSG_EX_ITEMGET_HELMET_028,Сундук:\   Пространственный вихрь
+MSG_EX_ITEMGET_HELMET_029,Dummy
+MSG_EX_ITEMGET_HELMET_030,Dummy
+MSG_EX_ITEMGET_HELMET_031,Dummy
+MSG_EX_ITEMGET_HELMET_032,Dummy
+MSG_EX_ITEMGET_HELMET_033,Dummy
+MSG_EX_ITEMGET_HELMET_034,Dummy
+MSG_EX_ITEMGET_HELMET_035,Dummy
+MSG_EX_ITEMGET_HELMET_036,Dummy
+MSG_EX_ITEMGET_HELMET_037,Dummy
+MSG_EX_ITEMGET_HELMET_038,Dummy
+MSG_EX_ITEMGET_ACCSESARY_000,
+MSG_EX_ITEMGET_ACCSESARY_001,Начальное снаряжение:\   <NAME_CRO>
+MSG_EX_ITEMGET_ACCSESARY_002,Начальное снаряжение:\   <NAME_MAR>
+MSG_EX_ITEMGET_ACCSESARY_003,Начальное снаряжение:\   <NAME_FRO>\Сундук:\   Каньон Трюс
+MSG_EX_ITEMGET_ACCSESARY_004,Начальное снаряжение:\   <NAME_ROB>\Сундук:\   Собор Манолии
+MSG_EX_ITEMGET_ACCSESARY_005,Сундук:\   Пещера Хекран и др.
+MSG_EX_ITEMGET_ACCSESARY_006,Начальное снаряжение:\   <NAME_MAG>\Событие:\   Северный мыс
+MSG_EX_ITEMGET_ACCSESARY_007,Сундуки:\   Пещера Хекран и др.
+MSG_EX_ITEMGET_ACCSESARY_008,Сундук:\   Купол Аррис
+MSG_EX_ITEMGET_ACCSESARY_009,Запечатанный сундук:\   Лес Гардии\   (Настоящее)
+MSG_EX_ITEMGET_ACCSESARY_010,Сундуки:\   Волшебная пещера и др.
+MSG_EX_ITEMGET_ACCSESARY_011,Сундуки:\   Пещера Хекран и др.\Очарование:\   Гигамутант\   (верх)
+MSG_EX_ITEMGET_ACCSESARY_012,Сундук:\   Горы Денадоро
+MSG_EX_ITEMGET_ACCSESARY_013,Сундук:\   Купол Аррис\Очарование:\   Синхрит
+MSG_EX_ITEMGET_ACCSESARY_014,Сундук:\   Горы Денадоро
+MSG_EX_ITEMGET_ACCSESARY_015,Запечатанный сундук:\   Купол Транн\Очарование:\   Летоглаз
+MSG_EX_ITEMGET_ACCSESARY_016,Начальное снаряжение:\   <NAME_LUC>
+MSG_EX_ITEMGET_ACCSESARY_017,Запечатанный сундук:\   Купол Транн
+MSG_EX_ITEMGET_ACCSESARY_018,Сундук:\   Старая канализация
+MSG_EX_ITEMGET_ACCSESARY_019,Сундук:\   Коготь Гиганта
+MSG_EX_ITEMGET_ACCSESARY_020,Событие:\   Охотничьи угодья\Очарование:\   Низбел\   Низбел II
+MSG_EX_ITEMGET_ACCSESARY_021,Запечатанный сундук:\   Купол Бангор
+MSG_EX_ITEMGET_ACCSESARY_022,Событие:\   Святилище Фионы
+MSG_EX_ITEMGET_ACCSESARY_023,Сундуки:\   Сектор 16 и др.
+MSG_EX_ITEMGET_ACCSESARY_024,Начальное снаряжение:\   <NAME_AYL>
+MSG_EX_ITEMGET_ACCSESARY_025,Сундуки:\   Собор Манолии и др.
+MSG_EX_ITEMGET_ACCSESARY_026,Событие:\   Каджар
+MSG_EX_ITEMGET_ACCSESARY_027,Сундук:\   Коготь Гиганта
+MSG_EX_ITEMGET_ACCSESARY_028,Событие:\   Руины Ларубы
+MSG_EX_ITEMGET_ACCSESARY_029,Сундук:\   Чёрное Знамение
+MSG_EX_ITEMGET_ACCSESARY_030,Событие:\   Горы Денадоро
+MSG_EX_ITEMGET_ACCSESARY_031,Событие:\   Дом Таты
+MSG_EX_ITEMGET_ACCSESARY_032,Сундук:\   Песчаная впадина\Очарование:\   Терамутант\   (верх)
+MSG_EX_ITEMGET_ACCSESARY_033,Очарование:\   Дива Флея
+MSG_EX_ITEMGET_ACCSESARY_034,Сундук:\   Чёрное Знамение
+MSG_EX_ITEMGET_ACCSESARY_035,Сундук:\   Чёрное Знамение\Очарование:\   Терамутант\   (низ)
+MSG_EX_ITEMGET_ACCSESARY_036,
+MSG_EX_ITEMGET_ACCSESARY_037,
+MSG_EX_ITEMGET_ACCSESARY_038,Событие:\   Дом <NAME_LUC>
+MSG_EX_ITEMGET_ACCSESARY_039,Событие:\   Замок Гардии\   (Настоящее)
+MSG_EX_ITEMGET_ACCSESARY_040,Событие:\   Забытое святилище
+MSG_EX_ITEMGET_ACCSESARY_041,Событие:\   Забытое святилище
+MSG_EX_ITEMGET_ACCSESARY_042,Событие:\   Забытое святилище
+MSG_EX_ITEMGET_ACCSESARY_043,Событие:\   Арена веков
+MSG_EX_ITEMGET_ACCSESARY_044,Событие:\   Арена веков
+MSG_EX_ITEMGET_ACCSESARY_045,Событие:\   Арена веков
+MSG_EX_ITEMGET_ACCSESARY_046,Событие:\   Арена веков
+MSG_EX_ITEMGET_ACCSESARY_047,Событие:\   Арена веков
+MSG_EX_ITEMGET_ACCSESARY_048,Событие:\   Арена веков
+MSG_EX_ITEMGET_ACCSESARY_049,Dummy
+MSG_EX_ITEMGET_ACCSESARY_050,Dummy
+MSG_EX_ITEMGET_ACCSESARY_051,Dummy
+MSG_EX_ITEMGET_ACCSESARY_052,Dummy
+MSG_EX_ITEMGET_ACCSESARY_053,Dummy
+MSG_EX_ITEMGET_ACCSESARY_054,Dummy
+MSG_EX_ITEMGET_ACCSESARY_055,Dummy
+MSG_EX_ITEMGET_ACCSESARY_056,Dummy
+MSG_EX_ITEMGET_ACCSESARY_057,Dummy
+MSG_EX_ITEMGET_ACCSESARY_058,Dummy
+MSG_EX_ITEMGET_USEITEM_000,
+MSG_EX_ITEMGET_USEITEM_001,Магазины:\   Площадь Линэ и др.\Сундуки:\   Собор Манолии и др.\Выигрыш:\   Мухомор и др.
+MSG_EX_ITEMGET_USEITEM_002,Магазины:\   Купол Транн и др.\Сундуки:\   Тюремные башни и др.\Выигрыш:\   Прыгодилло и др.\Очарование:\   Съедобная лягушка
+MSG_EX_ITEMGET_USEITEM_003,Магазины:\   Каджар и др.\Сундуки:\   Логово рептитов и др.\Очарование:\   Мутант и др.
+MSG_EX_ITEMGET_USEITEM_004,Магазины:\   Каджар и др.\Сундуки:\   Тюремные башни и др.\Выигрыш:\   Тюремщик и др.\Очарование:\   Дондраго и др.
+MSG_EX_ITEMGET_USEITEM_005,Магазины:\   Деревня выживших и др.\Сундуки:\   Собор Манолии и др.\Выигрыш:\   Колдун и др.\Очарование:\   Сталкер руин и др.
+MSG_EX_ITEMGET_USEITEM_006,Магазин:\   Чёрное Знамение\Сундуки:\   Песчаная впадина и др.\Выигрыш:\   Рыцарь-призрак и др.\Очарование:\   Макабр
+MSG_EX_ITEMGET_USEITEM_007,Магазин:\   Забытое святилище\Сундуки:\   Замок Гардии\   (Настоящее) и др.\Выигрыш:\   Клыкастый зверь и др.
+MSG_EX_ITEMGET_USEITEM_008,Магазин:\   Чёрное Знамение\Сундук:\   Северные руины\Выигрыш:\   Кибот и др.\Очарование:\   Рыцарь-призрак и др.
+MSG_EX_ITEMGET_USEITEM_009,Магазин:\   Забытое святилище\Сундуки:\   Замок Гардии\   (Настоящее) и др.\Выигрыш:\   Якра XIII и др.
+MSG_EX_ITEMGET_USEITEM_010,Магазины:\   Площадь Линэ и др.\Сундуки:\   Собор Манолии и др.\Выигрыш:\   Колокольник и др.
+MSG_EX_ITEMGET_USEITEM_011,Магазины:\   Площадь Линэ и др.\Сундуки:\   Собор Манолии и др.\Выигрыш:\   Гадюка и др.\Очарование:\   Пещерная мышь и др.
+MSG_EX_ITEMGET_USEITEM_012,Магазины:\   Площадь Линэ и др.\Сундуки:\   Собор Манолии и др.\Событие:\   Лес Гардии\   (Средневековье)
+MSG_EX_ITEMGET_USEITEM_013,Событие:\   Трактир Дорино\Очарование:\   Гато и др.
+MSG_EX_ITEMGET_USEITEM_014,Сундуки:\   Замок Владыки демонов и др.\Выигрыш:\   Мерзкая гусеница и др.\Очарование:\   Вулканит и др.
+MSG_EX_ITEMGET_USEITEM_015,Магазин:\   Забытое святилище\Сундуки:\   Замок Владыки демонов и др.\Выигрыш:\   Версия 4.0 и др.\Очарование:\   Наёмник и др.
+MSG_EX_ITEMGET_USEITEM_016,Магазин:\   Забытое святилище\Сундуки:\   Гора Скорби и др.\Выигрыш:\   Дезинсектор EX и др.\Очарование:\   Оган с молотом и др.
+MSG_EX_ITEMGET_USEITEM_017,Находка:\   Лес Гардии и др.\Очарование:\   Жирная туша и др.
+MSG_EX_ITEMGET_USEITEM_018,Находка:\   Дом в Дорино и др.\Очарование:\   Азала и др.
+MSG_EX_ITEMGET_USEITEM_019,Находка:\   Горы Денадоро и др.\Очарование:\   Грязевой бесёнок и др.
+MSG_EX_ITEMGET_USEITEM_020,Магазин:\   Арена веков
+MSG_EX_ITEMGET_USEITEM_021,Магазин:\   Арена веков
+MSG_EX_ITEMGET_USEITEM_022,Магазин:\   Арена веков
+MSG_EX_ITEMGET_USEITEM_023,Магазин:\   Арена веков
+MSG_EX_ITEMGET_USEITEM_024,Магазин:\   Арена веков
+MSG_EX_ITEMGET_USEITEM_025,Магазин:\   Арена веков
+MSG_EX_ITEMGET_USEITEM_026,Магазин:\   Арена веков
+MSG_EX_ITEMGET_USEITEM_027,Магазин:\   Арена веков
+MSG_EX_ITEMGET_USEITEM_028,Событие:\   Забытое святилище
+MSG_EX_ITEMGET_USEITEM_029,Событие:\   Забытое святилище
+MSG_EX_ITEMGET_USEITEM_030,Событие:\   Забытое святилище
+MSG_EX_ITEMGET_USEITEM_031,Событие:\   Забытое святилище
+MSG_EX_ITEMGET_USEITEM_032,Событие:\   Забытое святилище
+MSG_EX_ITEMGET_IMPORTANT_000,
+MSG_EX_ITEMGET_IMPORTANT_001,Выигрыш:\   Рептит и др.
+MSG_EX_ITEMGET_IMPORTANT_002,Выигрыш:\   Бао-Бао и др.
+MSG_EX_ITEMGET_IMPORTANT_003,Выигрыш:\   Хохлатый бегун и др.
+MSG_EX_ITEMGET_IMPORTANT_004,Выигрыш:\   Золотой орлёнок и др.
+MSG_EX_ITEMGET_IMPORTANT_005,Событие:\   Купол Аррис
+MSG_EX_ITEMGET_IMPORTANT_006,Событие:\   Купол Аррис
+MSG_EX_ITEMGET_IMPORTANT_007,Событие:\   Площадь Линэ
+MSG_EX_ITEMGET_IMPORTANT_008,Событие:\   Площадь Линэ
+MSG_EX_ITEMGET_IMPORTANT_009,Событие:\   Замок Гардии\   (Настоящее)
+MSG_EX_ITEMGET_IMPORTANT_010,Событие:\   Конец Времён
+MSG_EX_ITEMGET_IMPORTANT_011,Событие:\   Дом в Хорасе
+MSG_EX_ITEMGET_IMPORTANT_012,Событие:\   Замок Гардии\   (Средневековье)\   Улиточный привал
+MSG_EX_ITEMGET_IMPORTANT_013,Событие:\   Деревня Иока
+MSG_EX_ITEMGET_IMPORTANT_014,Сундук:\   Сектор 32
+MSG_EX_ITEMGET_IMPORTANT_015,Событие:\   Храм Солнца
+MSG_EX_ITEMGET_IMPORTANT_016,Событие:\   Святилище Солнца
+MSG_EX_ITEMGET_IMPORTANT_017,Событие:\   Алгетти
+MSG_EX_ITEMGET_IMPORTANT_018,Событие:\   Замок Гардии\   (Настоящее)
+MSG_EX_ITEMGET_IMPORTANT_019,Событие:\   Площадь Линэ
+MSG_EX_ITEMGET_IMPORTANT_020,Событие:\   Таверна Хораса
+MSG_EX_ITEMGET_IMPORTANT_021,Выигрыш:\   Ионное облако
+MSG_EX_ITEMGET_IMPORTANT_022,Выигрыш:\   Древняя лягушка
+MSG_EX_ITEMGET_IMPORTANT_023,Выигрыш:\   Древняя лягушка
+MSG_EX_ITEMGET_IMPORTANT_024,Выигрыш:\   Ионное облако и др.
+MSG_EX_ITEMGET_IMPORTANT_025,Событие:\   Забытое святилище
+MSG_EX_ITEMGET_IMPORTANT_026,Событие:\   Забытое святилище
+MSG_EX_ITEMGET_IMPORTANT_027,Событие:\   Забытое святилище
+MSG_EX_ITEMGET_IMPORTANT_028,Событие:\   Забытое святилище
+MSG_EX_ITEMGET_IMPORTANT_029,Событие:\   Забытое святилище
+MSG_EX_ITEMGET_IMPORTANT_030,Событие:\   Забытое святилище
+MSG_EX_ITEMGET_IMPORTANT_031,Событие:\   Забытое святилище
+MSG_EX_ITEMGET_IMPORTANT_032,Сундук:\   Забытое святилище
+MSG_EX_ITEMGET_IMPORTANT_033,Событие:\   Забытое святилище
+MSG_EX_ITEMGET_IMPORTANT_034,Событие:\   Забытое святилище
+MSG_EX_ITEMGET_IMPORTANT_035,Сундук:\   Забытое святилище
+MSG_EX_ITEMGET_IMPORTANT_036,Выигрыш:\   Чудо-камень
+MSG_EX_ITEMGET_IMPORTANT_037,Dummy
+MSG_EX_ITEMGET_IMPORTANT_038,Dummy
+MSG_EX_ITEMGET_IMPORTANT_039,Dummy
+MSG_EX_ITEMGET_IMPORTANT_040,Dummy
+MSG_EX_ITEMGET_IMPORTANT_041,Dummy
+MSG_EX_ITEMGET_IMPORTANT_042,Dummy
+MSG_EX_ITEMGET_IMPORTANT_043,Dummy
+MSG_EX_ITEMGET_IMPORTANT_044,Dummy

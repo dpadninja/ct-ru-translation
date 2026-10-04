@@ -1,0 +1,1000 @@
+MSG_DEBUG_EVT_00,Truce
+MSG_DEBUG_EVT_01,Leene Square
+MSG_DEBUG_EVT_02,Marle's Entrance
+MSG_DEBUG_EVT_03,Lucca's Invention
+MSG_DEBUG_EVT_04,To the Middle Ages
+MSG_DEBUG_EVT_05,Truce
+MSG_DEBUG_EVT_06,Guardia Forest
+MSG_DEBUG_EVT_07,Guardia Castle
+MSG_DEBUG_EVT_08,Lucca Joins Party
+MSG_DEBUG_EVT_09,Naga Battle
+MSG_DEBUG_EVT_10,Manolia Cathedral
+MSG_DEBUG_EVT_11,Yakra Battle
+MSG_DEBUG_EVT_12,Marle Returns
+MSG_DEBUG_EVT_13,To thePresent
+MSG_DEBUG_EVT_14,Crono on Trial
+MSG_DEBUG_EVT_15,Innocent
+MSG_DEBUG_EVT_16,Gaoler Battle
+MSG_DEBUG_EVT_17,Dragon Tank Battle
+MSG_DEBUG_EVT_18,After Dragon Tank Battle
+MSG_DEBUG_EVT_19,To the Future
+MSG_DEBUG_EVT_20,Site 16
+MSG_DEBUG_EVT_21,Arris Dome
+MSG_DEBUG_EVT_22,Guardian Battle
+MSG_DEBUG_EVT_23,After Guardian Battle
+MSG_DEBUG_EVT_24,Keeper's Dome (Balthasar)
+MSG_DEBUG_EVT_25,Day of Lavos Record Room
+MSG_DEBUG_EVT_26,Escape Out of Dome Substructure
+MSG_DEBUG_EVT_27,Jetbike Race
+MSG_DEBUG_EVT_28,Robo Revives
+MSG_DEBUG_EVT_29,Derelict Factory
+MSG_DEBUG_EVT_30,ZABIE
+MSG_DEBUG_EVT_31,R-Series Battle
+MSG_DEBUG_EVT_32,End of Time
+MSG_DEBUG_EVT_33,Medina
+MSG_DEBUG_EVT_34,Heckran Cave
+MSG_DEBUG_EVT_35,Heckran Battle
+MSG_DEBUG_EVT_36,After Heckran Battle
+MSG_DEBUG_EVT_37,To the Middle Ages
+MSG_DEBUG_EVT_38,Zenan Bridge
+MSG_DEBUG_EVT_39,Food for the Soldiers
+MSG_DEBUG_EVT_40,Battle Upon Zenan Bridge
+MSG_DEBUG_EVT_41,Zombor Battle
+MSG_DEBUG_EVT_42,Dorino
+MSG_DEBUG_EVT_43,Reunite with Frog
+MSG_DEBUG_EVT_44,Denadoro Mountains
+MSG_DEBUG_EVT_45,Masa & Mune Battle
+MSG_DEBUG_EVT_46,After Masa & Mune Battle
+MSG_DEBUG_EVT_47,Hero's Badge
+MSG_DEBUG_EVT_48,Broken Blade
+MSG_DEBUG_EVT_49,Melchior's Cabin
+MSG_DEBUG_EVT_50,To Prehistory
+MSG_DEBUG_EVT_51,Ioka Village
+MSG_DEBUG_EVT_52,The Feast
+MSG_DEBUG_EVT_53,Hunting Range
+MSG_DEBUG_EVT_54,Forest Maze
+MSG_DEBUG_EVT_55,Reptite Lair
+MSG_DEBUG_EVT_56,Nizbel Battle
+MSG_DEBUG_EVT_57,Repair Masamune
+MSG_DEBUG_EVT_58,Frog Returns
+MSG_DEBUG_EVT_59,Frog Magic
+MSG_DEBUG_EVT_60,Magic Cave, Seal
+MSG_DEBUG_EVT_61,Fiendlord's Keep
+MSG_DEBUG_EVT_62,Slash Battle
+MSG_DEBUG_EVT_63,Flea Battle
+MSG_DEBUG_EVT_64,Ozzie (Trap 1)
+MSG_DEBUG_EVT_65,Ozzie (Trap 2)
+MSG_DEBUG_EVT_66,Ozzie (Trap 3)
+MSG_DEBUG_EVT_67,The Last of Ozzie?
+MSG_DEBUG_EVT_68,Magus Battle
+MSG_DEBUG_EVT_69,Laruba Ruins
+MSG_DEBUG_EVT_70,Dactyl Nest
+MSG_DEBUG_EVT_71,Ride on Dactyl
+MSG_DEBUG_EVT_72,Tyranno Lair
+MSG_DEBUG_EVT_73,Nizbel II Battle
+MSG_DEBUG_EVT_74,Azala Battle
+MSG_DEBUG_EVT_75,Tyranno Lair Ruins
+MSG_DEBUG_EVT_76,To Antiquity
+MSG_DEBUG_EVT_77,Kajar
+MSG_DEBUG_EVT_78,Zeal Palace
+MSG_DEBUG_EVT_79,Golem Battle
+MSG_DEBUG_EVT_80,To Prehistory
+MSG_DEBUG_EVT_81,Return to Guardia Castle
+MSG_DEBUG_EVT_82,Swallow or Guardian Helm
+MSG_DEBUG_EVT_83,Jetbike Race Score Attack
+MSG_DEBUG_EVT_84,Abandoned Sewers
+MSG_DEBUG_EVT_85,Krawlie Battle
+MSG_DEBUG_EVT_86,Keeper's Dome
+MSG_DEBUG_EVT_87,Here we go, Epoch!
+MSG_DEBUG_EVT_88,Back to Antiquity
+MSG_DEBUG_EVT_89,Mudbeast Den
+MSG_DEBUG_EVT_90,Mud Imp Battle
+MSG_DEBUG_EVT_91,Mountain of Woe
+MSG_DEBUG_EVT_92,Giga Gaia Battle
+MSG_DEBUG_EVT_93,Dalton Battle
+MSG_DEBUG_EVT_94,Talk to Mune
+MSG_DEBUG_EVT_95,Talk to Masa
+MSG_DEBUG_EVT_96,Battle on the OP Elevator
+MSG_DEBUG_EVT_97,Golem Battle
+MSG_DEBUG_EVT_98,Lavos Entrance
+MSG_DEBUG_EVT_99,Crono Dead
+MSG_DEBUG_EVT_100,Village Ruins
+MSG_DEBUG_EVT_101,Blackbird
+MSG_DEBUG_EVT_102,Golem Overlord Battle
+MSG_DEBUG_EVT_103,North Cape
+MSG_DEBUG_EVT_104,After Magus Battle
+MSG_DEBUG_EVT_105,Black Omen Emerges
+MSG_DEBUG_EVT_106,Time Egg
+MSG_DEBUG_EVT_107,Change Name
+MSG_DEBUG_EVT_108,Doppel Game
+MSG_DEBUG_EVT_109,Max Silver Points
+MSG_DEBUG_EVT_110,Crono's House
+MSG_DEBUG_EVT_111,Final Program
+MSG_DEBUG_EVT_112,Death Peak
+MSG_DEBUG_EVT_113,Lavos Spawn Battle 1
+MSG_DEBUG_EVT_114,Lavos Spawn Battle 2
+MSG_DEBUG_EVT_115,Lavos Spawn Battle 3
+MSG_DEBUG_EVT_116,Crono Revival
+MSG_DEBUG_EVT_117,Choras
+MSG_DEBUG_EVT_118,Toma's Spirits
+MSG_DEBUG_EVT_119,Carpenter's Tools
+MSG_DEBUG_EVT_120,West Cape
+MSG_DEBUG_EVT_121,Giant's Claw
+MSG_DEBUG_EVT_122,Rust Tyranno Battle
+MSG_DEBUG_EVT_123,Rainbow Shell
+MSG_DEBUG_EVT_124,The King on Trial
+MSG_DEBUG_EVT_125,The King Framed
+MSG_DEBUG_EVT_126,Shell After 400 Years
+MSG_DEBUG_EVT_127,Yakra XIII Battle
+MSG_DEBUG_EVT_128,Prism (Armor)
+MSG_DEBUG_EVT_129,Son of the Sun Battle
+MSG_DEBUG_EVT_130,Get Moon Stone
+MSG_DEBUG_EVT_131,Place Moon Stone
+MSG_DEBUG_EVT_132,Moon Stone Stolen
+MSG_DEBUG_EVT_133,Spiced Jerky
+MSG_DEBUG_EVT_134,Give Spiced Jerky
+MSG_DEBUG_EVT_135,Mayor's Moon Stone
+MSG_DEBUG_EVT_136,Replace Moon Stone
+MSG_DEBUG_EVT_137,Sun Stone
+MSG_DEBUG_EVT_138,At the End of Time
+MSG_DEBUG_EVT_139,Lend Carpenter's Tools
+MSG_DEBUG_EVT_140,Repair Ruins
+MSG_DEBUG_EVT_141,Northern Ruins
+MSG_DEBUG_EVT_142,Repair Ruins (Paid)
+MSG_DEBUG_EVT_143,Completely Repair Ruins
+MSG_DEBUG_EVT_144,Cyrus's Grave
+MSG_DEBUG_EVT_145,The Final Sealed Item
+MSG_DEBUG_EVT_146,Sunken Desert
+MSG_DEBUG_EVT_147,Melphyx Battle
+MSG_DEBUG_EVT_148,Fiona's Villa
+MSG_DEBUG_EVT_149,Fiona's Shrine
+MSG_DEBUG_EVT_150,Lucca's Past
+MSG_DEBUG_EVT_151,Rescue Lara
+MSG_DEBUG_EVT_152,Fail to Rescue Lara
+MSG_DEBUG_EVT_153,Ozzie's Evil Plan
+MSG_DEBUG_EVT_154,Diva Flea Battle
+MSG_DEBUG_EVT_155,Super Slash Battle
+MSG_DEBUG_EVT_156,Battle Against All Three
+MSG_DEBUG_EVT_157,Ozzie the Great Battle
+MSG_DEBUG_EVT_158,The Last of Ozzie
+MSG_DEBUG_EVT_159,Geno Dome
+MSG_DEBUG_EVT_160,After Conveyer Belt Battle
+MSG_DEBUG_EVT_161,Rescue
+MSG_DEBUG_EVT_162,Atropos XR Battle
+MSG_DEBUG_EVT_163,Mother Brain Battle
+MSG_DEBUG_EVT_164,Rainbow and the Sun
+MSG_DEBUG_EVT_165,Golden Gemstone
+MSG_DEBUG_EVT_166,Mega Mutant Battle
+MSG_DEBUG_EVT_167,Black Omen (Opening)
+MSG_DEBUG_EVT_168,Giga Mutant Battle
+MSG_DEBUG_EVT_169,Tera Mutant Battle
+MSG_DEBUG_EVT_170,Elder Lavos Spawn Battle
+MSG_DEBUG_EVT_171,Zeal Battle
+MSG_DEBUG_EVT_172,Lavos Battle (Changes Mode)
+MSG_DEBUG_EVT_173,Lavos Shell Battle
+MSG_DEBUG_EVT_174,ED1 Beyond Time
+MSG_DEBUG_EVT_175,ED2 Reunion
+MSG_DEBUG_EVT_176,ED3 Dream Project
+MSG_DEBUG_EVT_177,ED4 Guardia's Successor
+MSG_DEBUG_EVT_178,ED5 Good Night
+MSG_DEBUG_EVT_179,ED6 Legendary Hero
+MSG_DEBUG_EVT_180,ED7 The Unknown Past
+MSG_DEBUG_EVT_181,ED8 Those Who Live in Time
+MSG_DEBUG_EVT_182,ED9 Promise with a Friend
+MSG_DEBUG_EVT_183,ED10 Dino Age
+MSG_DEBUG_EVT_184,ED11 Prophet's Desire
+MSG_DEBUG_EVT_185,ED12 Post-Mortem
+MSG_DEBUG_EVT_186,Lavos (Strongest) Battle
+MSG_DEBUG_EVT_187,Parade 1 + Epoch END
+MSG_DEBUG_EVT_188,Paradee 2 + Balloon END
+MSG_DEBUG_EVT_189,Dream Project
+MSG_DEBUG_EVT_190,Destruction Demo for CHECK
+MSG_DEBUG_EVT_191,Prophet END Demo for CHECK
+MSG_DEBUG_EVT_192,001 Crono's House 1F
+MSG_DEBUG_EVT_193,002 Crono's House 2F
+MSG_DEBUG_EVT_194,003_1 Lucca's House - 1F Hall
+MSG_DEBUG_EVT_195,003_2 Lucca's House - 1F
+MSG_DEBUG_EVT_196,004 Lucca's House - 1F Entrance
+MSG_DEBUG_EVT_197,005 Leene Square - Central Plaza
+MSG_DEBUG_EVT_198,006 Leene Square - Gato
+MSG_DEBUG_EVT_199,007 Leene Square - Prehistoric Dancers
+MSG_DEBUG_EVT_200,008 Leene Square - Telepod
+MSG_DEBUG_EVT_201,009 Lucca's House - 2F Lara's Room
+MSG_DEBUG_EVT_202,010 Lucca's House - 2F Lucca's Room
+MSG_DEBUG_EVT_203,012 Truce - Inn
+MSG_DEBUG_EVT_204,013 Truce - Mayor's House 1F
+MSG_DEBUG_EVT_205,014 Truce - Mayor's House 2F
+MSG_DEBUG_EVT_206,015 Truce - Residence A
+MSG_DEBUG_EVT_207,016 Truce - Residence B
+MSG_DEBUG_EVT_208,017 Truce - Merchant
+MSG_DEBUG_EVT_209,018 Truce - Ferry Office
+MSG_DEBUG_EVT_210,019 Guardia Forest (Present)
+MSG_DEBUG_EVT_211,020 Guardia Forest (Present) - Time Gate
+MSG_DEBUG_EVT_212,021 Guardia Castle (Present) - Central Hall
+MSG_DEBUG_EVT_213,022 Guardia Castle (Present) - King's Bedroom
+MSG_DEBUG_EVT_214,023 Guardia Castle (Present) - Queen's Bedroom
+MSG_DEBUG_EVT_215,024 Guardia Castle (Present) - Dining Hall
+MSG_DEBUG_EVT_216,025 Guardia Castle (Present) - Soldiers' Room
+MSG_DEBUG_EVT_217,026 Guardia Castle (Present) - Treasury
+MSG_DEBUG_EVT_218,027 Guardia Castle (Present) - Hall of Justice
+MSG_DEBUG_EVT_219,028_1 Prison Towers - Skywalk 1
+MSG_DEBUG_EVT_220,028_2 Prison Towers - Skywalk 2
+MSG_DEBUG_EVT_221,028_3 Prison Towers - Skywalk 3
+MSG_DEBUG_EVT_222,028_4 Prison Towers - Skywalk 4
+MSG_DEBUG_EVT_223,029 Prison Towers - Guardroom
+MSG_DEBUG_EVT_224,030 Prison Towers - Execution Chamber
+MSG_DEBUG_EVT_225,031 Medina - Town Square
+MSG_DEBUG_EVT_226,032 Zenan Bridge
+MSG_DEBUG_EVT_227,033 Medina - Mayor's House 1F
+MSG_DEBUG_EVT_228,034 Medina - Mayor's House 2F
+MSG_DEBUG_EVT_229,035 Medina - Inn
+MSG_DEBUG_EVT_230,036 Medina - Residence
+MSG_DEBUG_EVT_231,039 Medina - Merchant
+MSG_DEBUG_EVT_232,040 Melchior's Cabin - 1F
+MSG_DEBUG_EVT_233,041 Melchior's Cabin - B1
+MSG_DEBUG_EVT_234,042 Forest Ruins
+MSG_DEBUG_EVT_235,043 Cursed Woods
+MSG_DEBUG_EVT_236,047 Heckran Cave
+MSG_DEBUG_EVT_237,048 Heckran Cave - Entrance
+MSG_DEBUG_EVT_238,049 Heckran Cave
+MSG_DEBUG_EVT_239,050 Porre - Mayor's Manor 1F
+MSG_DEBUG_EVT_240,051 Porre - Mayor's Manor 2F
+MSG_DEBUG_EVT_241,052 Porre - Residence
+MSG_DEBUG_EVT_242,053 Porre - Snail Stop
+MSG_DEBUG_EVT_243,054 Porre - Market
+MSG_DEBUG_EVT_244,055 Porre - Inn
+MSG_DEBUG_EVT_245,056 Porre - Ferry Office
+MSG_DEBUG_EVT_246,057 Fiona's Shrine
+MSG_DEBUG_EVT_247,058 Choras - Mayor's Manor 1F
+MSG_DEBUG_EVT_248,059 Magus's Keep - Used for ending?
+MSG_DEBUG_EVT_249,061 Choras - Residence
+MSG_DEBUG_EVT_250,062 Choras - Inn (and tavern)
+MSG_DEBUG_EVT_251,063 West Cape
+MSG_DEBUG_EVT_252,064 Sun Shrine - Present?
+MSG_DEBUG_EVT_253,065 Hero's Grave - Entrance
+MSG_DEBUG_EVT_254,066 Hero's Grave - B1
+MSG_DEBUG_EVT_255,067 Hero's Grave - 2F
+MSG_DEBUG_EVT_256,068 Hero's Grave - 2F Hall
+MSG_DEBUG_EVT_257,069 Hero's Grave - 2F Rear Passage
+MSG_DEBUG_EVT_258,070 Hero's Grave - 2F Rearmost Chamber
+MSG_DEBUG_EVT_259,071_1 Prison Towers - Prison / Passage
+MSG_DEBUG_EVT_260,071_2 Prison Towers - Prison / Passage
+MSG_DEBUG_EVT_261,071_3 Prison Towers - Prison / Passage
+MSG_DEBUG_EVT_262,071_4 Prison Towers - Prison / Passage
+MSG_DEBUG_EVT_263,071_5 Prison Towers - Prison / Passage
+MSG_DEBUG_EVT_264,071_6 Prison Towers - Prison / Passage
+MSG_DEBUG_EVT_265,072_1 Prison Towers - Passage/Stairs to Exec. Chamber
+MSG_DEBUG_EVT_266,072_2 Prison Towers - Small Stair Room
+MSG_DEBUG_EVT_267,072_3 Prison Towers - Big Stair Room (W/LIGHT)
+MSG_DEBUG_EVT_268,072_4 Prison Towers - Big Stair Room (NO LIGHT)
+MSG_DEBUG_EVT_269,073 Hero's Grave - Cyrus's Chamber
+MSG_DEBUG_EVT_270,075 Prison Towers - Outer Wall
+MSG_DEBUG_EVT_271,080 Leene Square - Central Plaza (Parade)
+MSG_DEBUG_EVT_272,081 Leene Square - Plaza Rear (Parade)
+MSG_DEBUG_EVT_273,083 Forest Near Fiona's Shrine - Lucca's Gate
+MSG_DEBUG_EVT_274,084 End of Time
+MSG_DEBUG_EVT_275,085 Leene Square - Telepod (Parade)
+MSG_DEBUG_EVT_276,096 Black Omen - Lower Level 4 (Lavos Spawn)
+MSG_DEBUG_EVT_277,097 Black Omen - Lower Level (Warp 2)
+MSG_DEBUG_EVT_278,098 Black Omen - Upper Level (Warp 2)
+MSG_DEBUG_EVT_279,099 Black Omen - Upper Level (Elevator)
+MSG_DEBUG_EVT_280,099 Black Omen - Mid Level (Elevator)
+MSG_DEBUG_EVT_281,109_1 Giant's Claw
+MSG_DEBUG_EVT_282,109_2 Giant's Claw
+MSG_DEBUG_EVT_283,109_3 Giant's Claw
+MSG_DEBUG_EVT_284,109_4 Giant's Claw
+MSG_DEBUG_EVT_285,109_6 Giant's Claw
+MSG_DEBUG_EVT_286,110_1 Giant's Claw
+MSG_DEBUG_EVT_287,110_2 Giant's Claw
+MSG_DEBUG_EVT_288,110_3 Giant's Claw
+MSG_DEBUG_EVT_289,110_6 Giant's Claw
+MSG_DEBUG_EVT_290,111 Giant's Claw
+MSG_DEBUG_EVT_291,112 Mountains Behind Truce
+MSG_DEBUG_EVT_292,113 Mountains Behind Truce - Time Gate
+MSG_DEBUG_EVT_293,114 Truce - Residence 1
+MSG_DEBUG_EVT_294,115 Truce - Residence 2 (Banta)
+MSG_DEBUG_EVT_295,116 Truce - Inn 1F
+MSG_DEBUG_EVT_296,117 Truce - Inn 2F
+MSG_DEBUG_EVT_297,118 Truce - Market
+MSG_DEBUG_EVT_298,119 Guardia Forest
+MSG_DEBUG_EVT_299,120 Guardia Castle - Main Hall
+MSG_DEBUG_EVT_300,121 Guardia Castle - King's Chamber
+MSG_DEBUG_EVT_301,122 Guardia Castle - Princess's Chamber
+MSG_DEBUG_EVT_302,123 Guardia Castle - Dining Hall
+MSG_DEBUG_EVT_303,124 Guardia Castle - Knight's Room
+MSG_DEBUG_EVT_304,125 Fiendlord's Keep - Long Passage
+MSG_DEBUG_EVT_305,126 Geno Dome - Conveyer Belt (Center)
+MSG_DEBUG_EVT_306,127 Geno Dome - Elevator
+MSG_DEBUG_EVT_307,128 Geno Dome - Oblong Passage
+MSG_DEBUG_EVT_308,129 Manolia Cathedral - Chapel
+MSG_DEBUG_EVT_309,130 Manolia Cathedral - Main Hall (Front)
+MSG_DEBUG_EVT_310,131 Manolia Cathedral - Main Hall (Rear)
+MSG_DEBUG_EVT_311,132 Manolia Cathedral - In Front of Yakra's Room
+MSG_DEBUG_EVT_312,133 Zenan Bridge - Broken Bridge
+MSG_DEBUG_EVT_313,136 Dorino - Residence
+MSG_DEBUG_EVT_314,137 Dorino - Elder's House
+MSG_DEBUG_EVT_315,138 Dorino - Inn
+MSG_DEBUG_EVT_316,139 Dorino - Market
+MSG_DEBUG_EVT_317,140 Cursed Woods
+MSG_DEBUG_EVT_318,141 Cursed Woods - Frog's Hideaway
+MSG_DEBUG_EVT_319,142 Denadoro Mountains - Map 1
+MSG_DEBUG_EVT_320,143 Denadoro Mountains - Map 2
+MSG_DEBUG_EVT_321,144 Denadoro Mountains - Map 3
+MSG_DEBUG_EVT_322,145 Denadoro Mountains - Map 4
+MSG_DEBUG_EVT_323,145 Denadoro Mountains - Entrance
+MSG_DEBUG_EVT_324,146 Denadoro Mountains - Map 5
+MSG_DEBUG_EVT_325,147 Denadoro Mountains - Map 6
+MSG_DEBUG_EVT_326,148 Denadoro Mountains - Map 7
+MSG_DEBUG_EVT_327,149 Denadoro Mountains - Map 8
+MSG_DEBUG_EVT_328,150 Denadoro Mountains - Map 9
+MSG_DEBUG_EVT_329,151 Denadoro Mountains - Masa / Mune's Room
+MSG_DEBUG_EVT_330,152 Tata's House 1F
+MSG_DEBUG_EVT_331,153 Tata's House 2F
+MSG_DEBUG_EVT_332,154 Porre - Elder's House
+MSG_DEBUG_EVT_333,155 Porre - Tavern
+MSG_DEBUG_EVT_334,156 Porre - Inn
+MSG_DEBUG_EVT_335,157 Porre - Market
+MSG_DEBUG_EVT_336,158 Fiona's Villa
+MSG_DEBUG_EVT_337,159 Sunken Desert - Entrance
+MSG_DEBUG_EVT_338,160 Sunken Desert - Front
+MSG_DEBUG_EVT_339,161 Sunken Desert - Melphyx's Room
+MSG_DEBUG_EVT_340,163 Magic Cave - Entrance
+MSG_DEBUG_EVT_341,164 Magic Cave - Interior
+MSG_DEBUG_EVT_342,165 Magus's Keep - Entrance
+MSG_DEBUG_EVT_343,166 Magus's Keep - Upon Entering
+MSG_DEBUG_EVT_344,167 Magus's Keep - Trap 1 - Guillotine
+MSG_DEBUG_EVT_345,168 Magus's Keep - Trap 2 - Pit
+MSG_DEBUG_EVT_346,169 Magus's Keep - Slash Battle Room
+MSG_DEBUG_EVT_347,170 Magus's Keep - Central Chamber
+MSG_DEBUG_EVT_348,171 Magus's Keep - Kids' Treasure Room
+MSG_DEBUG_EVT_349,172 Magus's Keep - Magus's Chamber
+MSG_DEBUG_EVT_350,173 Magus's Keep - Flea Battle Room
+MSG_DEBUG_EVT_351,174 Magus's Keep - Ozzie Battle Room
+MSG_DEBUG_EVT_352,175 Magus's Keep - Trap 3 - Conveyer Belt
+MSG_DEBUG_EVT_353,176 Magus's Keep - Exterior Stairway 2
+MSG_DEBUG_EVT_354,177 Ozzie's Fort - Upon Entering
+MSG_DEBUG_EVT_355,178 Ozzie's Fort - Failed Trap Room
+MSG_DEBUG_EVT_356,179 Ozzie's Fort - Guillotine Room
+MSG_DEBUG_EVT_357,180 Ozzie's Fort - Battle Against All Three
+MSG_DEBUG_EVT_358,181 Ozzie's Fort - The End of Ozzie
+MSG_DEBUG_EVT_359,183 Ozzie's Fort - Flea Battle Room
+MSG_DEBUG_EVT_360,184 Ozzie's Fort - Slash Battle Room
+MSG_DEBUG_EVT_361,185 Choras - Residence 1
+MSG_DEBUG_EVT_362,186 Choras - Residence 2 (Carpenter) 1F
+MSG_DEBUG_EVT_363,187 Choras - Residence 2 (Carpenter) 2F
+MSG_DEBUG_EVT_364,188 Choras - Tavern
+MSG_DEBUG_EVT_365,189 Choras - Inn
+MSG_DEBUG_EVT_366,190 Choras - Market
+MSG_DEBUG_EVT_367,191 Sun Shrine - Middle Ages?
+MSG_DEBUG_EVT_368,195_1 Giant's Claw
+MSG_DEBUG_EVT_369,195_3 Giant's Claw Entrance
+MSG_DEBUG_EVT_370,195_4 Giant's Claw
+MSG_DEBUG_EVT_371,195_5 Giant's Claw
+MSG_DEBUG_EVT_372,195_6 Giant's Claw
+MSG_DEBUG_EVT_373,196_1 Giant's Claw
+MSG_DEBUG_EVT_374,196_2 Giant's Claw
+MSG_DEBUG_EVT_375,197 Giant's Claw - Rust Tyranno Battle Room
+MSG_DEBUG_EVT_376,198 Manolia Cathedral - Yakra Battle Room
+MSG_DEBUG_EVT_377,199 Manolia Cathedral - Prison Cell
+MSG_DEBUG_EVT_378,200 Manolia Cathedral - Phantom Room
+MSG_DEBUG_EVT_379,201 Manolia Cathedral - Bromide Room
+MSG_DEBUG_EVT_380,202 Manolia Cathedral - Monsters' Room
+MSG_DEBUG_EVT_381,203 Manolia Cathedral - Magus Statue
+MSG_DEBUG_EVT_382,208 Bangor Dome - Gate Room
+MSG_DEBUG_EVT_383,209 Bangor Dome - Sealed Treasure Room
+MSG_DEBUG_EVT_384,210 Trann Dome
+MSG_DEBUG_EVT_385,211 Trann Dome - Sealed Treasure Room
+MSG_DEBUG_EVT_386,212 Site 16 Trann Dome Side
+MSG_DEBUG_EVT_387,213 Site 16 Arris Dome Side
+MSG_DEBUG_EVT_388,214 Arris Dome
+MSG_DEBUG_EVT_389,215 Arris Dome Substructure - Passcode Room 1
+MSG_DEBUG_EVT_390,216 Arris Dome Substructure - Upon Entering
+MSG_DEBUG_EVT_391,217 Arris Dome Substructure - Passcode Room 2
+MSG_DEBUG_EVT_392,218 Arris Dome Substructure - Day of Lavos Record Room
+MSG_DEBUG_EVT_393,219 Arris Dome Substructure - Guardian Battle
+MSG_DEBUG_EVT_394,220 Arris Dome Substructure - Sealed Treasure Room
+MSG_DEBUG_EVT_395,221 Arris Dome Substructure - Rat Room
+MSG_DEBUG_EVT_396,222 Reptite Lair
+MSG_DEBUG_EVT_397,223 Site 32 - Eastern Bike Parking
+MSG_DEBUG_EVT_398,224 Site 32 - Road
+MSG_DEBUG_EVT_399,225 Site 32 - Eastern Bike Parking
+MSG_DEBUG_EVT_400,226 Proto Dome - Robo's Debut
+MSG_DEBUG_EVT_401,227 Proto Dome - Gate Room
+MSG_DEBUG_EVT_402,228 Derelict Factory - Entrance
+MSG_DEBUG_EVT_403,229 Derelict Factory - B2 (West)
+MSG_DEBUG_EVT_404,230 Derelict Factory - B2 (West)
+MSG_DEBUG_EVT_405,231 Derelict Factory - B1 (East)
+MSG_DEBUG_EVT_406,232 Derelict Factory - Bug Room
+MSG_DEBUG_EVT_407,233 Derelict Factory - Room Before Crane
+MSG_DEBUG_EVT_408,234 Derelict Factory - Passcode Acquisition
+MSG_DEBUG_EVT_409,235 Derelict Factory - B3 (West)
+MSG_DEBUG_EVT_410,236 Abandoned Sewers - Entrance
+MSG_DEBUG_EVT_411,237 Abandoned Sewers
+MSG_DEBUG_EVT_412,241 Keeper's Dome
+MSG_DEBUG_EVT_413,242 Keeper's Dome - Hallway
+MSG_DEBUG_EVT_414,243 Keeper's Dome - Epoch Storage Room
+MSG_DEBUG_EVT_415,244 Death Peak - Entrance
+MSG_DEBUG_EVT_416,245 Death Peak - Map 1
+MSG_DEBUG_EVT_417,246 Death Peak - Map 2
+MSG_DEBUG_EVT_418,247 Death Peak - Map 4 (Lavos Spawn - 2)
+MSG_DEBUG_EVT_419,248 Geno Dome - Entrance
+MSG_DEBUG_EVT_420,249 Geno Dome - Conveyer Belt (Front)
+MSG_DEBUG_EVT_421,250 Geno Dome - Conveyer Belt (Rear)
+MSG_DEBUG_EVT_422,251 Sun Shrine
+MSG_DEBUG_EVT_423,253 Sun Shrine - Future?
+MSG_DEBUG_EVT_424,255 Sun Shrine - Prehistory?
+MSG_DEBUG_EVT_425,256 Geno Dome - Main Room
+MSG_DEBUG_EVT_426,257 Geno Dome - Treasure Room 1
+MSG_DEBUG_EVT_427,258 Geno Dome - Treasure Room 2
+MSG_DEBUG_EVT_428,259 Derelict Factory - Crane Code Acquisition
+MSG_DEBUG_EVT_429,260 Death Peak - Map 6
+MSG_DEBUG_EVT_430,262 Death Peak - Map 5
+MSG_DEBUG_EVT_431,263 Death Peak - Map 3
+MSG_DEBUG_EVT_432,264 Death Peak - Interior (Lavos Spawn - 1)
+MSG_DEBUG_EVT_433,265 Death Peak - Summit
+MSG_DEBUG_EVT_434,267 Geno Dome - Rear of Oblong Passage
+MSG_DEBUG_EVT_435,268 Geno Dome - Mother Brain Battle
+MSG_DEBUG_EVT_436,269 Geno Dome - Execution Room
+MSG_DEBUG_EVT_437,272 Mystic Mountains - Gate
+MSG_DEBUG_EVT_438,273 Mystic Mountains - Ayla's Debut
+MSG_DEBUG_EVT_439,274 Mystic Mountains - Trail
+MSG_DEBUG_EVT_440,275 Ioka Village - Chief's Hut
+MSG_DEBUG_EVT_441,276 Ioka Village Hut
+MSG_DEBUG_EVT_442,277 Ioka Village Hut - Trading Room
+MSG_DEBUG_EVT_443,278 Ioka Village Hut - Healing Room
+MSG_DEBUG_EVT_444,279 Ioka Village - Village Center
+MSG_DEBUG_EVT_445,280 Ioka Village - Village Center (Night)
+MSG_DEBUG_EVT_446,281 Forest Maze - Entrance Only
+MSG_DEBUG_EVT_447,282 Forest Maze
+MSG_DEBUG_EVT_448,283 Reptite Lair - Entrance
+MSG_DEBUG_EVT_449,284 Reptite Lair - Beetle Room
+MSG_DEBUG_EVT_450,285 Reptite Lair - Hole 1
+MSG_DEBUG_EVT_451,286 Reptite Lair - Hole 2
+MSG_DEBUG_EVT_452,287 Reptite Lair - Hole 3
+MSG_DEBUG_EVT_453,288 Reptite Lair
+MSG_DEBUG_EVT_454,289 Reptite Lair - Nizbel Battle
+MSG_DEBUG_EVT_455,290 Reptite Lair
+MSG_DEBUG_EVT_456,291 Hunting Range
+MSG_DEBUG_EVT_457,292 Laruba Ruins
+MSG_DEBUG_EVT_458,293 Dactyl Nest - Entrance
+MSG_DEBUG_EVT_459,294 Dactyl Nest - Mountainside
+MSG_DEBUG_EVT_460,295 Dactyl Nest - Peak
+MSG_DEBUG_EVT_461,298_1 Tyranno Lair - Exterior
+MSG_DEBUG_EVT_462,298_2 Tyranno Lair - Exterior
+MSG_DEBUG_EVT_463,298_3 Tyranno Lair - Exterior
+MSG_DEBUG_EVT_464,299 Tyranno Lair - Entrance
+MSG_DEBUG_EVT_465,300 Tyranno Lair - Azala Face-off
+MSG_DEBUG_EVT_466,301 Tyranno Lair - Black Tyranno Battle
+MSG_DEBUG_EVT_467,302_1 Tyranno Lair - Interior (Traps)
+MSG_DEBUG_EVT_468,302_2 Tyranno Lair - Interior (Prisoners)
+MSG_DEBUG_EVT_469,302_3 Tyranno Lair - Interior (Prisoners, Traps)
+MSG_DEBUG_EVT_470,302_4 Tyranno Lair - Interior (Prisoners, Traps)
+MSG_DEBUG_EVT_471,302_5 Tyranno Lair - Interior (Prisoners, Traps)
+MSG_DEBUG_EVT_472,302_6 Tyranno Lair - Interior (Prisoners, Traps)
+MSG_DEBUG_EVT_473,303_1 Tyranno Lair - Interior 2 (Switches, Passages)
+MSG_DEBUG_EVT_474,303_2 Tyranno Lair - Interior 2 (Switches, Passages)
+MSG_DEBUG_EVT_475,303_3 Tyranno Lair - Interior 2 (Switches, Passages)
+MSG_DEBUG_EVT_476,303_5 Tyranno Lair - Interior 2 (Switches, Passages)
+MSG_DEBUG_EVT_477,304 Tyranno Lair - Nizbel II
+MSG_DEBUG_EVT_478,305 Tyranno Lair - Interior 3 (Warp Point)
+MSG_DEBUG_EVT_479,307 Tyranno Lair Ruins
+MSG_DEBUG_EVT_480,308 Black Omen - Upper Level 1 (Mega M.)
+MSG_DEBUG_EVT_481,309 Black Omen - Upper Level 1
+MSG_DEBUG_EVT_482,310 Black Omen - Upper Level 2
+MSG_DEBUG_EVT_483,311 Black Omen - Upper Level 3
+MSG_DEBUG_EVT_484,312 Black Omen - Upper Level 4
+MSG_DEBUG_EVT_485,313 Black Omen - Middle Level 1
+MSG_DEBUG_EVT_486,314 Black Omen - Middle Level 2
+MSG_DEBUG_EVT_487,315 Black Omen - Middle Level 3
+MSG_DEBUG_EVT_488,316 Black Omen - Middle Level 4
+MSG_DEBUG_EVT_489,317 Black Omen - Middle Level 5
+MSG_DEBUG_EVT_490,318 Black Omen - Middle Level 6
+MSG_DEBUG_EVT_491,319 Black Omen - Middle Level 7
+MSG_DEBUG_EVT_492,320 Black Omen - Middle Level 8
+MSG_DEBUG_EVT_493,321 Black Omen - Lower Level 1 (Warp)
+MSG_DEBUG_EVT_494,322 Black Omen - Lower Level 2
+MSG_DEBUG_EVT_495,323 Black Omen - Lower Level 3 (Giga M.)
+MSG_DEBUG_EVT_496,324 Black Omen - Bottom Level 1
+MSG_DEBUG_EVT_497,325 Black Omen - Bottom Level 2 (Terra M.)
+MSG_DEBUG_EVT_498,326 Black Omen - Bottom Level 3
+MSG_DEBUG_EVT_499,327 Sun Shrine - Unknown Era
+MSG_DEBUG_EVT_500,328 Zeal Palace - Janus's Chamber
+MSG_DEBUG_EVT_501,329 Zeal Palace - Sealed Door (Unopened)
+MSG_DEBUG_EVT_502,330 Zeal Palace - Sealed Door (Opened)
+MSG_DEBUG_EVT_503,331 Zeal Palace - Mammon Machine - 1
+MSG_DEBUG_EVT_504,332 Zeal Palace - Queen's Chamber - 1
+MSG_DEBUG_EVT_505,333 Zeal Palace - Mammon Machine - 2
+MSG_DEBUG_EVT_506,334 Zeal Palace - Queen's Chamber - 2
+MSG_DEBUG_EVT_507,336 Land Bridge
+MSG_DEBUG_EVT_508,338 Dream Project - Staff, Residence
+MSG_DEBUG_EVT_509,339 Dream Project - Staff, Prehistoric Forest
+MSG_DEBUG_EVT_510,340 Dream Project - Staff, Ocean Palace
+MSG_DEBUG_EVT_511,341 Dream Project - Staff, Prison
+MSG_DEBUG_EVT_512,342 Dream Project - Staff, Terrans
+MSG_DEBUG_EVT_513,343 Dream Project - Dream Staff
+MSG_DEBUG_EVT_514,344 Arris Dome Substructure - Supply Room
+MSG_DEBUG_EVT_515,351 Small Cave - Gate
+MSG_DEBUG_EVT_516,352 Land Bridge
+MSG_DEBUG_EVT_517,353 Land Bridge
+MSG_DEBUG_EVT_518,354 Skyway
+MSG_DEBUG_EVT_519,355 Enhasa - Plaza
+MSG_DEBUG_EVT_520,357 Kajar - Plaza
+MSG_DEBUG_EVT_521,358 Kajar - Small Room
+MSG_DEBUG_EVT_522,359 Kajar - Hidden Room
+MSG_DEBUG_EVT_523,360 Kajar - Magic Research Lab
+MSG_DEBUG_EVT_524,361 Enhasa-  Hidden Room
+MSG_DEBUG_EVT_525,362 Blackbird - Boarding Point
+MSG_DEBUG_EVT_526,363 Blackbird - Left Wing
+MSG_DEBUG_EVT_527,364 Blackbird - Right Deck
+MSG_DEBUG_EVT_528,365 Blackbird - Left Deck
+MSG_DEBUG_EVT_529,366 Blackbird - Panorama
+MSG_DEBUG_EVT_530,367 Blackbird - Epoch Upgrade Room
+MSG_DEBUG_EVT_531,368 Blackbird - Rearward Passage
+MSG_DEBUG_EVT_532,369 Blackbird - Forward Passage
+MSG_DEBUG_EVT_533,370 Blackbird Room 1
+MSG_DEBUG_EVT_534,371 Blackbird Room 2
+MSG_DEBUG_EVT_535,372 Blackbird Room 3
+MSG_DEBUG_EVT_536,373 Blackbird Room 4
+MSG_DEBUG_EVT_537,374 Blackbird Room 5
+MSG_DEBUG_EVT_538,375 Blackbird Room 6
+MSG_DEBUG_EVT_539,376 Blackbird - Ventillation Shaft
+MSG_DEBUG_EVT_540,378 Dream Project - Staff, Future Factory
+MSG_DEBUG_EVT_541,379 Dream Project - End of Time
+MSG_DEBUG_EVT_542,380 Algetty - Panorama
+MSG_DEBUG_EVT_543,381 Algetty - Inn
+MSG_DEBUG_EVT_544,382 Algetty - Elder's Room
+MSG_DEBUG_EVT_545,383 Algetty Resident's Room
+MSG_DEBUG_EVT_546,384 Algetty - Item Shop
+MSG_DEBUG_EVT_547,388 Mudbeast Den
+MSG_DEBUG_EVT_548,389_1 Small Cave - Floating Continent
+MSG_DEBUG_EVT_549,389_2 Small Cave - Floating Continent
+MSG_DEBUG_EVT_550,389_3 Small Cave - Floating Continent
+MSG_DEBUG_EVT_551,389_4 Small Cave - Floating Continent
+MSG_DEBUG_EVT_552,390 Dream Project - Staff, Prehistoric Hut
+MSG_DEBUG_EVT_553,391 Dream Project - Staff, Magus's Keep
+MSG_DEBUG_EVT_554,392 Mountain of Woe - Station 3
+MSG_DEBUG_EVT_555,393 Mountain of Woe - Station 5
+MSG_DEBUG_EVT_556,394 Mountain of Woe - Base
+MSG_DEBUG_EVT_557,395 Mountain of Woe - Station 8
+MSG_DEBUG_EVT_558,397 Mountain of Woe - Giga Gaia Battle
+MSG_DEBUG_EVT_559,401 Zeal Palace - Main Hall
+MSG_DEBUG_EVT_560,402 Zeal Palace - Passage to Janus's Room
+MSG_DEBUG_EVT_561,403 Zeal Palace - Schala's Room
+MSG_DEBUG_EVT_562,404 Ocean Palace - Upon Entering
+MSG_DEBUG_EVT_563,405 Ocean Palace - Upper Level, Main Hall
+MSG_DEBUG_EVT_564,406_1 Ocean Palace - Upper Level, Small Room
+MSG_DEBUG_EVT_565,406_2 Ocean Palace - Upper Level, Small Room
+MSG_DEBUG_EVT_566,406_3 Ocean Palace - Upper Level, Small Room
+MSG_DEBUG_EVT_567,406_4 Ocean Palace - Upper Level, Small Room
+MSG_DEBUG_EVT_568,406_5 Ocean Palace - Upper Level, Small Room
+MSG_DEBUG_EVT_569,406_6 Ocean Palace - Upper Level, Small Room
+MSG_DEBUG_EVT_570,407 Ocean Palace - Upper Level, Door Switch
+MSG_DEBUG_EVT_571,408 Ocean Palace - Upper Level -> Great Stair
+MSG_DEBUG_EVT_572,409 Ocean Palace - Great Stair
+MSG_DEBUG_EVT_573,410 Ocean Palace - Great Stair -> Lower Level
+MSG_DEBUG_EVT_574,411 Ocean Palace - Elevator (Lower Level)
+MSG_DEBUG_EVT_575,412 Ocean Palace - Lowest Level, Main Hall
+MSG_DEBUG_EVT_576,413 Ocean Palace - Lowest Level, Passage
+MSG_DEBUG_EVT_577,414 Ocean Palace - Golem Battle
+MSG_DEBUG_EVT_578,415 Ocean Palace - Lowest Level, Mammon Machine
+MSG_DEBUG_EVT_579,416 Ocean Palace - Elevator (Descending)
+MSG_DEBUG_EVT_580,417 Ocean Palace - Elevator (Upper Level)
+MSG_DEBUG_EVT_581,418 Ocean Palace - Elevator (Bottom Level)
+MSG_DEBUG_EVT_582,423 Ocean Palace - Lavos Battle (Strongest)
+MSG_DEBUG_EVT_583,424 Surviving Village - Plaza
+MSG_DEBUG_EVT_584,425 Surviving Village - Beds
+MSG_DEBUG_EVT_585,426 Surviving Village - Item Shop
+MSG_DEBUG_EVT_586,427 Surviving Village - Residence
+MSG_DEBUG_EVT_587,428 North Cape
+MSG_DEBUG_EVT_588,429 Death Peak - Crono Revival Event
+MSG_DEBUG_EVT_589,430 Tyranno Lair Imprisoned Villagers
+MSG_DEBUG_EVT_590,434 Leene Square - Bekkler's Lab
+MSG_DEBUG_EVT_591,435 Magic Cave - Entrance
+MSG_DEBUG_EVT_592,436 Fiona's Shrine - Nearby Woods
+MSG_DEBUG_EVT_593,437 Derelict Factory - Reject Room
+MSG_DEBUG_EVT_594,438 Guardia Castle (Present) - Hall of Justice
+MSG_DEBUG_EVT_595,439 Leene Square - Plaza Rear
+MSG_DEBUG_EVT_596,440 Guardia Castle (Present) - Treasury
+MSG_DEBUG_EVT_597,441 Guardia Castle (Present) - Before Hall of Justice
+MSG_DEBUG_EVT_598,442 Blackbird - Room 7
+MSG_DEBUG_EVT_599,443 Blackbird - Room 8
+MSG_DEBUG_EVT_600,444 Blackbird - Room 9
+MSG_DEBUG_EVT_601,445 Blackbird - Room 10
+MSG_DEBUG_EVT_602,446 Magus's Keep - Exterior Stairway 2
+MSG_DEBUG_EVT_603,447 Magus's Keep  - Before Final Magus Battle
+MSG_DEBUG_EVT_604,449 Black Omen - Entrance
+MSG_DEBUG_EVT_605,450 Black Omen - Bottom Level 5
+MSG_DEBUG_EVT_606,451 Black Omen - Bottom Level 6 (Lowest Reaches)
+MSG_DEBUG_EVT_607,464 End of Time - Gasper's Room
+MSG_DEBUG_EVT_608,465 End of Time - Spekkio's Room
+MSG_DEBUG_EVT_609,466 Lavos Shell - Shell Destroyed
+MSG_DEBUG_EVT_610,467 Lavos Shell - Battle vs Shell
+MSG_DEBUG_EVT_611,468_1 Guardia Castle - Western Stair
+MSG_DEBUG_EVT_612,468_2 Guardia Castle - Western Stair
+MSG_DEBUG_EVT_613,468_3 Guardia Castle - Western Stair
+MSG_DEBUG_EVT_614,469 Magus's Keep - Western Passage
+MSG_DEBUG_EVT_615,470 Magus's Keep - Ozzie Battle Room
+MSG_DEBUG_EVT_616,471 Magus's Keep - After Pit Trap
+MSG_DEBUG_EVT_617,474 Lavos Interior - Before Final Battle
+MSG_DEBUG_EVT_618,478 Blackbird - Interior Exit
+MSG_DEBUG_EVT_619,480_1 Guardia Castle - Eastern Stair
+MSG_DEBUG_EVT_620,480_2 Guardia Castle - Eastern Stair
+MSG_DEBUG_EVT_621,480_3 Guardia Castle - Eastern Stair
+MSG_DEBUG_EVT_622,486_1 Guardia Castle - Eastern Stair
+MSG_DEBUG_EVT_623,486_2 Guardia Castle - Eastern Stair
+MSG_DEBUG_EVT_624,486_3 Guardia Castle - Eastern Stair
+MSG_DEBUG_EVT_625,487_1 Guardia Castle - Western Stair
+MSG_DEBUG_EVT_626,487_2 Guardia Castle - Western Stair
+MSG_DEBUG_EVT_627,487_3 Guardia Castle - Western Stair
+MSG_DEBUG_EVT_628,488_1 Guardia Castle - Stair to Hall of Justice
+MSG_DEBUG_EVT_629,488_2 Guardia Castle - Stair to Hall of Justice
+MSG_DEBUG_EVT_630,488_3 Guardia Castle - Stair to Hall of Justice
+MSG_DEBUG_EVT_631,489_1 Guardia Castle (Present) - Prison Stairway
+MSG_DEBUG_EVT_632,489_2 Guardia Castle (Present) - Prison Stairway
+MSG_DEBUG_EVT_633,489_3 Guardia Castle (Present) - Prison Stairway
+MSG_DEBUG_EVT_634,495 Death Peak - Lavos Spawn - 3
+MSG_DEBUG_EVT_635,
+MSG_DEBUG_EVT_636,
+MSG_DEBUG_EVT_637,
+MSG_DEBUG_EVT_638,
+MSG_DEBUG_EVT_639,
+MSG_DEBUG_EVT_640,
+MSG_DEBUG_EVT_641,
+MSG_DEBUG_EVT_642,
+MSG_DEBUG_EVT_643,
+MSG_DEBUG_EVT_644,
+MSG_DEBUG_EVT_645,
+MSG_DEBUG_EVT_646,
+MSG_DEBUG_EVT_647,
+MSG_DEBUG_EVT_648,
+MSG_DEBUG_EVT_649,
+MSG_DEBUG_EVT_650,
+MSG_DEBUG_EVT_651,
+MSG_DEBUG_EVT_652,
+MSG_DEBUG_EVT_653,
+MSG_DEBUG_EVT_654,
+MSG_DEBUG_EVT_655,
+MSG_DEBUG_EVT_656,
+MSG_DEBUG_EVT_657,
+MSG_DEBUG_EVT_658,
+MSG_DEBUG_EVT_659,
+MSG_DEBUG_EVT_660,
+MSG_DEBUG_EVT_661,
+MSG_DEBUG_EVT_662,
+MSG_DEBUG_EVT_663,
+MSG_DEBUG_EVT_664,
+MSG_DEBUG_EVT_665,
+MSG_DEBUG_EVT_666,
+MSG_DEBUG_EVT_667,
+MSG_DEBUG_EVT_668,
+MSG_DEBUG_EVT_669,
+MSG_DEBUG_EVT_670,
+MSG_DEBUG_EVT_671,
+MSG_DEBUG_EVT_672,
+MSG_DEBUG_EVT_673,
+MSG_DEBUG_EVT_674,
+MSG_DEBUG_EVT_675,
+MSG_DEBUG_EVT_676,
+MSG_DEBUG_EVT_677,
+MSG_DEBUG_EVT_678,
+MSG_DEBUG_EVT_679,
+MSG_DEBUG_EVT_680,
+MSG_DEBUG_EVT_681,
+MSG_DEBUG_EVT_682,
+MSG_DEBUG_EVT_683,
+MSG_DEBUG_EVT_684,
+MSG_DEBUG_EVT_685,
+MSG_DEBUG_EVT_686,
+MSG_DEBUG_EVT_687,
+MSG_DEBUG_EVT_688,
+MSG_DEBUG_EVT_689,
+MSG_DEBUG_EVT_690,
+MSG_DEBUG_EVT_691,
+MSG_DEBUG_EVT_692,
+MSG_DEBUG_EVT_693,
+MSG_DEBUG_EVT_694,
+MSG_DEBUG_EVT_695,
+MSG_DEBUG_EVT_696,
+MSG_DEBUG_EVT_697,
+MSG_DEBUG_EVT_698,
+MSG_DEBUG_EVT_699,
+MSG_DEBUG_EVT_700,
+MSG_DEBUG_EVT_701,
+MSG_DEBUG_EVT_702,
+MSG_DEBUG_EVT_703,
+MSG_DEBUG_EVT_704,
+MSG_DEBUG_EVT_705,
+MSG_DEBUG_EVT_706,
+MSG_DEBUG_EVT_707,
+MSG_DEBUG_EVT_708,
+MSG_DEBUG_EVT_709,
+MSG_DEBUG_EVT_710,
+MSG_DEBUG_EVT_711,
+MSG_DEBUG_EVT_712,
+MSG_DEBUG_EVT_713,
+MSG_DEBUG_EVT_714,
+MSG_DEBUG_EVT_715,
+MSG_DEBUG_EVT_716,
+MSG_DEBUG_EVT_717,
+MSG_DEBUG_EVT_718,
+MSG_DEBUG_EVT_719,
+MSG_DEBUG_EVT_720,
+MSG_DEBUG_EVT_721,
+MSG_DEBUG_EVT_722,
+MSG_DEBUG_EVT_723,
+MSG_DEBUG_EVT_724,
+MSG_DEBUG_EVT_725,
+MSG_DEBUG_EVT_726,
+MSG_DEBUG_EVT_727,
+MSG_DEBUG_EVT_728,
+MSG_DEBUG_EVT_729,
+MSG_DEBUG_EVT_730,
+MSG_DEBUG_EVT_731,
+MSG_DEBUG_EVT_732,
+MSG_DEBUG_EVT_733,
+MSG_DEBUG_EVT_734,
+MSG_DEBUG_EVT_735,
+MSG_DEBUG_EVT_736,
+MSG_DEBUG_EVT_737,
+MSG_DEBUG_EVT_738,
+MSG_DEBUG_EVT_739,
+MSG_DEBUG_EVT_740,
+MSG_DEBUG_EVT_741,
+MSG_DEBUG_EVT_742,
+MSG_DEBUG_EVT_743,
+MSG_DEBUG_EVT_744,
+MSG_DEBUG_EVT_745,
+MSG_DEBUG_EVT_746,
+MSG_DEBUG_EVT_747,
+MSG_DEBUG_EVT_748,
+MSG_DEBUG_EVT_749,
+MSG_DEBUG_EVT_750,
+MSG_DEBUG_EVT_751,
+MSG_DEBUG_EVT_752,
+MSG_DEBUG_EVT_753,
+MSG_DEBUG_EVT_754,
+MSG_DEBUG_EVT_755,
+MSG_DEBUG_EVT_756,
+MSG_DEBUG_EVT_757,
+MSG_DEBUG_EVT_758,
+MSG_DEBUG_EVT_759,
+MSG_DEBUG_EVT_760,
+MSG_DEBUG_EVT_761,
+MSG_DEBUG_EVT_762,
+MSG_DEBUG_EVT_763,
+MSG_DEBUG_EVT_764,
+MSG_DEBUG_EVT_765,
+MSG_DEBUG_EVT_766,
+MSG_DEBUG_EVT_767,
+MSG_DEBUG_EVT_768,
+MSG_DEBUG_EVT_769,
+MSG_DEBUG_EVT_770,
+MSG_DEBUG_EVT_771,
+MSG_DEBUG_EVT_772,
+MSG_DEBUG_EVT_773,
+MSG_DEBUG_EVT_774,
+MSG_DEBUG_EVT_775,
+MSG_DEBUG_EVT_776,
+MSG_DEBUG_EVT_777,
+MSG_DEBUG_EVT_778,
+MSG_DEBUG_EVT_779,
+MSG_DEBUG_EVT_780,
+MSG_DEBUG_EVT_781,
+MSG_DEBUG_EVT_782,
+MSG_DEBUG_EVT_783,
+MSG_DEBUG_EVT_784,
+MSG_DEBUG_EVT_785,
+MSG_DEBUG_EVT_786,
+MSG_DEBUG_EVT_787,
+MSG_DEBUG_EVT_788,
+MSG_DEBUG_EVT_789,
+MSG_DEBUG_EVT_790,
+MSG_DEBUG_EVT_791,
+MSG_DEBUG_EVT_792,
+MSG_DEBUG_EVT_793,
+MSG_DEBUG_EVT_794,
+MSG_DEBUG_EVT_795,
+MSG_DEBUG_EVT_796,
+MSG_DEBUG_EVT_797,
+MSG_DEBUG_EVT_798,
+MSG_DEBUG_EVT_799,
+MSG_DEBUG_EVT_800,
+MSG_DEBUG_EVT_801,
+MSG_DEBUG_EVT_802,
+MSG_DEBUG_EVT_803,
+MSG_DEBUG_EVT_804,
+MSG_DEBUG_EVT_805,
+MSG_DEBUG_EVT_806,
+MSG_DEBUG_EVT_807,
+MSG_DEBUG_EVT_808,
+MSG_DEBUG_EVT_809,
+MSG_DEBUG_EVT_810,
+MSG_DEBUG_EVT_811,
+MSG_DEBUG_EVT_812,
+MSG_DEBUG_EVT_813,
+MSG_DEBUG_EVT_814,
+MSG_DEBUG_EVT_815,
+MSG_DEBUG_EVT_816,
+MSG_DEBUG_EVT_817,
+MSG_DEBUG_EVT_818,
+MSG_DEBUG_EVT_819,
+MSG_DEBUG_EVT_820,
+MSG_DEBUG_EVT_821,
+MSG_DEBUG_EVT_822,
+MSG_DEBUG_EVT_823,
+MSG_DEBUG_EVT_824,
+MSG_DEBUG_EVT_825,
+MSG_DEBUG_EVT_826,
+MSG_DEBUG_EVT_827,
+MSG_DEBUG_EVT_828,
+MSG_DEBUG_EVT_829,
+MSG_DEBUG_EVT_830,
+MSG_DEBUG_EVT_831,
+MSG_DEBUG_EVT_832,
+MSG_DEBUG_EVT_833,
+MSG_DEBUG_EVT_834,
+MSG_DEBUG_EVT_835,
+MSG_DEBUG_EVT_836,
+MSG_DEBUG_EVT_837,
+MSG_DEBUG_EVT_838,
+MSG_DEBUG_EVT_839,
+MSG_DEBUG_EVT_840,
+MSG_DEBUG_EVT_841,
+MSG_DEBUG_EVT_842,
+MSG_DEBUG_EVT_843,
+MSG_DEBUG_EVT_844,
+MSG_DEBUG_EVT_845,
+MSG_DEBUG_EVT_846,
+MSG_DEBUG_EVT_847,
+MSG_DEBUG_EVT_848,
+MSG_DEBUG_EVT_849,
+MSG_DEBUG_EVT_850,
+MSG_DEBUG_EVT_851,
+MSG_DEBUG_EVT_852,
+MSG_DEBUG_EVT_853,
+MSG_DEBUG_EVT_854,
+MSG_DEBUG_EVT_855,
+MSG_DEBUG_EVT_856,
+MSG_DEBUG_EVT_857,
+MSG_DEBUG_EVT_858,
+MSG_DEBUG_EVT_859,
+MSG_DEBUG_EVT_860,
+MSG_DEBUG_EVT_861,
+MSG_DEBUG_EVT_862,
+MSG_DEBUG_EVT_863,
+MSG_DEBUG_EVT_864,
+MSG_DEBUG_EVT_865,
+MSG_DEBUG_EVT_866,
+MSG_DEBUG_EVT_867,
+MSG_DEBUG_EVT_868,
+MSG_DEBUG_EVT_869,
+MSG_DEBUG_EVT_870,
+MSG_DEBUG_EVT_871,
+MSG_DEBUG_EVT_872,
+MSG_DEBUG_EVT_873,
+MSG_DEBUG_EVT_874,
+MSG_DEBUG_EVT_875,
+MSG_DEBUG_EVT_876,
+MSG_DEBUG_EVT_877,
+MSG_DEBUG_EVT_878,
+MSG_DEBUG_EVT_879,
+MSG_DEBUG_EVT_880,
+MSG_DEBUG_EVT_881,
+MSG_DEBUG_EVT_882,
+MSG_DEBUG_EVT_883,
+MSG_DEBUG_EVT_884,
+MSG_DEBUG_EVT_885,
+MSG_DEBUG_EVT_886,
+MSG_DEBUG_EVT_887,
+MSG_DEBUG_EVT_888,
+MSG_DEBUG_EVT_889,
+MSG_DEBUG_EVT_890,
+MSG_DEBUG_EVT_891,
+MSG_DEBUG_EVT_892,
+MSG_DEBUG_EVT_893,
+MSG_DEBUG_EVT_894,
+MSG_DEBUG_EVT_895,
+MSG_DEBUG_EVT_896,
+MSG_DEBUG_EVT_897,
+MSG_DEBUG_EVT_898,
+MSG_DEBUG_EVT_899,
+MSG_DEBUG_EVT_900,Lost Sanctum
+MSG_DEBUG_EVT_901,All monsters defeated at Millennia Wood
+MSG_DEBUG_EVT_902,"Golden Hammer" quest
+MSG_DEBUG_EVT_903,Obtained: "Golden Sand"
+MSG_DEBUG_EVT_904,Sprinkling golden san
+MSG_DEBUG_EVT_905,Battle for "Golden Hammer"
+MSG_DEBUG_EVT_906,After the battle for "Hammer"
+MSG_DEBUG_EVT_907,"Prismastone" quest
+MSG_DEBUG_EVT_908,Battle against "Nu Guardian"
+MSG_DEBUG_EVT_909,After the battle against "Nu Guardian"
+MSG_DEBUG_EVT_910,Obtained: "Prismastone" (Prehistory)
+MSG_DEBUG_EVT_911,Bringing the prismastone to the mother
+MSG_DEBUG_EVT_912,Showing the elusive gem (quest)
+MSG_DEBUG_EVT_913,Obtained: "Reptmark"
+MSG_DEBUG_EVT_914,Obtained: "Prismastone" (the Middle Ages)
+MSG_DEBUG_EVT_915,Complation of "Saintstone"
+MSG_DEBUG_EVT_916,Placing "Saintstone"
+MSG_DEBUG_EVT_917,Check on the strange figure (Nu Guardian)
+MSG_DEBUG_EVT_918,Obtained: "Sturdy Vines"
+MSG_DEBUG_EVT_919,Leaning a ladder
+MSG_DEBUG_EVT_920,Before the battle against "Nu Master"
+MSG_DEBUG_EVT_921,After the battle against "Nu Master"
+MSG_DEBUG_EVT_922,Obtained: "Waystone"
+MSG_DEBUG_EVT_923,To see what lies within the lightless cave
+MSG_DEBUG_EVT_924,Lightless Cave
+MSG_DEBUG_EVT_925,Primeval Fortress: Battles at the entrance
+MSG_DEBUG_EVT_926,Punitive expedition in Primeval Fortress
+MSG_DEBUG_EVT_927,Primeval Fortress
+MSG_DEBUG_EVT_928,Before the battle against "Archaeofangs"
+MSG_DEBUG_EVT_929,After the battle against "Archaeofangs"
+MSG_DEBUG_EVT_930,"Building tools" quest
+MSG_DEBUG_EVT_931,Obtained: "Godwood"
+MSG_DEBUG_EVT_932,Obtained: "Golden Hummer"
+MSG_DEBUG_EVT_933,Obtained: "Steel Ingot"
+MSG_DEBUG_EVT_934,Obtained: "All the building tools"
+MSG_DEBUG_EVT_935,Check on the bridge builder
+MSG_DEBUG_EVT_936,"Great Bridge"1
+MSG_DEBUG_EVT_937,Request Nu to build a bridge.
+MSG_DEBUG_EVT_938,Obtained: "Hearty Lunch"
+MSG_DEBUG_EVT_939,Bringing "Hearty Lunch" to Nu
+MSG_DEBUG_EVT_940,Obtained: "Sweet Banana"
+MSG_DEBUG_EVT_941,"Great Bridge"2
+MSG_DEBUG_EVT_942,The reptites return to the Nu village
+MSG_DEBUG_EVT_943,Investigating "Ancient Tower" quest
+MSG_DEBUG_EVT_944,Ancient Tower
+MSG_DEBUG_EVT_945,Before the battle against "Master-at-Arms"
+MSG_DEBUG_EVT_946,After the battle against "Master-at-Arms"
+MSG_DEBUG_EVT_947,Dimensional Vortex (The Present)
+MSG_DEBUG_EVT_948,Cave (The Present)
+MSG_DEBUG_EVT_949,Before the battle against "Dalton"
+MSG_DEBUG_EVT_950,After the battle against "Dalton"
+MSG_DEBUG_EVT_951,Before the battle against "Steel Shade"
+MSG_DEBUG_EVT_952,After the battle against "Steel Shade"
+MSG_DEBUG_EVT_953,Dimensional Vortex (Antiquity)
+MSG_DEBUG_EVT_954,Cave (Antiquity)
+MSG_DEBUG_EVT_955,Before the battle against "Alabaster Shade"
+MSG_DEBUG_EVT_956,After the battle against "Alabaster Shade"
+MSG_DEBUG_EVT_957,Dimensional Vortex (Future)
+MSG_DEBUG_EVT_958,Cave (Future)
+MSG_DEBUG_EVT_959,Temporal Research Lab
+MSG_DEBUG_EVT_960,Member Change
+MSG_DEBUG_EVT_961,Before the battle against "Crimson Shade"
+MSG_DEBUG_EVT_962,Strath
+MSG_DEBUG_EVT_963,Hallowed Falls
+MSG_DEBUG_EVT_964,Ancient Keep
+MSG_DEBUG_EVT_965,Curious Village（Room of Questions)
+MSG_DEBUG_EVT_966,Curious Village（Room of Punishment)
+MSG_DEBUG_EVT_967,Time's Eclipse
+MSG_DEBUG_EVT_968,
+MSG_DEBUG_EVT_969,
+MSG_DEBUG_EVT_970,
+MSG_DEBUG_EVT_971,
+MSG_DEBUG_EVT_972,
+MSG_DEBUG_EVT_973,
+MSG_DEBUG_EVT_974,
+MSG_DEBUG_EVT_975,
+MSG_DEBUG_EVT_976,
+MSG_DEBUG_EVT_977,
+MSG_DEBUG_EVT_978,
+MSG_DEBUG_EVT_979,
+MSG_DEBUG_EVT_980,
+MSG_DEBUG_EVT_981,
+MSG_DEBUG_EVT_982,
+MSG_DEBUG_EVT_983,
+MSG_DEBUG_EVT_984,
+MSG_DEBUG_EVT_985,
+MSG_DEBUG_EVT_986,
+MSG_DEBUG_EVT_987,
+MSG_DEBUG_EVT_988,
+MSG_DEBUG_EVT_989,
+MSG_DEBUG_EVT_990,
+MSG_DEBUG_EVT_991,
+MSG_DEBUG_EVT_992,
+MSG_DEBUG_EVT_993,
+MSG_DEBUG_EVT_994,
+MSG_DEBUG_EVT_995,
+MSG_DEBUG_EVT_996,Time's Eclipse
+MSG_DEBUG_EVT_997,Dimensional Vortex
+MSG_DEBUG_EVT_998,Dimensional Vortex (For Demo)
+MSG_DEBUG_EVT_999,

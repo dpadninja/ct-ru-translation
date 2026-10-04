@@ -1,0 +1,32 @@
+name: Release
+
+on:
+  push:
+    tags:
+      - "v[0-9]+.[0-9]+.[0-9]+"
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+
+      # original/ (the game's own files) is not in the repo, so texts are validated
+      # locally with tools/check.py before tagging; here the mod is only packed.
+      - name: Build the mod
+        run: python3 tools/build_ctp.py "build/ct_russian_${GITHUB_REF_NAME}.ctp"
+
+      - name: Publish the release
+        uses: softprops/action-gh-release@v2
+        with:
+          name: Chrono Trigger RU ${{ github.ref_name }}
+          body_path: README.md
+          files: build/ct_russian_${{ github.ref_name }}.ctp
+          fail_on_unmatched_files: true

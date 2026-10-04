@@ -1,0 +1,80 @@
+MSG_EXTRA_01,Дополнительно
+MSG_EXTRA_02,Личные данные
+MSG_EXTRA_03,★ДАННЫЕ О ПРОХОЖДЕНИИ
+MSG_EXTRA_04,Встречено врагов:
+MSG_EXTRA_05,Получено предметов:
+MSG_EXTRA_06,Изучено техник:
+MSG_EXTRA_07,Сохранений:
+MSG_EXTRA_08,%
+MSG_EXTRA_09,раз
+MSG_EXTRA_10,Кинозал
+MSG_EXTRA_11,Галерея
+MSG_EXTRA_12,Музыкальная шкатулка
+MSG_EXTRA_13,Додзё
+MSG_EXTRA_14,Бестиарий
+MSG_EXTRA_15,Энциклопедия предметов
+MSG_EXTRA_16,Журнал концовок
+MSG_EXTRA_17,Атлас сокровищ
+MSG_EXTRA_18,???
+MSG_EXTRA_19,Трек №
+MSG_EXTRA_20,НАЗВАНИЕ
+MSG_EXTRA_21,ИГРАТЬ
+MSG_EXTRA_22,Время
+MSG_EXTRA_23,Заметки
+MSG_EXTRA_24,Изображение
+MSG_EXTRA_25,СТОП
+MSG_EXTRA_26,MP
+MSG_EXTRA_27,Одиночные техники
+MSG_EXTRA_28,Парные техники
+MSG_EXTRA_29,Тройные техники
+MSG_EXTRA_30,Расходуемые
+MSG_EXTRA_31,Оружие
+MSG_EXTRA_32,Шлемы
+MSG_EXTRA_33,Доспехи
+MSG_EXTRA_34,Аксессуары
+MSG_EXTRA_35,Важные
+MSG_EXTRA_36,Эффекты:
+MSG_EXTRA_37,Атака: 
+MSG_EXTRA_38,Защита: 
+MSG_EXTRA_39,Может надеть:
+MSG_EXTRA_40,Цена: 
+MSG_EXTRA_41,Продажа: 
+MSG_EXTRA_42, G
+MSG_EXTRA_43,Доисторическая эпоха
+MSG_EXTRA_44,Древность
+MSG_EXTRA_45,Средневековье
+MSG_EXTRA_46,Настоящее
+MSG_EXTRA_47,Будущее
+MSG_EXTRA_48,Конец Времён
+MSG_EXTRA_49,Чёрное Знамение
+MSG_EXTRA_50,Дополнительные зоны
+MSG_EXTRA_51,<S9>-----
+MSG_EXTRA_HELP_01,Просмотр видеороликов из игры.
+MSG_EXTRA_HELP_02,Просмотр концепт-артов.
+MSG_EXTRA_HELP_03,Прослушивание музыки из игры.
+MSG_EXTRA_HELP_04,Сведения о техниках персонажей.
+MSG_EXTRA_HELP_05,Подробные сведения о врагах.
+MSG_EXTRA_HELP_06,Сведения о предметах.
+MSG_EXTRA_HELP_07,Условия получения концовок.
+MSG_EXTRA_HELP_08,Где спрятаны сокровища.
+MSG_EXTRA_HELP_09,Выберите ролик.
+MSG_EXTRA_HELP_10,Выберите иллюстрацию.
+MSG_EXTRA_HELP_11,Выберите музыку.
+MSG_EXTRA_HELP_12,Выберите технику.
+MSG_EXTRA_HELP_13,Выберите предмет.
+MSG_EXTRA_HELP_14,Выберите концовку.
+MSG_EXTRA_HELP_15,Выберите эпоху.
+MSG_EXTRA_HELP_16,Выберите карту.
+MSG_EX_STEAM_01,Ролики
+MSG_EX_STEAM_03,Звук
+MSG_EX_STEAM_04,Иллюстрации
+MSG_EX_STEAM_05,Сейчас играет
+MSG_EX_STEAM_06,Требования
+MSG_EX_STEAM_07,Обзор
+MSG_EX_STEAM_HELP_01,Разделы открываются после прохождения игры.
+MSG_EX_STEAM_HELP_02,Просмотр видеороликов из игры.
+MSG_EX_STEAM_HELP_03,Просмотр иллюстраций к игре.
+MSG_EX_STEAM_HELP_04,Прослушивание музыки из игры.
+MSG_EX_STEAM_HELP_05,Просмотр открытых концовок.
+MSG_EX_STEAM_HELP_08,Выберите иллюстрацию.
+MSG_EX_STEAM_HELP_10,Концовку нельзя прервать.

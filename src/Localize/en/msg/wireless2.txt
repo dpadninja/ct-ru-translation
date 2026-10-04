@@ -1,0 +1,26 @@
+MSG_COLOSSEUM_01,<STR>: <NAME_MON> выходит на арену\за игрока 1.
+MSG_COLOSSEUM_02,<STR>: <NAME_MON> выходит на арену\за игрока 2.
+MSG_COLOSSEUM_03,<STR>: <NAME_MON> атакует!
+MSG_COLOSSEUM_04,<STR>: <NAME_MON> атакует!
+MSG_COLOSSEUM_05,<STR>: <NAME_MON> атакует!
+MSG_COLOSSEUM_06,<NAME_TEC>!
+MSG_COLOSSEUM_07,<NAME_TEC>!
+MSG_COLOSSEUM_08,<NAME_TEC>!\Критический удар!
+MSG_COLOSSEUM_09,<NUMBER> урона!
+MSG_COLOSSEUM_10,<STR>: <NAME_MON>\получает недуг!
+MSG_COLOSSEUM_11,<STR>: <NAME_MON> побеждает!
+MSG_COLOSSEUM_12,<NAME_TEC>!\Промах!
+MSG_COLOSSEUM_13,<STR>: <NAME_MON> выбывает из боя.
+MSG_COLOSSEUM_14,Выберите бойца.
+MSG_COLOSSEUM_15,<STR>: <NAME_MON> не знает техник огня.
+MSG_COLOSSEUM_16,<STR>: <NAME_MON>\не знает техник воды.
+MSG_COLOSSEUM_17,<STR>: <NAME_MON>\не знает техник света.
+MSG_COLOSSEUM_18,<STR>: <NAME_MON>\не знает техник тьмы.
+MSG_COLOSSEUM_19,<NUMBER> урона!\<STR>: <NAME_MON> ничего не видит!
+MSG_COLOSSEUM_20,<NUMBER> урона!\<STR>: <NAME_MON> в смятении!
+MSG_COLOSSEUM_21,<NUMBER> урона!\<STR>: <NAME_MON> замедляется!
+MSG_COLOS_CONSOLE_01,И1
+MSG_COLOS_CONSOLE_02,<S10>И2
+MSG_COLOS_CONSOLE_03,/
+MSG_COLOS_CONSOLE_04,???
+MSG_COLOS_CONSOLE_05,ИИ

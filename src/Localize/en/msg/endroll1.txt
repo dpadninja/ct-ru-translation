@@ -1,0 +1,258 @@
+MSG_ENDROLL1_01,Исполнительный продюсер
+MSG_ENDROLL1_02,Руководители
+MSG_ENDROLL1_03,
+MSG_ENDROLL1_04,Руководитель и автор сюжета
+MSG_ENDROLL1_05,Звукорежиссёр-руководитель
+MSG_ENDROLL1_06,Продюсер
+MSG_ENDROLL1_07,Помощник продюсера
+MSG_ENDROLL1_08,Арт-директор
+MSG_ENDROLL1_09,Руководитель проекта
+MSG_ENDROLL1_10,Ассистент проекта
+MSG_ENDROLL1_11,Композитор видеороликов
+MSG_ENDROLL1_12,Производство анимации
+MSG_ENDROLL1_13,Отдел рекламы
+MSG_ENDROLL1_14,Исполнительный директор
+MSG_ENDROLL1_15,Старший продюсер
+MSG_ENDROLL1_16,Продюсер
+MSG_ENDROLL1_17,Отдел рекламы
+MSG_ENDROLL1_18,Работа со СМИ
+MSG_ENDROLL1_19,
+MSG_ENDROLL1_20,
+MSG_ENDROLL1_21,
+MSG_ENDROLL1_22,Иллюстрации
+MSG_ENDROLL1_23,
+MSG_ENDROLL1_24,Веб-координаторы
+MSG_ENDROLL1_25,
+MSG_ENDROLL1_26,Зарубежные координаторы
+MSG_ENDROLL1_27,
+MSG_ENDROLL1_28,Контроль качества
+MSG_ENDROLL1_29,Координатор
+MSG_ENDROLL1_30,Планировщик
+MSG_ENDROLL1_31,Помощники координатора
+MSG_ENDROLL1_32,
+MSG_ENDROLL1_33,Технические инженеры
+MSG_ENDROLL1_34,
+MSG_ENDROLL1_35,
+MSG_ENDROLL1_36,
+MSG_ENDROLL1_37,Технические ассистенты
+MSG_ENDROLL1_38,
+MSG_ENDROLL1_39,Старший тестировщик
+MSG_ENDROLL1_40,Тестировщики
+MSG_ENDROLL1_41,
+MSG_ENDROLL1_42,
+MSG_ENDROLL1_43,
+MSG_ENDROLL1_44,
+MSG_ENDROLL1_45,
+MSG_ENDROLL1_46,
+MSG_ENDROLL1_47,
+MSG_ENDROLL1_48,
+MSG_ENDROLL1_49,
+MSG_ENDROLL1_50,
+MSG_ENDROLL1_51,
+MSG_ENDROLL1_52,
+MSG_ENDROLL1_53,
+MSG_ENDROLL1_54,
+MSG_ENDROLL1_55,
+MSG_ENDROLL1_56,
+MSG_ENDROLL1_57,
+MSG_ENDROLL1_58,
+MSG_ENDROLL1_59,
+MSG_ENDROLL1_60,
+MSG_ENDROLL1_61,
+MSG_ENDROLL1_62,
+MSG_ENDROLL1_63,
+MSG_ENDROLL1_64,Менеджер
+MSG_ENDROLL1_65,Старший менеджер
+MSG_ENDROLL1_66,Генеральный менеджер
+MSG_ENDROLL1_67,Отдел сообщества и поддержки
+MSG_ENDROLL1_68,Директор
+MSG_ENDROLL1_69,Директор службы поддержки
+MSG_ENDROLL1_70,Руководитель инфоцентра
+MSG_ENDROLL1_71,Техническая поддержка
+MSG_ENDROLL1_72,
+MSG_ENDROLL1_73,
+MSG_ENDROLL1_74,
+MSG_ENDROLL1_75,
+MSG_ENDROLL1_76,
+MSG_ENDROLL1_77,Отдел возрастных рейтингов
+MSG_ENDROLL1_78,Консультанты по рейтингам
+MSG_ENDROLL1_79,
+MSG_ENDROLL1_80,
+MSG_ENDROLL1_81,Руководитель отдела рейтингов
+MSG_ENDROLL1_82,Локализация
+MSG_ENDROLL1_83,Директор локализации
+MSG_ENDROLL1_84,Руководитель локализации
+MSG_ENDROLL1_85,Обновлённый английский перевод
+MSG_ENDROLL1_86,
+MSG_ENDROLL1_87,Редактор английского текста
+MSG_ENDROLL1_88,Перевод руководства на английский
+MSG_ENDROLL1_89,Французский перевод
+MSG_ENDROLL1_90,Редактор французского текста
+MSG_ENDROLL1_91,Старший менеджер
+MSG_ENDROLL1_92,SQUARE ENIX, INC.
+MSG_ENDROLL1_93,Старший менеджер по контролю качества
+MSG_ENDROLL1_94,Помощник менеджера по контролю качества
+MSG_ENDROLL1_95,Старший координатор тестирования
+MSG_ENDROLL1_96,Координатор тестирования
+MSG_ENDROLL1_97,Администратор тестирования
+MSG_ENDROLL1_98,Специалист по тестированию
+MSG_ENDROLL1_99,Отдел тестирования
+MSG_ENDROLL1_100,
+MSG_ENDROLL1_101,
+MSG_ENDROLL1_102,
+MSG_ENDROLL1_103,
+MSG_ENDROLL1_104,
+MSG_ENDROLL1_105,
+MSG_ENDROLL1_106,
+MSG_ENDROLL1_107,
+MSG_ENDROLL1_108,Переводчик-тестировщик
+MSG_ENDROLL1_109,Директор локализации и тестирования
+MSG_ENDROLL1_110,Исполнительный директор сообщества и поддержки
+MSG_ENDROLL1_111,Старший операционный менеджер
+MSG_ENDROLL1_112,Руководитель инфоцентра
+MSG_ENDROLL1_113,Руководители инфоцентра
+MSG_ENDROLL1_114,
+MSG_ENDROLL1_115,Сотрудники инфоцентра
+MSG_ENDROLL1_116,
+MSG_ENDROLL1_117,
+MSG_ENDROLL1_118,Менеджер операционной поддержки
+MSG_ENDROLL1_119,Руководитель операционной поддержки
+MSG_ENDROLL1_120,Операционная поддержка
+MSG_ENDROLL1_121,
+MSG_ENDROLL1_122,
+MSG_ENDROLL1_123,Связи с общественностью и координация
+MSG_ENDROLL1_124,Связи с общественностью
+MSG_ENDROLL1_125,
+MSG_ENDROLL1_126,Координация проекта
+MSG_ENDROLL1_127,
+MSG_ENDROLL1_128,
+MSG_ENDROLL1_129,Координация проекта
+MSG_ENDROLL1_130,
+MSG_ENDROLL1_131,Продуктовый маркетинг и
+MSG_ENDROLL1_132,маркетинговые коммуникации
+MSG_ENDROLL1_133,
+MSG_ENDROLL1_134,
+MSG_ENDROLL1_135,
+MSG_ENDROLL1_136,
+MSG_ENDROLL1_137,
+MSG_ENDROLL1_138,Продуктовый маркетинг и
+MSG_ENDROLL1_139,маркетинговые коммуникации
+MSG_ENDROLL1_140,
+MSG_ENDROLL1_141,
+MSG_ENDROLL1_142,
+MSG_ENDROLL1_143,
+MSG_ENDROLL1_144,
+MSG_ENDROLL1_145,Продажи
+MSG_ENDROLL1_146,
+MSG_ENDROLL1_147,
+MSG_ENDROLL1_148,
+MSG_ENDROLL1_149,
+MSG_ENDROLL1_150,
+MSG_ENDROLL1_151,
+MSG_ENDROLL1_152,Исполнительный директор
+MSG_ENDROLL1_153,по продажам и маркетингу
+MSG_ENDROLL1_154,Старший вице-президент
+MSG_ENDROLL1_155,по продажам и маркетингу
+MSG_ENDROLL1_156,Вице-президент по правовым вопросам и
+MSG_ENDROLL1_157,главный юрисконсульт
+MSG_ENDROLL1_158,Старший вице-президент
+MSG_ENDROLL1_159,Президент и генеральный директор
+MSG_ENDROLL1_160,SQUARE ENIX, LTD.
+MSG_ENDROLL1_161,Продюсер локализации
+MSG_ENDROLL1_162,Помощник продюсера локализации
+MSG_ENDROLL1_163,Глава отдела тестирования
+MSG_ENDROLL1_164,Помощники менеджера по тестированию
+MSG_ENDROLL1_165,
+MSG_ENDROLL1_166,Ведущий тестировщик
+MSG_ENDROLL1_167,Координатор французского тестирования
+MSG_ENDROLL1_168,Переводчики-тестировщики
+MSG_ENDROLL1_169,
+MSG_ENDROLL1_170,Британский отдел тестирования
+MSG_ENDROLL1_171,
+MSG_ENDROLL1_172,
+MSG_ENDROLL1_173,Французский отдел тестирования
+MSG_ENDROLL1_174,
+MSG_ENDROLL1_175,
+MSG_ENDROLL1_176,
+MSG_ENDROLL1_177,Отдел локализации
+MSG_ENDROLL1_178,
+MSG_ENDROLL1_179,
+MSG_ENDROLL1_180,
+MSG_ENDROLL1_181,Отдел тестирования
+MSG_ENDROLL1_182,
+MSG_ENDROLL1_183,
+MSG_ENDROLL1_184,
+MSG_ENDROLL1_185,Помощник менеджера производства
+MSG_ENDROLL1_186,Менеджер производства
+MSG_ENDROLL1_187,Ассистент по маркетингу и PR
+MSG_ENDROLL1_188,Координатор международного маркетинга
+MSG_ENDROLL1_189,Старший менеджер продукта
+MSG_ENDROLL1_190,Менеджер маркетинговых коммуникаций
+MSG_ENDROLL1_191,PR-менеджер
+MSG_ENDROLL1_192,Директор по маркетингу
+MSG_ENDROLL1_193,Директор по маркетингу в Европе
+MSG_ENDROLL1_194,Операционный менеджер
+MSG_ENDROLL1_195,Менеджер по продажам
+MSG_ENDROLL1_196,Директор по продажам в Великобритании
+MSG_ENDROLL1_197,Вице-президент по маркетингу
+MSG_ENDROLL1_198,Вице-президент по администрированию
+MSG_ENDROLL1_199,Сооперационный директор
+MSG_ENDROLL1_200,Президент и генеральный директор
+MSG_ENDROLL1_201,TOSE CO., LTD.
+MSG_ENDROLL1_202,Директор
+MSG_ENDROLL1_203,Помощник директора
+MSG_ENDROLL1_204,Планировщики
+MSG_ENDROLL1_205,
+MSG_ENDROLL1_206,Программисты
+MSG_ENDROLL1_207,
+MSG_ENDROLL1_208,
+MSG_ENDROLL1_209,
+MSG_ENDROLL1_210,
+MSG_ENDROLL1_211,
+MSG_ENDROLL1_212,
+MSG_ENDROLL1_213,
+MSG_ENDROLL1_214,
+MSG_ENDROLL1_215,
+MSG_ENDROLL1_216,
+MSG_ENDROLL1_217,
+MSG_ENDROLL1_218,
+MSG_ENDROLL1_219,
+MSG_ENDROLL1_220,
+MSG_ENDROLL1_221,
+MSG_ENDROLL1_222,Технический консультант
+MSG_ENDROLL1_223,Дизайнер
+MSG_ENDROLL1_224,Консультант по дизайну
+MSG_ENDROLL1_225,Звукорежиссёры
+MSG_ENDROLL1_226,
+MSG_ENDROLL1_227,
+MSG_ENDROLL1_228,
+MSG_ENDROLL1_229,
+MSG_ENDROLL1_230,Консультант по звуку
+MSG_ENDROLL1_231,Игровые тестировщики
+MSG_ENDROLL1_232,
+MSG_ENDROLL1_233,
+MSG_ENDROLL1_234,
+MSG_ENDROLL1_235,
+MSG_ENDROLL1_236,Особая благодарность
+MSG_ENDROLL1_237,
+MSG_ENDROLL1_238,
+MSG_ENDROLL1_239,
+MSG_ENDROLL1_240,
+MSG_ENDROLL1_241,
+MSG_ENDROLL1_242,
+MSG_ENDROLL1_243,
+MSG_ENDROLL1_244,
+MSG_ENDROLL1_245,
+MSG_ENDROLL1_246,
+MSG_ENDROLL1_247,
+MSG_ENDROLL1_248,
+MSG_ENDROLL1_249,
+MSG_ENDROLL1_250,
+MSG_ENDROLL1_251,
+MSG_ENDROLL1_252,
+MSG_ENDROLL1_253,Директор
+MSG_ENDROLL1_254,Руководитель
+MSG_ENDROLL1_255,Руководители производства
+MSG_ENDROLL1_256,
+MSG_ENDROLL1_257,
+MSG_ENDROLL1_258,

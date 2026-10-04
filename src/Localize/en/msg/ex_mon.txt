@@ -1,0 +1,260 @@
+MSG_EX_MON_01,Гато
+MSG_EX_MON_02,Мухомор
+MSG_EX_MON_03,Скарабей
+MSG_EX_MON_04,Золотой колокольник
+MSG_EX_MON_05,Королевский страж
+MSG_EX_MON_06,Часовой
+MSG_EX_MON_07,Тюремщик
+MSG_EX_MON_08,Копейщик
+MSG_EX_MON_09,Пещерный сталкер
+MSG_EX_MON_10,Бутыль джинна
+MSG_EX_MON_11,Носорог-долгоносик
+MSG_EX_MON_12,Прыгодилло
+MSG_EX_MON_13,Пещерная мышь
+MSG_EX_MON_14,Сайрус
+MSG_EX_MON_15,Синий бесёнок
+MSG_EX_MON_16,Зелёный бесёнок
+MSG_EX_MON_17,Раундилло
+MSG_EX_MON_18,Злодилло
+MSG_EX_MON_19,Бесёнок-ястреб
+MSG_EX_MON_20,Наездник Раундилло
+MSG_EX_MON_21,Синий орлёнок
+MSG_EX_MON_22,Нага
+MSG_EX_MON_23,Гадюка
+MSG_EX_MON_24,Диабло
+MSG_EX_MON_25,Прислужник (синий)
+MSG_EX_MON_26,Бешеная мышь
+MSG_EX_MON_27,Скелет
+MSG_EX_MON_28,Оган
+MSG_EX_MON_29,Оган (с молотом)
+MSG_EX_MON_30,Колокольник
+MSG_EX_MON_31,Наёмник
+MSG_EX_MON_32,Съедобная лягушка
+MSG_EX_MON_33,Клыкозуб
+MSG_EX_MON_34,Гримлинг
+MSG_EX_MON_35,Вампир
+MSG_EX_MON_36,Прислужник (фиолетовый)
+MSG_EX_MON_37,Слуга (с мечом)
+MSG_EX_MON_38,Слуга (с арбалетом)
+MSG_EX_MON_39,Синяя горгулья
+MSG_EX_MON_40,Точка сохранения
+MSG_EX_MON_41,Колдун
+MSG_EX_MON_42,Изгой
+MSG_EX_MON_43,Бомбардир Раундилло
+MSG_EX_MON_44,Жонглёр
+MSG_EX_MON_45,Рыцарь-призрак
+MSG_EX_MON_46,Жнец плоти
+MSG_EX_MON_47,Павший
+MSG_EX_MON_48,Душа
+MSG_EX_MON_49,Павший + Душа
+MSG_EX_MON_50,Сандраго
+MSG_EX_MON_51,Мерзкая гусеница
+MSG_EX_MON_52,Эцитозавр
+MSG_EX_MON_53,Эцитоникс
+MSG_EX_MON_54,Ящеродактиль
+MSG_EX_MON_55,Ископаемая обезьяна
+MSG_EX_MON_56,Сталкер руин
+MSG_EX_MON_57,Цветочный ужас
+MSG_EX_MON_58,Кратер
+MSG_EX_MON_59,Тень
+MSG_EX_MON_60,Мутант
+MSG_EX_MON_61,Крыса
+MSG_EX_MON_62,Истребитель
+MSG_EX_MON_63,Баг
+MSG_EX_MON_64,Версия 2.0
+MSG_EX_MON_65,Дондраго
+MSG_EX_MON_66,Яичная слизь
+MSG_EX_MON_67,Дезинсектор
+MSG_EX_MON_68,Версия 3.0
+MSG_EX_MON_69,Кислота
+MSG_EX_MON_70,Щёлочь
+MSG_EX_MON_71,Кровавый желток
+MSG_EX_MON_72,Макабр
+MSG_EX_MON_73,Дезинсектор EX
+MSG_EX_MON_74,Версия 4.0
+MSG_EX_MON_75,Лазерный страж
+MSG_EX_MON_76,Рептит (зелёный)
+MSG_EX_MON_77,Килвала
+MSG_EX_MON_78,Хохлатый бегун
+MSG_EX_MON_79,Древняя лягушка
+MSG_EX_MON_80,Ионное облако
+MSG_EX_MON_81,Золотой орлёнок
+MSG_EX_MON_82,Красный орлёнок
+MSG_EX_MON_83,Бао-Бао
+MSG_EX_MON_84,Эцитовый долгоносик
+MSG_EX_MON_85,Мегазавр
+MSG_EX_MON_86,Мшистый
+MSG_EX_MON_87,Раффлезия
+MSG_EX_MON_88,Пещерная обезьяна
+MSG_EX_MON_89,Авиарекс
+MSG_EX_MON_90,Сланец
+MSG_EX_MON_91,Теразавр
+MSG_EX_MON_92,Вулканит
+MSG_EX_MON_93,Рептит (фиолетовый)
+MSG_EX_MON_94,Грязевик
+MSG_EX_MON_95,Булыжник
+MSG_EX_MON_96,Птица-бомбардир
+MSG_EX_MON_97,Каменный бесёнок
+MSG_EX_MON_98,Горгулья
+MSG_EX_MON_99,Лилия смерти
+MSG_EX_MON_100,Джинн
+MSG_EX_MON_101,Гуль
+MSG_EX_MON_102,Маг-фанатик
+MSG_EX_MON_103,Разведчик
+MSG_EX_MON_104,Красный разведчик
+MSG_EX_MON_105,Синий разведчик
+MSG_EX_MON_106,Монах
+MSG_EX_MON_107,Воин
+MSG_EX_MON_108,Далтонит
+MSG_EX_MON_109,Байт
+MSG_EX_MON_110,Турель
+MSG_EX_MON_111,Щитоносец
+MSG_EX_MON_112,Мартелло
+MSG_EX_MON_113,Клыкастый зверь
+MSG_EX_MON_114,Синхрит
+MSG_EX_MON_115,Панель
+MSG_EX_MON_116,Скиталец
+MSG_EX_MON_117,Странник
+MSG_EX_MON_118,Металлический мутант
+MSG_EX_MON_119,Летоглаз
+MSG_EX_MON_120,Кибот
+MSG_EX_MON_121,Гидраконда
+MSG_EX_MON_122,Жирная туша
+MSG_EX_MON_123,Нарбл
+MSG_EX_MON_124,Гадж
+MSG_EX_MON_125,Ню
+MSG_EX_MON_126,Спеккио
+MSG_EX_MON_127,Спеккио
+MSG_EX_MON_128,Спеккио
+MSG_EX_MON_129,Спеккио
+MSG_EX_MON_130,Спеккио
+MSG_EX_MON_131,Спеккио
+MSG_EX_MON_132,Изгнанник
+MSG_EX_MON_133,Сланцевый бесёнок
+MSG_EX_MON_134,Розовый бесёнок
+MSG_EX_MON_135,Чудо-камень
+MSG_EX_MON_136,Смертоползун
+MSG_EX_MON_137,Джекпот
+MSG_EX_MON_138,Вождь оганов
+MSG_EX_MON_139,Молодой оган
+MSG_EX_MON_140,Молодой оган (с молотом)
+MSG_EX_MON_141,Царь-лягушка
+MSG_EX_MON_142,Жуткая крыса
+MSG_EX_MON_143,Чёрная мышь
+MSG_EX_MON_144,Хризозавр
+MSG_EX_MON_145,Птераникс
+MSG_EX_MON_146,Двуглавый змей
+MSG_EX_MON_147,Жук-геркулес
+MSG_EX_MON_148,Нефритокрыл
+MSG_EX_MON_149,Страж смерти
+MSG_EX_MON_150,Костяной рыцарь
+MSG_EX_MON_151,Ловец душ
+MSG_EX_MON_152,Маг хаоса
+MSG_EX_MON_153,Снежный зверь
+MSG_EX_MON_154,Красный гадж
+MSG_EX_MON_155,Огненный шар
+MSG_EX_MON_156,Прототип
+MSG_EX_MON_157,Искатель
+MSG_EX_MON_158,Железная дева
+MSG_EX_MON_159,
+MSG_EX_MON_160,
+MSG_EX_BOSS_01,Якра
+MSG_EX_BOSS_02,Драконотанк (голова)
+MSG_EX_BOSS_03,Драконотанк (колесо)
+MSG_EX_BOSS_04,Драконотанк (тело)
+MSG_EX_BOSS_05,Страж
+MSG_EX_BOSS_06,Бит
+MSG_EX_BOSS_07,Кроули
+MSG_EX_BOSS_08,Серия R
+MSG_EX_BOSS_09,Хекран
+MSG_EX_BOSS_10,Оззи
+MSG_EX_BOSS_11,Зомбор (верх)
+MSG_EX_BOSS_12,Зомбор (низ)
+MSG_EX_BOSS_13,Маса
+MSG_EX_BOSS_14,Мунэ
+MSG_EX_BOSS_15,Маса и Мунэ
+MSG_EX_BOSS_16,Низбел
+MSG_EX_BOSS_17,Флея?
+MSG_EX_BOSS_18,Флея
+MSG_EX_BOSS_19,Слэш (без оружия)
+MSG_EX_BOSS_20,Слэш (с мечом)
+MSG_EX_BOSS_21,Оззи
+MSG_EX_BOSS_22,<NAME_MAG>
+MSG_EX_BOSS_23,Низбел II
+MSG_EX_BOSS_24,Азала
+MSG_EX_BOSS_25,Чёрный Тиранно
+MSG_EX_BOSS_26,Голем
+MSG_EX_BOSS_27,Грязевой бесёнок
+MSG_EX_BOSS_28,Синий грязевик
+MSG_EX_BOSS_29,Красный грязевик
+MSG_EX_BOSS_30,Гига Гайя
+MSG_EX_BOSS_31,Защитная рука
+MSG_EX_BOSS_32,Боевая рука
+MSG_EX_BOSS_33,Далтон
+MSG_EX_BOSS_34,Лавос
+MSG_EX_BOSS_35,Владыка големов
+MSG_EX_BOSS_36,Король Далтон
+MSG_EX_BOSS_37,<NAME_MAG>
+MSG_EX_BOSS_38,Отпрыск Лавоса (пасть)
+MSG_EX_BOSS_39,Отпрыск Лавоса (панцирь)
+MSG_EX_BOSS_40,Мелфикс (верх)
+MSG_EX_BOSS_41,Мелфикс (низ)
+MSG_EX_BOSS_42,Мелфикс (ядро)
+MSG_EX_BOSS_43,Дива Флея
+MSG_EX_BOSS_44,Супер Слэш
+MSG_EX_BOSS_45,Дива Флея
+MSG_EX_BOSS_46,Супер Слэш
+MSG_EX_BOSS_47,Великий Оззи
+MSG_EX_BOSS_48,Атропос XR
+MSG_EX_BOSS_49,Мать-Мозг
+MSG_EX_BOSS_50,Дисплей
+MSG_EX_BOSS_51,Сын Солнца
+MSG_EX_BOSS_52,Протуберанец
+MSG_EX_BOSS_53,Ржавый Тиранно
+MSG_EX_BOSS_54,Якра XIII
+MSG_EX_BOSS_55,Мегамутант (верх)
+MSG_EX_BOSS_56,Мегамутант (низ)
+MSG_EX_BOSS_57,Гигамутант (верх)
+MSG_EX_BOSS_58,Гигамутант (низ)
+MSG_EX_BOSS_59,Терамутант (верх)
+MSG_EX_BOSS_60,Терамутант (низ)
+MSG_EX_BOSS_61,Старший отпрыск Лавоса (пасть)
+MSG_EX_BOSS_62,Старший отпрыск Лавоса (панцирь)
+MSG_EX_BOSS_63,Королева Зиал
+MSG_EX_BOSS_64,Машина Маммоны
+MSG_EX_BOSS_65,Королева Зиал (лицо)
+MSG_EX_BOSS_66,Королева Зиал (правая рука)
+MSG_EX_BOSS_67,Королева Зиал (левая рука)
+MSG_EX_BOSS_68,Лавос
+MSG_EX_BOSS_69,Лавос
+MSG_EX_BOSS_70,Лавос (тело)
+MSG_EX_BOSS_71,Лавос (левая рука)
+MSG_EX_BOSS_72,Лавос (правая рука)
+MSG_EX_BOSS_73,Бит Лавоса
+MSG_EX_BOSS_74,Центральный бит
+MSG_EX_BOSS_75,Ядро Лавоса
+MSG_EX_BOSS_76,Золотой молот
+MSG_EX_BOSS_77,Ню-хранитель
+MSG_EX_BOSS_78,Ню-мастер
+MSG_EX_BOSS_79,Археоклык (старший)
+MSG_EX_BOSS_80,Археоклык (младший)
+MSG_EX_BOSS_81,Император клинка
+MSG_EX_BOSS_82,Рыцарь клинка
+MSG_EX_BOSS_83,Экс-король Далтон
+MSG_EX_BOSS_84,Стальная тень
+MSG_EX_BOSS_85,Белая тень
+MSG_EX_BOSS_86,Багровая тень
+MSG_EX_BOSS_87,Яйцемашина
+MSG_EX_BOSS_88,Пожиратель снов
+MSG_EX_BOSS_89,
+MSG_EX_BOSS_90,
+MSG_EX_BOSS_91,
+MSG_EX_BOSS_92,
+MSG_EX_BOSS_93,
+MSG_EX_BOSS_94,
+MSG_EX_BOSS_95,
+MSG_EX_BOSS_96,
+MSG_EX_BOSS_97,
+MSG_EX_BOSS_98,
+MSG_EX_BOSS_99,
+MSG_EX_BOSS_100,

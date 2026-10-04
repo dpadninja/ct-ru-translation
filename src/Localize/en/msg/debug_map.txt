@@ -1,0 +1,495 @@
+MSG_DEBUG_MAP_01,Crono's House\1F
+MSG_DEBUG_MAP_02,Crono's House\2F
+MSG_DEBUG_MAP_03,Lucca's House\1F Hall / 1F Room
+MSG_DEBUG_MAP_04,Lucca's House\1F Entrance
+MSG_DEBUG_MAP_05,Leene Square\Central Plaza
+MSG_DEBUG_MAP_06,Leene Square\Gato
+MSG_DEBUG_MAP_07,Leene Square\Prehistoric Dancers
+MSG_DEBUG_MAP_08,Leene Square\Telepod
+MSG_DEBUG_MAP_09,Lucca's House\2F Lara's Room
+MSG_DEBUG_MAP_10,Lucca's House\2F Lucca's Room
+MSG_DEBUG_MAP_11,(Event)
+MSG_DEBUG_MAP_12,Truce\Inn
+MSG_DEBUG_MAP_13,Truce\Mayor's House 1F
+MSG_DEBUG_MAP_14,Truce\Mayor's House 2F
+MSG_DEBUG_MAP_15,Truce\Residence A
+MSG_DEBUG_MAP_16,Truce\Residence B
+MSG_DEBUG_MAP_17,Truce\Merchant
+MSG_DEBUG_MAP_18,Truce\Ferry Office
+MSG_DEBUG_MAP_19,Guardia Forest (Present)
+MSG_DEBUG_MAP_20,Guardia Forest (Present)\Time Gate
+MSG_DEBUG_MAP_21,Guardia Castle (Present)\Central Hall
+MSG_DEBUG_MAP_22,Guardia Castle (Present)\King's Bedroom
+MSG_DEBUG_MAP_23,Guardia Castle (Present)\Queen's Bedroom
+MSG_DEBUG_MAP_24,Guardia Castle (Present)\Dining Hall
+MSG_DEBUG_MAP_25,Guardia Castle (Present)\Soldiers' Room
+MSG_DEBUG_MAP_26,Guardia Castle (Present)\Treasury
+MSG_DEBUG_MAP_27,Guardia Castle (Present)\Hall of Justice
+MSG_DEBUG_MAP_28,Prison Towers\Skywalk
+MSG_DEBUG_MAP_29,Prison Towers\Guardroom
+MSG_DEBUG_MAP_30,Prison Towers\Execution Chamber
+MSG_DEBUG_MAP_31,Medina\Town Square
+MSG_DEBUG_MAP_32,Zenan Bridge
+MSG_DEBUG_MAP_33,Medina\Mayor's House 1F
+MSG_DEBUG_MAP_34,Medina\Mayor's House 2F
+MSG_DEBUG_MAP_35,Medina\Inn
+MSG_DEBUG_MAP_36,Medina\Residence
+MSG_DEBUG_MAP_37,(Event)
+MSG_DEBUG_MAP_38,Guardia Castle (?)\Central Hall
+MSG_DEBUG_MAP_39,Medina\Merchant
+MSG_DEBUG_MAP_40,Melchior's Cabin\1F
+MSG_DEBUG_MAP_41,Melchior's Cabin\B1
+MSG_DEBUG_MAP_42,Forest Ruins
+MSG_DEBUG_MAP_43,Cursed Woods
+MSG_DEBUG_MAP_44,Future Leene's Square?\Used for ending
+MSG_DEBUG_MAP_45,Future Denadoro Mts.?\Used for ending
+MSG_DEBUG_MAP_46,Magus's Keep\Used for ending
+MSG_DEBUG_MAP_47,Heckran Cave
+MSG_DEBUG_MAP_48,Heckran Cave\Entrance
+MSG_DEBUG_MAP_49,Heckran Cave
+MSG_DEBUG_MAP_50,Porre\Mayor's Manor 1F
+MSG_DEBUG_MAP_51,Porre\Mayor's Manor 2F
+MSG_DEBUG_MAP_52,Porre\Residence
+MSG_DEBUG_MAP_53,Porre\Snail Stop
+MSG_DEBUG_MAP_54,Porre\Market
+MSG_DEBUG_MAP_55,Porre\Inn
+MSG_DEBUG_MAP_56,Porre\Ferry Office
+MSG_DEBUG_MAP_57,Fiona's Shrine
+MSG_DEBUG_MAP_58,Choras\Mayor's Manor 1F
+MSG_DEBUG_MAP_59,Choras\Mayor's Manor 1F
+MSG_DEBUG_MAP_60,Magus's Keep\Used for ending?
+MSG_DEBUG_MAP_61,Choras\Residence
+MSG_DEBUG_MAP_62,Choras\Inn (and tavern)
+MSG_DEBUG_MAP_63,West Cape
+MSG_DEBUG_MAP_64,Sun Shrine\Present?
+MSG_DEBUG_MAP_65,Hero's Grave\Entrance
+MSG_DEBUG_MAP_66,Hero's Grave\B1
+MSG_DEBUG_MAP_67,Hero's Grave\2F
+MSG_DEBUG_MAP_68,Hero's Grave\2F Hall
+MSG_DEBUG_MAP_69,Hero's Grave\2F Rear Passage
+MSG_DEBUG_MAP_70,Hero's Grave\2F Rearmost Chamber
+MSG_DEBUG_MAP_71,Prison Towers\Prison / Passage
+MSG_DEBUG_MAP_72,Prison Towers\Passage/Stairs to Exec. Chamber
+MSG_DEBUG_MAP_73,Hero's Grave\Cyrus's Chamber
+MSG_DEBUG_MAP_74,(Event)
+MSG_DEBUG_MAP_75,Prison Towers\Outer Wall
+MSG_DEBUG_MAP_76,(Event)
+MSG_DEBUG_MAP_77,(Event)
+MSG_DEBUG_MAP_78,(Event)
+MSG_DEBUG_MAP_79,Guardia Castle\Used for ending
+MSG_DEBUG_MAP_80,Leene Square\Central Plaza (Parade)
+MSG_DEBUG_MAP_81,Leene Square\Plaza Rear (Parade)
+MSG_DEBUG_MAP_82,(Unused)
+MSG_DEBUG_MAP_83,Forest Near Fiona's Shrine\Lucca's Gate
+MSG_DEBUG_MAP_84,End of Time
+MSG_DEBUG_MAP_85,Leene Square\Telepod (Parade)
+MSG_DEBUG_MAP_86,Death Peak?\(Event)
+MSG_DEBUG_MAP_87,Manolia Cathedral?\(Event)
+MSG_DEBUG_MAP_88,Artwork\Used for ending
+MSG_DEBUG_MAP_89,Zenan Bridge\(Event)
+MSG_DEBUG_MAP_90,Prison Towers?\Skywalk (Event)
+MSG_DEBUG_MAP_91,(Unused)
+MSG_DEBUG_MAP_92,(Unused)
+MSG_DEBUG_MAP_93,(Unused)
+MSG_DEBUG_MAP_94,(Unused)
+MSG_DEBUG_MAP_95,(Unused)
+MSG_DEBUG_MAP_96,Black Omen\Lower Level 4 (Lavos Spawn)
+MSG_DEBUG_MAP_97,Black Omen\Lower Level (Warp 2)
+MSG_DEBUG_MAP_98,Black Omen\Bottom Level (Warp 2)
+MSG_DEBUG_MAP_99,Black Omen\Bottom Level (Elevator)
+MSG_DEBUG_MAP_100,Black Omen\Bottom Level (Descending)
+MSG_DEBUG_MAP_101,Black Omen\Bottom Level (Ascending)
+MSG_DEBUG_MAP_102,(Event)
+MSG_DEBUG_MAP_103,(Event)
+MSG_DEBUG_MAP_104,(Event)
+MSG_DEBUG_MAP_105,(Event)
+MSG_DEBUG_MAP_106,(Event)
+MSG_DEBUG_MAP_107,Black Omen Exterior\(Event)
+MSG_DEBUG_MAP_108,(Unused)
+MSG_DEBUG_MAP_109,Giant's Claw
+MSG_DEBUG_MAP_110,Giant's Claw
+MSG_DEBUG_MAP_111,Giant's Claw
+MSG_DEBUG_MAP_112,Mountains Behind Truce
+MSG_DEBUG_MAP_113,Mountains Behind Truce\Time Gate
+MSG_DEBUG_MAP_114,Truce\Residence 1
+MSG_DEBUG_MAP_115,Truce\Residence 2 (Banta)
+MSG_DEBUG_MAP_116,Truce\Inn 1F
+MSG_DEBUG_MAP_117,Truce\Inn 2F
+MSG_DEBUG_MAP_118,Truce\Market
+MSG_DEBUG_MAP_119,Guardia Forest
+MSG_DEBUG_MAP_120,Guardia Castle\Main Hall
+MSG_DEBUG_MAP_121,Guardia Castle\King's Chamber
+MSG_DEBUG_MAP_122,Guardia Castle\Princess's Chamber
+MSG_DEBUG_MAP_123,Guardia Castle\Dining Hall
+MSG_DEBUG_MAP_124,Guardia Castle\Knight's Room
+MSG_DEBUG_MAP_125,Magus's Keep\Long Passage
+MSG_DEBUG_MAP_126,Geno Dome\Conveyer Belt (Center)
+MSG_DEBUG_MAP_127,Geno Dome\Elevator
+MSG_DEBUG_MAP_128,Geno Dome\Oblong Passage
+MSG_DEBUG_MAP_129,Manolia Cathedral\Chapel
+MSG_DEBUG_MAP_130,Manolia Cathedral\Main Hall (Front)
+MSG_DEBUG_MAP_131,Manolia Cathedral\Main Hall (Rear)
+MSG_DEBUG_MAP_132,Manolia Cathedral\In Front of Yakra's Room
+MSG_DEBUG_MAP_133,Zenan Bridge\Broken Bridge
+MSG_DEBUG_MAP_134,Zenan Bridge\Food Supply Event
+MSG_DEBUG_MAP_135,Zenan Bridge\Repaired
+MSG_DEBUG_MAP_136,Dorino\Residence
+MSG_DEBUG_MAP_137,Dorino\Elder's House
+MSG_DEBUG_MAP_138,Dorino\Inn
+MSG_DEBUG_MAP_139,Dorino\Market
+MSG_DEBUG_MAP_140,Cursed Woods
+MSG_DEBUG_MAP_141,Cursed Woods\Frog's Hideaway
+MSG_DEBUG_MAP_142,Denadoro Mountains\Map 1
+MSG_DEBUG_MAP_143,Denadoro Mountains\Map 2
+MSG_DEBUG_MAP_144,Denadoro Mountains\Map 3
+MSG_DEBUG_MAP_145,Denadoro Mountains\Map 4
+MSG_DEBUG_MAP_146,Denadoro Mountains\Map 5
+MSG_DEBUG_MAP_147,Denadoro Mountains\Map 6
+MSG_DEBUG_MAP_148,Denadoro Mountains\Map 7
+MSG_DEBUG_MAP_149,Denadoro Mountains\Map 8
+MSG_DEBUG_MAP_150,Denadoro Mountains\Map 9
+MSG_DEBUG_MAP_151,Denadoro Mountains\Masa / Mune's Room
+MSG_DEBUG_MAP_152,Tata's House\1F
+MSG_DEBUG_MAP_153,Tata's House\2F
+MSG_DEBUG_MAP_154,Porre\Elder's House
+MSG_DEBUG_MAP_155,Porre\Tavern
+MSG_DEBUG_MAP_156,Porre\Inn
+MSG_DEBUG_MAP_157,Porre\Market
+MSG_DEBUG_MAP_158,Fiona's Villa
+MSG_DEBUG_MAP_159,Sunken Desert\Entrance
+MSG_DEBUG_MAP_160,Sunken Desert\Front
+MSG_DEBUG_MAP_161,Sunken Desert\Melphyx's Room
+MSG_DEBUG_MAP_162,(Event)
+MSG_DEBUG_MAP_163,Magic Cave\Entrance
+MSG_DEBUG_MAP_164,Magic Cave\Interior
+MSG_DEBUG_MAP_165,Magus's Keep\Entrance
+MSG_DEBUG_MAP_166,Magus's Keep\Upon Entering
+MSG_DEBUG_MAP_167,Magus's Keep\Trap 1 - Guillotine
+MSG_DEBUG_MAP_168,Magus's Keep\Trap 2 - Pit
+MSG_DEBUG_MAP_169,Magus's Keep\Slash Battle Room
+MSG_DEBUG_MAP_170,Magus's Keep\Central Chamber
+MSG_DEBUG_MAP_171,Magus's Keep\Kids' Treasure Room
+MSG_DEBUG_MAP_172,Magus's Keep\Magus's Chamber
+MSG_DEBUG_MAP_173,Magus's Keep\Flea Battle Room
+MSG_DEBUG_MAP_174,Magus's Keep\Ozzie Battle Room
+MSG_DEBUG_MAP_175,Magus's Keep\Trap 3 - Conveyer Belt
+MSG_DEBUG_MAP_176,Magus's Keep\Exterior Stairway 1
+MSG_DEBUG_MAP_177,Ozzie's Fort\Upon Entering
+MSG_DEBUG_MAP_178,Ozzie's Fort\Failed Trap Room
+MSG_DEBUG_MAP_179,Ozzie's Fort\Guillotine Room
+MSG_DEBUG_MAP_180,Ozzie's Fort\Battle Against All Three
+MSG_DEBUG_MAP_181,Ozzie's Fort\The End of Ozzie
+MSG_DEBUG_MAP_182,Castle Exterior\(Unused)
+MSG_DEBUG_MAP_183,Ozzie's Fort\Flea Battle Room
+MSG_DEBUG_MAP_184,Ozzie's Fort\Slash Battle Room
+MSG_DEBUG_MAP_185,Choras\Residence 1
+MSG_DEBUG_MAP_186,Choras\Residence 2 (Carpenter) 1F
+MSG_DEBUG_MAP_187,Choras\Residence 2 (Carpenter) 2F
+MSG_DEBUG_MAP_188,Choras\Tavern
+MSG_DEBUG_MAP_189,Choras\Inn
+MSG_DEBUG_MAP_190,Choras\Market
+MSG_DEBUG_MAP_191,Sun Shrine\Middle Ages?
+MSG_DEBUG_MAP_192,(Event)
+MSG_DEBUG_MAP_193,(Event)
+MSG_DEBUG_MAP_194,(Event)
+MSG_DEBUG_MAP_195,Giant's Claw\Map 1
+MSG_DEBUG_MAP_196,Giant's Claw\Map 2
+MSG_DEBUG_MAP_197,Giant's Claw\Rust Tyranno Battle Room
+MSG_DEBUG_MAP_198,Manolia Cathedral\Yakra Battle Room
+MSG_DEBUG_MAP_199,Manolia Cathedral\Prison Cell
+MSG_DEBUG_MAP_200,Manolia Cathedral\Phantom Room
+MSG_DEBUG_MAP_201,Manolia Cathedral\Bromide Room
+MSG_DEBUG_MAP_202,Manolia Cathedral\Monsters' Room
+MSG_DEBUG_MAP_203,Manolia Cathedral\Magus Statue
+MSG_DEBUG_MAP_204,Guardia Forest\Frog Flashback Event
+MSG_DEBUG_MAP_205,Denadoro Mountains\Frog Flashback Event
+MSG_DEBUG_MAP_206,Guardia Castle\Frog Flashback Event
+MSG_DEBUG_MAP_207,(Event)
+MSG_DEBUG_MAP_208,Bangor Dome\Gate Room
+MSG_DEBUG_MAP_209,Bangor Dome\Sealed Treasure Room
+MSG_DEBUG_MAP_210,Trann Dome
+MSG_DEBUG_MAP_211,Trann Dome\Sealed Treasure Room
+MSG_DEBUG_MAP_212,Site 16\Trann Dome Side
+MSG_DEBUG_MAP_213,Site 16\Arris Dome Side
+MSG_DEBUG_MAP_214,Arris Dome
+MSG_DEBUG_MAP_215,Arris Dome Substructure\Passcode Room 1
+MSG_DEBUG_MAP_216,Arris Dome Substructure\Upon Entering
+MSG_DEBUG_MAP_217,Arris Dome Substructure\Passcode Room 2
+MSG_DEBUG_MAP_218,Arris Dome Substructure\Day of Lavos Record Room
+MSG_DEBUG_MAP_219,Arris Dome Substructure\Guardian Battle
+MSG_DEBUG_MAP_220,Arris Dome Substructure\Sealed Treasure Room
+MSG_DEBUG_MAP_221,Arris Dome Substructure\Rat Room
+MSG_DEBUG_MAP_222,Reptite Lair
+MSG_DEBUG_MAP_223,Site 32\Western Bike Parking
+MSG_DEBUG_MAP_224,Site 32\Road
+MSG_DEBUG_MAP_225,Site 32\Eastern Bike Parking
+MSG_DEBUG_MAP_226,Proto Dome\Robo's Debut
+MSG_DEBUG_MAP_227,Proto Dome\Gate Room
+MSG_DEBUG_MAP_228,Derelict Factory\Entrance
+MSG_DEBUG_MAP_229,Derelict Factory\B1 (West)
+MSG_DEBUG_MAP_230,Derelict Factory\B2 (West)
+MSG_DEBUG_MAP_231,Derelict Factory\B1 (East)
+MSG_DEBUG_MAP_232,Derelict Factory\Bug Room
+MSG_DEBUG_MAP_233,Derelict Factory\Room Before Crane
+MSG_DEBUG_MAP_234,Derelict Factory\Passcode Acquisition
+MSG_DEBUG_MAP_235,Derelict Factory\B3 (West)
+MSG_DEBUG_MAP_236,Abandoned Sewers\Entrance
+MSG_DEBUG_MAP_237,Abandoned Sewers
+MSG_DEBUG_MAP_238,(Event?)\(Staff Room?)
+MSG_DEBUG_MAP_239,(Unused)
+MSG_DEBUG_MAP_240,(Unused)
+MSG_DEBUG_MAP_241,Keeper's Dome
+MSG_DEBUG_MAP_242,Keeper's Dome\Hallway
+MSG_DEBUG_MAP_243,Keeper's Dome\Epoch Storage Room
+MSG_DEBUG_MAP_244,Death Peak\Entrance
+MSG_DEBUG_MAP_245,Death Peak\Map 1
+MSG_DEBUG_MAP_246,Death Peak\Map 2
+MSG_DEBUG_MAP_247,Death Peak\Map 4 (Lavos Spawn - 2)
+MSG_DEBUG_MAP_248,Geno Dome\Entrance
+MSG_DEBUG_MAP_249,Geno Dome\Conveyer Belt (Front)
+MSG_DEBUG_MAP_250,Geno Dome\Conveyer Belt (Rear)
+MSG_DEBUG_MAP_251,Sun Temple
+MSG_DEBUG_MAP_252,Leene Square\Central Plaza (Used for ending)
+MSG_DEBUG_MAP_253,Sun Shrine\Unknown Era
+MSG_DEBUG_MAP_254,(Event)
+MSG_DEBUG_MAP_255,Sun Shrine\Unknown Era
+MSG_DEBUG_MAP_256,Geno Dome\Main Room
+MSG_DEBUG_MAP_257,Geno Dome\Treasure Room 1
+MSG_DEBUG_MAP_258,Geno Dome\Treasure Room 2
+MSG_DEBUG_MAP_259,Derelict Factory\Crane Code Acquisition
+MSG_DEBUG_MAP_260,Death Peak\Map 6
+MSG_DEBUG_MAP_261,???
+MSG_DEBUG_MAP_262,Death Peak\Map 5
+MSG_DEBUG_MAP_263,Death Peak\Map 3
+MSG_DEBUG_MAP_264,Death Peak\Interior (Lavos Spawn - 1)
+MSG_DEBUG_MAP_265,Death Peak\Summit
+MSG_DEBUG_MAP_266,(Event)
+MSG_DEBUG_MAP_267,Geno Dome\Rear of Oblong Passage
+MSG_DEBUG_MAP_268,Geno Dome\Mother Brain Battle
+MSG_DEBUG_MAP_269,Geno Dome\Execution Room
+MSG_DEBUG_MAP_270,Leene Square\Plaza Rear (Ending)
+MSG_DEBUG_MAP_271,(Unused)
+MSG_DEBUG_MAP_272,Mystic Mountains\Gate
+MSG_DEBUG_MAP_273,Mystic Mountains\Ayla's Debut
+MSG_DEBUG_MAP_274,Mystic Mountains\Trail
+MSG_DEBUG_MAP_275,Ioka Village\Chief's Hut
+MSG_DEBUG_MAP_276,Ioka Village Hut
+MSG_DEBUG_MAP_277,Ioka Village Hut\Trading Room
+MSG_DEBUG_MAP_278,Ioka Village Hut\Healing Room
+MSG_DEBUG_MAP_279,Ioka Village\Village Center
+MSG_DEBUG_MAP_280,Ioka Village\Village Center (Night)
+MSG_DEBUG_MAP_281,Forest Maze\Entrance Only
+MSG_DEBUG_MAP_282,Forest Maze\Normal
+MSG_DEBUG_MAP_283,Reptite Lair\Entrance
+MSG_DEBUG_MAP_284,Reptite Lair\Beetle Room
+MSG_DEBUG_MAP_285,Reptite Lair\Hole 1
+MSG_DEBUG_MAP_286,Reptite Lair\Hole 2
+MSG_DEBUG_MAP_287,Reptite Lair\Hole 3
+MSG_DEBUG_MAP_288,Reptite Lair
+MSG_DEBUG_MAP_289,Reptite Lair\Nizbel Battle
+MSG_DEBUG_MAP_290,Reptite Lair
+MSG_DEBUG_MAP_291,Hunting Range
+MSG_DEBUG_MAP_292,Laruba Ruins
+MSG_DEBUG_MAP_293,Dactyl Nest\Entrance
+MSG_DEBUG_MAP_294,Dactyl Nest\Mountainside
+MSG_DEBUG_MAP_295,Dactyl Nest\Peak
+MSG_DEBUG_MAP_296,Giant's Claw
+MSG_DEBUG_MAP_297,Giant's Claw
+MSG_DEBUG_MAP_298,Tyranno Lair\Exterior
+MSG_DEBUG_MAP_299,Tyranno Lair\Entrance
+MSG_DEBUG_MAP_300,Tyranno Lair\Azala Face-off
+MSG_DEBUG_MAP_301,Tyranno Lair\Black Tyranno Battle
+MSG_DEBUG_MAP_302,Tyranno Lair\Interior (Prisoners, Traps)
+MSG_DEBUG_MAP_303,Tyranno Lair\Interior 2 (Switches, Passages)
+MSG_DEBUG_MAP_304,Tyranno Lair\Nizbel II
+MSG_DEBUG_MAP_305,Tyranno Lair\Interior 3 (Warp Point)
+MSG_DEBUG_MAP_306,(Unused)
+MSG_DEBUG_MAP_307,Tyranno Lair Ruins
+MSG_DEBUG_MAP_308,Black Omen\Upper Level 1 (Mega M.)
+MSG_DEBUG_MAP_309,Black Omen\Upper Level 1
+MSG_DEBUG_MAP_310,Black Omen\Upper Level 2
+MSG_DEBUG_MAP_311,Black Omen\Upper Level 3
+MSG_DEBUG_MAP_312,Black Omen\Upper Level 4
+MSG_DEBUG_MAP_313,Black Omen\Middle Level 1
+MSG_DEBUG_MAP_314,Black Omen\Middle Level 2
+MSG_DEBUG_MAP_315,Black Omen\Middle Level 3
+MSG_DEBUG_MAP_316,Black Omen\Middle Level 4
+MSG_DEBUG_MAP_317,Black Omen\Middle Level 5
+MSG_DEBUG_MAP_318,Black Omen\Middle Level 6
+MSG_DEBUG_MAP_319,Black Omen\Middle Level 7
+MSG_DEBUG_MAP_320,Black Omen\Middle Level 8 (Warp)
+MSG_DEBUG_MAP_321,Black Omen\Lower Level 1 (Warp)
+MSG_DEBUG_MAP_322,Black Omen\Lower Level 2
+MSG_DEBUG_MAP_323,Black Omen\Lower Level 3 (Giga M.)
+MSG_DEBUG_MAP_324,Black Omen\Bottom Level 1
+MSG_DEBUG_MAP_325,Black Omen\Bottom Level 2 (Terra M.)
+MSG_DEBUG_MAP_326,Black Omen\Bottom Level 3
+MSG_DEBUG_MAP_327,Sun Shrine\Unknown Era
+MSG_DEBUG_MAP_328,Zeal Palace\Janus's Chamber
+MSG_DEBUG_MAP_329,Zeal Palace\Sealed Door (Unopened)
+MSG_DEBUG_MAP_330,Zeal Palace\Sealed Door (Opened)
+MSG_DEBUG_MAP_331,Zeal Palace\Mammon Machine - 1
+MSG_DEBUG_MAP_332,Zeal Palace\Queen's Chamber - 1
+MSG_DEBUG_MAP_333,Zeal Palace\Mammon Machine - 2
+MSG_DEBUG_MAP_334,Zeal Palace\Queen's Chamber - 2
+MSG_DEBUG_MAP_335,(Event)
+MSG_DEBUG_MAP_336,Land Bridge
+MSG_DEBUG_MAP_337,Map Not Specified
+MSG_DEBUG_MAP_338,Dream Project\Staff, Residence
+MSG_DEBUG_MAP_339,Dream Project\Staff, Prehistoric Forest
+MSG_DEBUG_MAP_340,Dream Project\Staff, Ocean Palace
+MSG_DEBUG_MAP_341,Dream Project\Staff, Prison
+MSG_DEBUG_MAP_342,Dream Project\Staff, Terrans
+MSG_DEBUG_MAP_343,Dream Project\Dream Staff
+MSG_DEBUG_MAP_344,Arris Dome Substructure 4\Supply Room
+MSG_DEBUG_MAP_345,Lucca's House\Ending?
+MSG_DEBUG_MAP_346,Lavos Past Mode\Guardian
+MSG_DEBUG_MAP_347,Lavos Past Mode\Dragon Tank
+MSG_DEBUG_MAP_348,Lavos Past Mode\Heckran
+MSG_DEBUG_MAP_349,Lavos Past Mode\Zombor
+MSG_DEBUG_MAP_350,Lavos Past Mode\Masa/Mune
+MSG_DEBUG_MAP_351,Small Cave\Gate
+MSG_DEBUG_MAP_352,Land Bridge
+MSG_DEBUG_MAP_353,Land Bridge
+MSG_DEBUG_MAP_354,Skyway
+MSG_DEBUG_MAP_355,Enhasa\Plaza
+MSG_DEBUG_MAP_356,Skyway
+MSG_DEBUG_MAP_357,Kajar\Plaza
+MSG_DEBUG_MAP_358,Kajar\Small Room
+MSG_DEBUG_MAP_359,Kajar\Hidden Room
+MSG_DEBUG_MAP_360,Kajar\Magic Research Lab
+MSG_DEBUG_MAP_361,Enhasa\Hidden Room
+MSG_DEBUG_MAP_362,Blackbird Boarding Point
+MSG_DEBUG_MAP_363,Blackbird\Left Wing
+MSG_DEBUG_MAP_364,Blackbird\Right Deck
+MSG_DEBUG_MAP_365,Blackbird\Left Deck
+MSG_DEBUG_MAP_366,Blackbird\Panorama
+MSG_DEBUG_MAP_367,Blackbird\Epoch Upgrade Room
+MSG_DEBUG_MAP_368,Blackbird\Rearward Passage
+MSG_DEBUG_MAP_369,Blackbird\Forward Passage
+MSG_DEBUG_MAP_370,Blackbird\Room 1
+MSG_DEBUG_MAP_371,Blackbird\Room 2
+MSG_DEBUG_MAP_372,Blackbird\Room 3
+MSG_DEBUG_MAP_373,Blackbird\Room 4
+MSG_DEBUG_MAP_374,Blackbird\Room 5
+MSG_DEBUG_MAP_375,Blackbird\Room 6
+MSG_DEBUG_MAP_376,Blackbird\Ventillation Shaft
+MSG_DEBUG_MAP_377,Epoch\In Flight 1
+MSG_DEBUG_MAP_378,Dream Project\Staff, Future Factory
+MSG_DEBUG_MAP_379,Dream Project\End of Time
+MSG_DEBUG_MAP_380,Algetty\Panorama
+MSG_DEBUG_MAP_381,Algetty\Inn
+MSG_DEBUG_MAP_382,Algetty\Elder's Room
+MSG_DEBUG_MAP_383,Algetty\Resident's Room
+MSG_DEBUG_MAP_384,Algetty\Item Shop
+MSG_DEBUG_MAP_385,(Event)
+MSG_DEBUG_MAP_386,Terra Cave
+MSG_DEBUG_MAP_387,(Event)
+MSG_DEBUG_MAP_388,Mudbeast Den
+MSG_DEBUG_MAP_389,Small Cave\Floating Continent
+MSG_DEBUG_MAP_390,Dream Project\Staff, Prehistoric Hut
+MSG_DEBUG_MAP_391,Dream Project\Staff, Magus's Keep
+MSG_DEBUG_MAP_392,Mountain of Woe\Station 3
+MSG_DEBUG_MAP_393,Mountain of Woe\Station 5
+MSG_DEBUG_MAP_394,Mountain of Woe\Base
+MSG_DEBUG_MAP_395,Mountain of Woe\Station 8
+MSG_DEBUG_MAP_396,(Event)
+MSG_DEBUG_MAP_397,Mountain of Woe\Giga Gaia Battle
+MSG_DEBUG_MAP_398,Leene Square\Unspecified
+MSG_DEBUG_MAP_399,Crono's House\Unspecified
+MSG_DEBUG_MAP_400,(Unused)
+MSG_DEBUG_MAP_401,Zeal Palace\Main Hall
+MSG_DEBUG_MAP_402,Zeal Palace\Passage to Janus's Room
+MSG_DEBUG_MAP_403,Zeal Palace\Schala's Room
+MSG_DEBUG_MAP_404,Ocean Palace\Upon Entering
+MSG_DEBUG_MAP_405,Ocean Palace\Upper Level, Main Hall
+MSG_DEBUG_MAP_406,Ocean Palace\Upper Level, Small Room
+MSG_DEBUG_MAP_407,Ocean Palace\Upper Level, Door Switch
+MSG_DEBUG_MAP_408,Ocean Palace\Upper Level -> Great Stair
+MSG_DEBUG_MAP_409,Ocean Palace\Great Stair
+MSG_DEBUG_MAP_410,Ocean Palace\Great Stair -> Lower Level
+MSG_DEBUG_MAP_411,Ocean Palace\Elevator (Lower Level)
+MSG_DEBUG_MAP_412,Ocean Palace\Lowest Level, Main Hall
+MSG_DEBUG_MAP_413,Ocean Palace\Lowest Level, Passage
+MSG_DEBUG_MAP_414,Ocean Palace\Golem Battle
+MSG_DEBUG_MAP_415,Ocean Palace\Lowest Level, Mammon Machine
+MSG_DEBUG_MAP_416,Ocean Palace\Elevator (Descending)
+MSG_DEBUG_MAP_417,Ocean Palace\Elevator (Upper Level)
+MSG_DEBUG_MAP_418,Ocean Palace\Elevator (Bottom Level)
+MSG_DEBUG_MAP_419,(Event)
+MSG_DEBUG_MAP_420,(Event)
+MSG_DEBUG_MAP_421,(Event)
+MSG_DEBUG_MAP_422,Ocean Palace\Mammon Machine Battle
+MSG_DEBUG_MAP_423,Ocean Palace\Lavos Battle (Strongest)
+MSG_DEBUG_MAP_424,Surviving Village\Plaza
+MSG_DEBUG_MAP_425,Surviving Village\Beds
+MSG_DEBUG_MAP_426,Surviving Village\Item Shop
+MSG_DEBUG_MAP_427,Surviving Village\Residence
+MSG_DEBUG_MAP_428,North Cape
+MSG_DEBUG_MAP_429,Death Peak\Crono Revival Event
+MSG_DEBUG_MAP_430,Tyranno Lair\Imprisoned Villagers
+MSG_DEBUG_MAP_431,(Event)
+MSG_DEBUG_MAP_432,Epoch\In Flight 2
+MSG_DEBUG_MAP_433,(Unused)
+MSG_DEBUG_MAP_434,Leene Square\Bekkler's Lab
+MSG_DEBUG_MAP_435,Magic Cave\Entrance
+MSG_DEBUG_MAP_436,Fiona's Shrine\Nearby Woods
+MSG_DEBUG_MAP_437,Derelict Factory\Reject Room
+MSG_DEBUG_MAP_438,Guardia Castle\Hall of Justice
+MSG_DEBUG_MAP_439,Leene Square\Plaza Rear
+MSG_DEBUG_MAP_440,Guardia Castle\Treasury
+MSG_DEBUG_MAP_441,Guardia Castle\Before Hall of Justice
+MSG_DEBUG_MAP_442,Blackbird\Room 7
+MSG_DEBUG_MAP_443,Blackbird\Room 8
+MSG_DEBUG_MAP_444,Blackbird\Room 9
+MSG_DEBUG_MAP_445,Blackbird\Room 10
+MSG_DEBUG_MAP_446,Magus's Keep\Exterior Stairway 2
+MSG_DEBUG_MAP_447,Magus's Keep\Before Final Magus Battle
+MSG_DEBUG_MAP_448,(Event)
+MSG_DEBUG_MAP_449,Black Omen\Entrance
+MSG_DEBUG_MAP_450,Black Omen\Bottom Level 5
+MSG_DEBUG_MAP_451,Black Omen\Bottom Level 6 (Lowest Reaches)
+MSG_DEBUG_MAP_452,(Event)
+MSG_DEBUG_MAP_453,(Event)
+MSG_DEBUG_MAP_454,(Event)
+MSG_DEBUG_MAP_455,(Event)
+MSG_DEBUG_MAP_456,Lavos Past Mode\Nizbel
+MSG_DEBUG_MAP_457,Lavos Past Mode\Magus
+MSG_DEBUG_MAP_458,Lavos Past Mode\Black T. & Azala
+MSG_DEBUG_MAP_459,Lavos Past Mode\Giga Gaia
+MSG_DEBUG_MAP_460,(Event)
+MSG_DEBUG_MAP_461,(Event)
+MSG_DEBUG_MAP_462,(Event)
+MSG_DEBUG_MAP_463,(Event)
+MSG_DEBUG_MAP_464,End of Time\Gasper's Room
+MSG_DEBUG_MAP_465,End of Time\Spekkio's Room
+MSG_DEBUG_MAP_466,Lavos Shell\Shell Destroyed
+MSG_DEBUG_MAP_467,Lavos Shell\Battle vs Shell
+MSG_DEBUG_MAP_468,Guardia Castle\Western Stair
+MSG_DEBUG_MAP_469,Magus's Keep\Western Passage
+MSG_DEBUG_MAP_470,Magus's Keep\Before Ozzie's Room
+MSG_DEBUG_MAP_471,Magus's Keep\After Pit Trap
+MSG_DEBUG_MAP_472,1999\Via Epoch
+MSG_DEBUG_MAP_473,End of Time\Epoch
+MSG_DEBUG_MAP_474,Lavos Interior\Before Final Battle
+MSG_DEBUG_MAP_475,Lavos Interior\Lavos Battle
+MSG_DEBUG_MAP_476,1999\A Dome
+MSG_DEBUG_MAP_477,Epoch\Unspecified
+MSG_DEBUG_MAP_478,Blackbird\Unspecified (Dungeon)
+MSG_DEBUG_MAP_479,Lavos Interior\Lavos Core Battle
+MSG_DEBUG_MAP_480,Guardia Castle\Eastern Stair
+MSG_DEBUG_MAP_481,Blackbird\Unspecified (Exterior)
+MSG_DEBUG_MAP_482,Blackbird\Room 11
+MSG_DEBUG_MAP_483,Blackbird\Room 12
+MSG_DEBUG_MAP_484,Blackbird\Room 13
+MSG_DEBUG_MAP_485,Blackbird\Room 14
+MSG_DEBUG_MAP_486,Guardia Castle\Eastern Stair
+MSG_DEBUG_MAP_487,Guardia Castle\Western Stair
+MSG_DEBUG_MAP_488,Guardia Castle\Stair to Hall of Justice
+MSG_DEBUG_MAP_489,Guardia Castle\Prison Stairway
+MSG_DEBUG_MAP_490,Giant's Claw
+MSG_DEBUG_MAP_491,(Event)
+MSG_DEBUG_MAP_492,(Event)
+MSG_DEBUG_MAP_493,Somewhere\Destruction of Lavos
+MSG_DEBUG_MAP_494,Somewhere 2\Destruction of Lavos 2
+MSG_DEBUG_MAP_495,Death Peak\Lavos Spawn - 3

@@ -1,0 +1,257 @@
+MSG_EX_ITEM_01,Зелье
+MSG_EX_ITEM_02,Среднее зелье
+MSG_EX_ITEM_03,Большое зелье
+MSG_EX_ITEM_04,Эфир
+MSG_EX_ITEM_05,Средний эфир
+MSG_EX_ITEM_06,Большой эфир
+MSG_EX_ITEM_07,Турбоэфир
+MSG_EX_ITEM_08,Эликсир
+MSG_EX_ITEM_09,Мегаэликсир
+MSG_EX_ITEM_10,Панацея
+MSG_EX_ITEM_11,Афинская вода
+MSG_EX_ITEM_12,Лазурит
+MSG_EX_ITEM_13,Швабра
+MSG_EX_ITEM_14,Деревянный меч
+MSG_EX_ITEM_15,Бронзовый клинок
+MSG_EX_ITEM_16,Стальная сабля
+MSG_EX_ITEM_17,Серебряный меч
+MSG_EX_ITEM_18,Громовой клинок
+MSG_EX_ITEM_19,Багровый клинок
+MSG_EX_ITEM_20,Бивень мамонта
+MSG_EX_ITEM_21,Соисоэ
+MSG_EX_ITEM_22,Первобытный клинок
+MSG_EX_ITEM_23,Дзанмато
+MSG_EX_ITEM_24,Меч ваджры
+MSG_EX_ITEM_25,Небесный клинок
+MSG_EX_ITEM_26,Клинок якши
+MSG_EX_ITEM_27,Ласточка
+MSG_EX_ITEM_28,Онимару
+MSG_EX_ITEM_29,Соисоэ II
+MSG_EX_ITEM_30,Судзаку
+MSG_EX_ITEM_31,Радуга
+MSG_EX_ITEM_32,Бронзовый арбалет
+MSG_EX_ITEM_33,Железный арбалет
+MSG_EX_ITEM_34,Серебряный лук
+MSG_EX_ITEM_35,Лук разбойника
+MSG_EX_ITEM_36,Лук шамана
+MSG_EX_ITEM_37,Лук грёз
+MSG_EX_ITEM_38,Лук кометы
+MSG_EX_ITEM_39,Звуковой лук
+MSG_EX_ITEM_40,Поцелуй сирены
+MSG_EX_ITEM_41,Лук валькирии
+MSG_EX_ITEM_42,Пневмопистолет
+MSG_EX_ITEM_43,Пугач
+MSG_EX_ITEM_44,Карманный бластер
+MSG_EX_ITEM_45,Плазменный пистолет
+MSG_EX_ITEM_46,Рубиновый пистолет
+MSG_EX_ITEM_47,Пистолет грёз
+MSG_EX_ITEM_48,Мегабластер
+MSG_EX_ITEM_49,Ударная волна
+MSG_EX_ITEM_50,Чудо-выстрел
+MSG_EX_ITEM_51,Бронзовый меч
+MSG_EX_ITEM_52,Железный меч
+MSG_EX_ITEM_53,Сияющий клинок
+MSG_EX_ITEM_54,Клинок карателя
+MSG_EX_ITEM_55,Рунный клинок
+MSG_EX_ITEM_56,Убийца демонов
+MSG_EX_ITEM_57,Меч храбреца
+MSG_EX_ITEM_58,Масамунэ
+MSG_EX_ITEM_59,Масамунэ
+MSG_EX_ITEM_60,Жестяная рука
+MSG_EX_ITEM_61,Рука-молот
+MSG_EX_ITEM_62,Миражная рука
+MSG_EX_ITEM_63,Каменная рука
+MSG_EX_ITEM_64,Коготь смерти
+MSG_EX_ITEM_65,Магмовая рука
+MSG_EX_ITEM_66,Мегатонная рука
+MSG_EX_ITEM_67,Тяжёлая рука
+MSG_EX_ITEM_68,Рука кайзера
+MSG_EX_ITEM_69,Гигатонная рука
+MSG_EX_ITEM_70,Тератонная рука
+MSG_EX_ITEM_71,Рука кризиса
+MSG_EX_ITEM_72,Коса лунной ночи
+MSG_EX_ITEM_73,Коса палача
+MSG_EX_ITEM_74,Серп Аида
+MSG_EX_ITEM_75,Коса отчаяния
+MSG_EX_ITEM_76,Кожаная рубаха
+MSG_EX_ITEM_77,Стёганый жилет
+MSG_EX_ITEM_78,Бронзовый доспех
+MSG_EX_ITEM_79,Дамский костюм
+MSG_EX_ITEM_80,Железный костюм
+MSG_EX_ITEM_81,Титановый жилет
+MSG_EX_ITEM_82,Жилет Табана
+MSG_EX_ITEM_83,Золотой костюм
+MSG_EX_ITEM_84,Рубиновый жилет
+MSG_EX_ITEM_85,Тёмная кольчуга
+MSG_EX_ITEM_86,Белый жилет
+MSG_EX_ITEM_87,Чёрный жилет
+MSG_EX_ITEM_88,Синий жилет
+MSG_EX_ITEM_89,Красный жилет
+MSG_EX_ITEM_90,Мезозойская броня
+MSG_EX_ITEM_91,Туманная мантия
+MSG_EX_ITEM_92,Светлая мантия
+MSG_EX_ITEM_93,Сияющий доспех
+MSG_EX_ITEM_94,Белый доспех
+MSG_EX_ITEM_95,Чёрный доспех
+MSG_EX_ITEM_96,Синий доспех
+MSG_EX_ITEM_97,Красный доспех
+MSG_EX_ITEM_98,Платиновый жилет
+MSG_EX_ITEM_99,Вечный костюм
+MSG_EX_ITEM_100,Вороная броня
+MSG_EX_ITEM_101,Рубиновая броня
+MSG_EX_ITEM_102,Костюм Табана
+MSG_EX_ITEM_103,Звёздная накидка
+MSG_EX_ITEM_104,Броня новы
+MSG_EX_ITEM_105,Плащ отчаяния
+MSG_EX_ITEM_106,Лунный доспех
+MSG_EX_ITEM_107,Призменное платье
+MSG_EX_ITEM_108,Кожаная шапка
+MSG_EX_ITEM_109,Бронзовый шлем
+MSG_EX_ITEM_110,Железный шлем
+MSG_EX_ITEM_111,Берет из Порре
+MSG_EX_ITEM_112,Золотой шлем
+MSG_EX_ITEM_113,Каменный шлем
+MSG_EX_ITEM_114,Шлем-трицератопс
+MSG_EX_ITEM_115,Шлем Табана
+MSG_EX_ITEM_116,Сияющий шлем
+MSG_EX_ITEM_117,Платиновый шлем
+MSG_EX_ITEM_118,Шлем погибели
+MSG_EX_ITEM_119,Шапка ясности
+MSG_EX_ITEM_120,Шапка памяти
+MSG_EX_ITEM_121,Шляпа времени
+MSG_EX_ITEM_122,Вечный шлем
+MSG_EX_ITEM_123,Шлем русалки
+MSG_EX_ITEM_124,Радужный шлем
+MSG_EX_ITEM_125,Тёмный шлем
+MSG_EX_ITEM_126,Шлем ускорения
+MSG_EX_ITEM_127,Шляпа бдительности
+MSG_EX_ITEM_128,Шлем-хранитель
+MSG_EX_ITEM_129,Призменный шлем
+MSG_EX_ITEM_130,Шлем отчаяния
+MSG_EX_ITEM_131,Штаны Оззи
+MSG_EX_ITEM_132,Налобная повязка
+MSG_EX_ITEM_133,Лента
+MSG_EX_ITEM_134,Силовая перчатка
+MSG_EX_ITEM_135,Браслет-хранитель
+MSG_EX_ITEM_136,Волшебный шарф
+MSG_EX_ITEM_137,Амулет Шалы
+MSG_EX_ITEM_138,Кольцо скорости
+MSG_EX_ITEM_139,Кольцо меткости
+MSG_EX_ITEM_140,Кольцо силы
+MSG_EX_ITEM_141,Волшебное кольцо
+MSG_EX_ITEM_142,Кольцо барьера
+MSG_EX_ITEM_143,Серебряная серьга
+MSG_EX_ITEM_144,Золотая серьга
+MSG_EX_ITEM_145,Серебряный гвоздик
+MSG_EX_ITEM_146,Золотой гвоздик
+MSG_EX_ITEM_147,Оптический прицел
+MSG_EX_ITEM_148,Соблазнительный лиф
+MSG_EX_ITEM_149,Браслет гнева
+MSG_EX_ITEM_150,Браслет ярости
+MSG_EX_ITEM_151,Третий глаз
+MSG_EX_ITEM_152,Кошелёк дельца
+MSG_EX_ITEM_153,Зелёный сон
+MSG_EX_ITEM_154,Кольцо берсерка
+MSG_EX_ITEM_155,Силовой шарф
+MSG_EX_ITEM_156,Пояс скорости
+MSG_EX_ITEM_157,Чёрный самоцвет
+MSG_EX_ITEM_158,Синий самоцвет
+MSG_EX_ITEM_159,Серебряный самоцвет
+MSG_EX_ITEM_160,Белый самоцвет
+MSG_EX_ITEM_161,Золотой самоцвет
+MSG_EX_ITEM_162,Знак Героя
+MSG_EX_ITEM_163,Кольцо мускулов
+MSG_EX_ITEM_164,Бюстье Флеи
+MSG_EX_ITEM_165,Печать магии
+MSG_EX_ITEM_166,Печать силы
+MSG_EX_ITEM_167,Солнечные очки
+MSG_EX_ITEM_168,Радужные очки
+MSG_EX_ITEM_169,Укрытие
+MSG_EX_ITEM_170,Обед
+MSG_EX_ITEM_171,Сфера барьера
+MSG_EX_ITEM_172,Сфера защиты
+MSG_EX_ITEM_173,Капсула силы
+MSG_EX_ITEM_174,Капсула магии
+MSG_EX_ITEM_175,Капсула скорости
+MSG_EX_ITEM_176,Острое вяленое мясо
+MSG_EX_ITEM_177,Синий жилет или Синий доспех
+MSG_EX_ITEM_178,Красный жилет или Красный доспех
+MSG_EX_ITEM_179,Белый жилет или Белый доспех
+MSG_EX_ITEM_180,Чёрный жилет или Чёрный доспех
+MSG_EX_ITEM_181,3 призменных шлема или Призменное платье
+MSG_EX_ITEM_182,Онимару или Судзаку
+MSG_EX_ITEM_183,Поцелуй сирены или Лук валькирии
+MSG_EX_ITEM_184,Броня новы или Лунный доспех
+MSG_EX_ITEM_185,Кольцо барьера + Кольцо скорости
+MSG_EX_ITEM_186,5 эфиров
+MSG_EX_ITEM_187,10 средних эфиров
+MSG_EX_ITEM_188,5 больших эфиров
+MSG_EX_ITEM_189,5 средних зелий
+MSG_EX_ITEM_190,10 средних зелий
+MSG_EX_ITEM_191,10 капсул силы
+MSG_EX_ITEM_192,10 капсул магии
+MSG_EX_ITEM_193,10 капсул скорости
+MSG_EX_ITEM_194,10 эликсиров
+MSG_EX_ITEM_195,Канцлер
+MSG_EX_ITEM_196,Ключ Якры
+MSG_EX_ITEM_197,Сломанный клинок
+MSG_EX_ITEM_198,Сломанная рукоять
+MSG_EX_ITEM_199,Запись гонок
+MSG_EX_ITEM_200,Снаряжение 1-го героя
+MSG_EX_ITEM_201,Снаряжение 2-го героя
+MSG_EX_ITEM_202,Снаряжение 3-го героя
+MSG_EX_ITEM_203,Копия капсулы
+MSG_EX_ITEM_204,Лунный камень
+MSG_EX_ITEM_205,Капсула силы + Острое вяленое мясо
+MSG_EX_ITEM_206,Деньги
+MSG_EX_ITEM_207,Предмет
+MSG_EX_ITEM_208,Портрет Наги
+MSG_EX_ITEM_209,Белый самоцвет
+MSG_EX_ITEM_210,Лента Атропос
+MSG_EX_ITEM_211,Семя
+MSG_EX_ITEM_212,5 средних эфиров
+MSG_EX_ITEM_213,10 мегаэликсиров
+MSG_EX_ITEM_214,Ледяной змей
+MSG_EX_ITEM_215,Звёздная пыль
+MSG_EX_ITEM_216,Турбовыстрел
+MSG_EX_ITEM_217,Динозавровый клинок
+MSG_EX_ITEM_218,Драконья рука
+MSG_EX_ITEM_219,Коса правосудия
+MSG_EX_ITEM_220,Искатель снов
+MSG_EX_ITEM_221,Венера
+MSG_EX_ITEM_222,Чародейский ствол
+MSG_EX_ITEM_223,Рука апокалипсиса
+MSG_EX_ITEM_224,Жнец снов
+MSG_EX_ITEM_225,Драконья броня
+MSG_EX_ITEM_226,Платье рептитки
+MSG_EX_ITEM_227,Шкура ящера
+MSG_EX_ITEM_228,Королевский доспех
+MSG_EX_ITEM_229,Королевское платье
+MSG_EX_ITEM_230,Стихийная эгида
+MSG_EX_ITEM_231,Теневая мантия
+MSG_EX_ITEM_232,Голова дракона
+MSG_EX_ITEM_233,Тиара рептитки
+MSG_EX_ITEM_234,Корона мастера
+MSG_EX_ITEM_235,Тиара ангела
+MSG_EX_ITEM_236,Печать доблести
+MSG_EX_ITEM_237,Знак чемпиона
+MSG_EX_ITEM_238,Слеза дракона
+MSG_EX_ITEM_239,Золотой песок
+MSG_EX_ITEM_240,Золотой молот
+MSG_EX_ITEM_241,Радужный самородок
+MSG_EX_ITEM_242,Священная жемчужина
+MSG_EX_ITEM_243,Знак рептита
+MSG_EX_ITEM_244,Путеводная жемчужина
+MSG_EX_ITEM_245,Древо-исполин
+MSG_EX_ITEM_246,Стальной слиток
+MSG_EX_ITEM_247,Прочные лианы
+MSG_EX_ITEM_248,Сытный обед
+MSG_EX_ITEM_249,По 2 капсулы каждого вида
+MSG_EX_ITEM_250,5 мегаэликсиров
+MSG_EX_ITEM_251,Ржавый клинок
+MSG_EX_ITEM_252,Осколок люмицита
+MSG_EX_ITEM_253,100 000 G
+MSG_EX_ITEM_254,3 лепестка
+MSG_EX_ITEM_255,3 клыка
+MSG_EX_ITEM_256,3 рога
+MSG_EX_ITEM_257,3 пера
