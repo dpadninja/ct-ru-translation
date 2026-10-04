@@ -6,7 +6,7 @@
 
 Unofficial fan translation of Chrono Trigger into Russian.
 
-**Credits.** Translation: Sergei. The translation was made with the help of Claude (Anthropic).
+**Credits.** Translation: dpadninja. The translation was made with the help of Claude (Anthropic).
 
 **License.** The translator's own contribution — the Russian text in `src/Localize/` and the changes to the images in `src/Localize/en/png/` — is licensed under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/). Full license text: https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
 
@@ -23,7 +23,7 @@ The mod is distributed free of charge. A legally purchased copy of Chrono Trigge
 
 Неофициальный фанатский перевод Chrono Trigger на русский язык.
 
-**Авторство.** Перевод: Sergei. Перевод выполнен с помощью Claude (Anthropic).
+**Авторство.** Перевод: dpadninja. Перевод выполнен с помощью Claude (Anthropic).
 
 **Лицензия.** Авторский вклад в этот перевод — русский текст в `src/Localize/` и изменения в картинках `src/Localize/en/png/` — распространяется по лицензии [Creative Commons «Атрибуция — Некоммерческое использование — На тех же условиях» 4.0 Международная (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ru). Полный текст лицензии: https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.ru
 
